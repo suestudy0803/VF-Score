@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "3835",
+    "cf_type": "random",
+    "vf_score": 0.621,
+    "cot_orig": "[/INST] 1. In the image, there are three objects: a pair of sunglasses, a collection of apple seeds, and a canoe. Each object is distinct and has a different shape and color.\n\n2. The sunglasses are a ",
+    "cot_cf": "[/INST] 1. In the image, there is a baby sitting at a table with a plate of food in front of him. The baby is smiling and appears to be enjoying the meal. The table is covered with a white tablecloth,"
+  },
+  {
+    "id": "3940",
+    "cf_type": "random",
+    "vf_score": 0.481,
+    "cot_orig": "[/INST] 1. In the image, there are three models of molecules, each labeled with a different name: acetaldehyde, oxygen, and chloroform. Each model consists of atoms connected by lines, representing th",
+    "cot_cf": "[/INST] 1. In the image, there is a red fire hydrant with a large, glowing yellow sphere on top of it. The fire hydrant is situated on a surface that appears to be a mix of gravel and concrete. The ba"
+  },
+  {
+    "id": "1877",
+    "cf_type": "random",
+    "vf_score": 0.4279,
+    "cot_orig": "[/INST] 1. In the image, there are two overlapping circles, one green and one gray. Inside the green circle, the letters \"HF\" are written in black. The gray circle contains the letters \"H\" and \"F\" in ",
+    "cot_cf": "[/INST] 1. In the image, there is a hand holding a partially eaten doughnut. The doughnut has a bite taken out of it, revealing the inside. The doughnut appears to be a glazed or frosted doughnut, pos"
+  },
+  {
+    "id": "3512",
+    "cf_type": "random",
+    "vf_score": 0.3311,
+    "cot_orig": "[/INST] 1. The image is a map showing specific humidity levels in a certain area. The map uses a color scale to represent the humidity levels, with different colors corresponding to different humidity",
+    "cot_cf": "[/INST] 1. In the image, there is a large commercial airplane flying through a partly cloudy sky. The airplane is a four-engine jet, and the word \"AIRFRANCE\" is visible on the side of the aircraft.\n\n2"
+  },
+  {
+    "id": "3877",
+    "cf_type": "random",
+    "vf_score": 0.2376,
+    "cot_orig": "[/INST] 1. The image shows a single, unlit white candle. The candle appears to be made of a smooth, waxy material that is typically used for candles.\n\n2. To determine if candle wax is a mineral, we ne",
+    "cot_cf": "[/INST] 1. The image shows a person walking a dog on a path in a park-like setting. The park is lush with greenery, and there is a large, ornate building in the background. The sky is overcast, sugges"
+  },
+  {
+    "id": "499",
+    "cf_type": "random",
+    "vf_score": 0.4931,
+    "cot_orig": "[/INST] 1. The image shows two magnets with a \"U\" shape, colored in blue and green. Each magnet has a \"N\" on it, which is a symbol for the north pole of a magnet.\n\n2. Magnets with the same polarity (n",
+    "cot_cf": "[/INST] 1. In the image, there is a flock of birds flying in a V formation against a clear blue sky. Below the birds, there is a lighthouse on the coastline.\n\n2. The birds are attracted to the lightho"
+  },
+  {
+    "id": "1087",
+    "cf_type": "random",
+    "vf_score": 0.6526,
+    "cot_orig": "[/INST] 1. In the image, there is a map of the world with a focus on the Pacific Ocean. The map is not to scale and appears to be a simplified representation rather than a detailed geographic map.\n\n2.",
+    "cot_cf": "[/INST] 1. In the image, there is a toaster oven with a glass door, through which you can see a reflection of the room. Inside the toaster oven, there is a bowl of what appears to be soup or stew. In "
+  },
+  {
+    "id": "3566",
+    "cf_type": "random",
+    "vf_score": 0.3613,
+    "cot_orig": "[/INST] 1. In the image, there are two magnets with the letters \"N\" and \"S\" on them, and they are placed on a background with stripes of blue, white, and pink. The magnets are positioned in such a way",
+    "cot_cf": "[/INST] 1. In the image, there is a plate of food that includes a piece of meat and some vegetables. The plate is placed on a table, and there is a knife next to the plate.\n\n2. The image does not prov"
+  },
+  {
+    "id": "1594",
+    "cf_type": "random",
+    "vf_score": 0.4271,
+    "cot_orig": "[/INST] 1. In the image, there is a large fish with a prominent mouth and teeth. The fish is swimming in a body of water, which appears to be a coral reef.\n\n2. The fish's mouth is adapted for tearing ",
+    "cot_cf": "[/INST] 1. In the image, there is a beach scene with a person flying a kite. The kite is in the sky, and the person is standing on the sandy beach. The beach is bordered by a body of water, and there "
+  },
+  {
+    "id": "837",
+    "cf_type": "random",
+    "vf_score": 0.4902,
+    "cot_orig": "[/INST] 1. In the image, there is a bird with a large wingspan, a strong beak, and sharp talons. It is perched on a rocky outcropping, and the background is blurred, which suggests that the focus is o",
+    "cot_cf": "[/INST] 1. The image is a collage of four photos featuring a teddy bear with various decorations and effects. The teddy bear is the central object in each photo.\n\n2. The teddy bear is not a living org"
+  },
+  {
+    "id": "4184",
+    "cf_type": "random",
+    "vf_score": 0.2355,
+    "cot_orig": "[/INST] 1. The image shows a bar chart representing average precipitation in Cairo, Egypt, for each month of the year. The x-axis lists the months of the year, and the y-axis represents the precipitat",
+    "cot_cf": "[/INST] 1. In the image, there is a parking meter on a sidewalk in front of a building. The parking meter is black and has a digital display. There is also a green van parked on the street next to the"
+  },
+  {
+    "id": "182",
+    "cf_type": "random",
+    "vf_score": 0.3462,
+    "cot_orig": "[/INST] 1. The image shows a map of the United States with the state of Ohio highlighted in green. The map is stylized and does not include any text or labels.\n\n2. To determine the capital of Ohio, we",
+    "cot_cf": "[/INST] 1. In the image, I see a highway with multiple vehicles on it. There are several road signs, including a large green sign with white lettering that reads \"BAYER ST.\" and a smaller green sign w"
+  },
+  {
+    "id": "1349",
+    "cf_type": "random",
+    "vf_score": 0.4603,
+    "cot_orig": "[/INST] 1. The image is a table with two columns: \"Date\" and \"Event.\" The events listed are historical events related to the Akkadian Empire and its successors.\n\n2. To answer the question, we need to ",
+    "cot_cf": "[/INST] 1. In the image, there is a woman standing next to a cake that is shaped like a dog. The woman is wearing an apron and is standing in a kitchen environment, with various kitchen utensils and i"
+  },
+  {
+    "id": "703",
+    "cf_type": "random",
+    "vf_score": 0.878,
+    "cot_orig": "[/INST] 1. In the image, there is a graphic of a necktie with a red and blue striped pattern. The tie is depicted in a way that it appears to be tied in a Windsor knot.\n\n2. The object in the image is ",
+    "cot_cf": "[/INST] 1. In the image, there is a desk with two computer monitors on it. The monitors are turned on and displaying what appears to be a white screen. The desk also has a keyboard and a mouse in fron"
+  },
+  {
+    "id": "1541",
+    "cf_type": "random",
+    "vf_score": 0.8317,
+    "cot_orig": "[/INST] 1. In the image, there is a pile of wooden sticks or toothpicks, and a single metal object, which appears to be a nail, is sticking out of the pile.\n\n2. The metal object is the only one of its",
+    "cot_cf": "[/INST] 1. In the image, there is a stop sign on the left side of the road, a cloudy sky, and a field of tall grass. The sky is filled with dark clouds, suggesting that it might be a stormy day.\n\n2. T"
+  },
+  {
+    "id": "1164",
+    "cf_type": "random",
+    "vf_score": 0.1894,
+    "cot_orig": "[/INST] 1. In the image, there are two magnets with the letters \"S\" and \"N\" on them. The magnets are placed on a background with alternating stripes of blue and pink.\n\n2. The magnets are placed next t",
+    "cot_cf": "[/INST] 1. In the image, there are two magnets on a white background. One magnet is on the left side of the image, and the other magnet is on the right side of the image. Both magnets appear to be of "
+  },
+  {
+    "id": "198",
+    "cf_type": "random",
+    "vf_score": 0.2882,
+    "cot_orig": "[/INST] 1. The image shows two beakers, each containing a solution with pink particles. The beaker on the left is labeled \"Solution A\" and the beaker on the right is labeled \"Solution B.\"\n\n2. To deter",
+    "cot_cf": "[/INST] 1. In the image, there is a person surfing on a wave in the ocean. The surfer is wearing a blue shirt and is riding a white surfboard. The wave appears to be breaking to the right of the surfe"
+  },
+  {
+    "id": "3321",
+    "cf_type": "random",
+    "vf_score": 0.3226,
+    "cot_orig": "[/INST] 1. In the image, there are three fossils depicted: a shell, a leaf, and a bug. The shell is at the bottom, the leaf is in the middle, and the bug is at the top.\n\n2. To determine which fossil i",
+    "cot_cf": "[/INST] 1. In the image, there is a vase with a bouquet of flowers on a table, and the vase is placed in front of a window. The flowers appear to be red and green, and there are also some fruits, poss"
+  },
+  {
+    "id": "2452",
+    "cf_type": "random",
+    "vf_score": 0.457,
+    "cot_orig": "[/INST] 1. The image shows a stylized map of the United States with the state of California highlighted in green. The map is not to scale and does not include any geographic features or cities.\n\n2. Th",
+    "cot_cf": "[/INST] 1. In the image, I see a plate with a partially eaten piece of cake on it, accompanied by a cup of coffee and a knife. There is also a book on the table, and the table is set outdoors, possibl"
+  },
+  {
+    "id": "4141",
+    "cf_type": "random",
+    "vf_score": 0.5345,
+    "cot_orig": "[/INST] 1. In the image, I see a map of the United States with all the states colored in green. There is one state that is highlighted in a different color, which stands out from the rest.\n\n2. The hig",
+    "cot_cf": "[/INST] 1. In the image, there is a baseball player in the foreground who is in the process of swinging a bat. He is wearing a white uniform with a blue number on the back. In the background, there ar"
+  },
+  {
+    "id": "842",
+    "cf_type": "random",
+    "vf_score": 0.2992,
+    "cot_orig": "[/INST] 1. In the image, there are two magnets with the letters \"S\" and \"N\" on them, and they are placed on a background with alternating orange and blue stripes. The magnets are positioned in such a ",
+    "cot_cf": "[/INST] 1. In the image, there are several magnets placed on a surface, possibly a table or a counter. The magnets are of different sizes and appear to be made of metal, which is a common material for"
+  },
+  {
+    "id": "73",
+    "cf_type": "random",
+    "vf_score": 0.7664,
+    "cot_orig": "[/INST] 1. In the image, there is a red cardinal perched on a bird feeder. The bird feeder is filled with birdseed, and the cardinal is looking down at the birdseed.\n\n2. The cardinal is likely attract",
+    "cot_cf": "[/INST] 1. In the image, there is a plate of cake with chocolate sauce drizzled on top. The cake appears to be a chocolate cake, and there is a spoon on the plate. The plate is placed on a table, and "
+  },
+  {
+    "id": "2963",
+    "cf_type": "random",
+    "vf_score": 0.6534,
+    "cot_orig": "[/INST] 1. In the image, there is a large animal with a furry body and long, sharp claws. The animal is surrounded by green foliage, which suggests that it is in a natural, wild environment.\n\n2. The a",
+    "cot_cf": "[/INST] 1. In the image, there is a man riding a skateboard down a sidewalk. He is wearing a gray t-shirt and a red baseball cap. The man is also holding a bag in his hand.\n2. The man is not interacti"
+  },
+  {
+    "id": "316",
+    "cf_type": "random",
+    "vf_score": 0.3352,
+    "cot_orig": "[/INST] 1. In the image, I see a map of the United States with a green rectangle superimposed on the state of Colorado. The rectangle is not labeled with the name of the capital city.\n\n2. The rectangl",
+    "cot_cf": "[/INST] 1. In the image, there is a man sitting in a chair in a room with a fireplace. He is wearing a paper crown and appears to be looking at a book or a piece of paper. The room has a cozy and live"
+  },
+  {
+    "id": "2161",
+    "cf_type": "random",
+    "vf_score": 0.2488,
+    "cot_orig": "[/INST] 1. The image shows a scenic landscape with a valley between two hills or mountains. The valley is filled with lush greenery, including trees and shrubs. The terrain appears to be a mix of open",
+    "cot_cf": "[/INST] 1. In the image, there are several airplanes flying in formation against a backdrop of a cloudy sky and a mountainous landscape. The planes appear to be small, possibly single-engine aircraft."
+  },
+  {
+    "id": "1476",
+    "cf_type": "random",
+    "vf_score": 0.3585,
+    "cot_orig": "[/INST] 1. In the image, there is a turtle with a shell that is predominantly yellow with some brown markings. The turtle appears to be swimming in a body of water, as indicated by the ripples around ",
+    "cot_cf": "[/INST] 1. In the image, there is a laptop computer sitting on a wooden surface. The laptop is open, and the screen is displaying some text and graphics. The keyboard of the laptop is visible, and it "
+  },
+  {
+    "id": "2539",
+    "cf_type": "random",
+    "vf_score": 0.2361,
+    "cot_orig": "[/INST] 1. In the image, there is a gray heron standing on a rock or concrete surface. The heron is a large wading bird with a long neck and legs, and it has a grayish-blue plumage.\n\n2. To answer the ",
+    "cot_cf": "[/INST] 1. In the image, there is a train traveling on the tracks. The train is long and appears to be a passenger train. The tracks are surrounded by a natural environment with trees and bushes.\n\n2. "
+  },
+  {
+    "id": "589",
+    "cf_type": "random",
+    "vf_score": 0.6431,
+    "cot_orig": "[/INST] 1. In the image, there is a snake with a distinctive pattern of red and black scales. The snake is coiled and appears to be resting on a bed of dry leaves and twigs.\n\n2. The snake's pattern an",
+    "cot_cf": "[/INST] 1. In the image, there is a baseball game in progress. A batter is in the middle of a swing, and the catcher is positioned behind the batter, ready to catch the ball. The umpire is also presen"
+  },
+  {
+    "id": "1855",
+    "cf_type": "random",
+    "vf_score": 0.6833,
+    "cot_orig": "[/INST] 1. In the image, there are three objects: a tennis ball, a tennis racket, and a pair of boots. Each object is depicted in a different color: the tennis ball is blue, the tennis racket is green",
+    "cot_cf": "[/INST] 1. In the image, there is a vase with a red rose, a bowl filled with apples, and a window. The vase and the bowl are placed on a windowsill.\n\n2. The vase and the bowl are both containers that "
+  },
+  {
+    "id": "2031",
+    "cf_type": "random",
+    "vf_score": 0.2631,
+    "cot_orig": "[/INST] 1. The image shows two beakers, each containing a solution with green particles. The beaker on the left is labeled \"Solution A\" and the beaker on the right is labeled \"Solution B.\"\n\n2. To dete",
+    "cot_cf": "[/INST] 1. In the image, there is a man sitting in a chair in a room with a fireplace. He is wearing a paper crown and appears to be looking at a book or a piece of paper. The room has a cozy atmosphe"
+  },
+  {
+    "id": "3842",
+    "cf_type": "random",
+    "vf_score": 0.5126,
+    "cot_orig": "[/INST] 1. In the image, I see a world map with a focus on the African continent. The African continent is highlighted in green, making it stand out from the rest of the world.\n\n2. The image is a styl",
+    "cot_cf": "[/INST] 1. In the image, I see a bathroom with a white sink and a white towel hanging on a rack. There is a shower curtain partially drawn back, revealing a shower area. The bathroom appears to be in "
+  },
+  {
+    "id": "3860",
+    "cf_type": "random",
+    "vf_score": 0.2336,
+    "cot_orig": "[/INST] 1. In the image, we see a majestic snow-capped mountain, Mount Rainier, towering over a lush green valley filled with trees. The mountain is surrounded by a clear blue sky, and the valley appe",
+    "cot_cf": "[/INST] 1. In the image, there is a train traveling on tracks with a backdrop of trees and power lines. The train appears to be a passenger train, and the tracks are set in a rural or semi-rural area."
+  },
+  {
+    "id": "45",
+    "cf_type": "random",
+    "vf_score": 0.8343,
+    "cot_orig": "[/INST] 1. In the image, there is a hand holding a partially eaten ice cream cone. The ice cream appears to be melting, as indicated by the dripping texture.\n\n2. The object in the image is an ice crea",
+    "cot_cf": "[/INST] 1. In the image, there is a black dog standing on its hind legs on a bed. The dog appears to be reaching for something on a nightstand next to the bed. The nightstand has various items on it, "
+  },
+  {
+    "id": "852",
+    "cf_type": "random",
+    "vf_score": 0.2268,
+    "cot_orig": "[/INST] 1. The image is a table that lists the planets of our solar system along with their volume in cubic kilometers and their primary composition. The table includes the following planets: Mercury,",
+    "cot_cf": "[/INST] 1. In the image, there is a person performing a skateboard trick in the air. The skateboarder is wearing a white shirt and blue jeans. The background shows a clear blue sky and a large buildin"
+  },
+  {
+    "id": "2094",
+    "cf_type": "random",
+    "vf_score": 0.651,
+    "cot_orig": "[/INST] 1. The image shows a map of a region with a prominent peninsula or landmass extending into a body of water. The landmass is colored in green, indicating it is a part of a country or colony. Th",
+    "cot_cf": "[/INST] 1. In the image, there is a vintage laptop with a visible screen. The screen displays the name \"Prince Persia\" in a stylized font. The laptop is placed on a wooden surface, and there are cable"
+  },
+  {
+    "id": "719",
+    "cf_type": "random",
+    "vf_score": 0.5799,
+    "cot_orig": "[/INST] 1. In the image, there is a large body of water with a significant amount of smoke or steam rising from the surface. The smoke is dense and appears to be billowing upwards, suggesting a powerf",
+    "cot_cf": "[/INST] 1. In the image, I see two people in a room playing a video game. They are standing in front of a television, which is displaying the video game they are playing. The room has a casual, lived-"
+  },
+  {
+    "id": "803",
+    "cf_type": "random",
+    "vf_score": 0.7035,
+    "cot_orig": "[/INST] 1. In the image, there are three models of molecules, each labeled with a different name: fluoroethanol, carbon tetrachloride, and nitrogen. Each model consists of atoms connected by lines, re",
+    "cot_cf": "[/INST] 1. In the image, there are several individuals performing skateboard tricks on a skateboard ramp. The ramp is covered in graffiti, and there is a clear blue sky in the background. The skateboa"
+  },
+  {
+    "id": "3806",
+    "cf_type": "random",
+    "vf_score": 0.2701,
+    "cot_orig": "[/INST] 1. The image is a table with two columns. The left column lists the names of planets in our solar system, and the right column lists their volumes in cubic kilometers.\n\n2. The table includes t",
+    "cot_cf": "[/INST] 1. In the image, there are two men playing a game of frisbee in a grassy field. One man is in the process of kicking the frisbee, while the other man is attempting to block the kick. Both men "
+  },
+  {
+    "id": "664",
+    "cf_type": "random",
+    "vf_score": 0.3607,
+    "cot_orig": "[/INST] 1. The image is a bar chart that shows the average monthly precipitation in Nairobi, Kenya. The x-axis lists the months of the year, and the y-axis represents the precipitation in millimeters.",
+    "cot_cf": "[/INST] 1. In the image, there are two laptops placed on a table or desk. The laptops are open and displaying content on their screens. The room appears to be a living or working space, as suggested b"
+  },
+  {
+    "id": "148",
+    "cf_type": "random",
+    "vf_score": 0.4029,
+    "cot_orig": "[/INST] 1. The image shows two circular magnets with alternating colors, one blue and one orange. Each magnet has a letter \"S\" on it.\n2. The magnets are placed next to each other, with the \"S\" on the ",
+    "cot_cf": "[/INST] 1. The image shows a large airplane inside a hangar. The airplane is a commercial jet, and it is parked on the tarmac. There are no visible magnets in the image.\n\n2. Since there are no visible"
+  },
+  {
+    "id": "2388",
+    "cf_type": "random",
+    "vf_score": 0.4268,
+    "cot_orig": "[/INST] 1. In the image, I see a map of the United States with the state of Mississippi highlighted in green. The map is stylized and does not include any text or labels.\n\n2. To determine the capital ",
+    "cot_cf": "[/INST] 1. In the image, there is a dog on a wooden deck. The dog appears to be a hound, possibly a beagle, with a brown and white coat. The dog is holding a frisbee in its mouth.\n\n2. The dog is engag"
+  },
+  {
+    "id": "1294",
+    "cf_type": "random",
+    "vf_score": 0.2096,
+    "cot_orig": "[/INST] 1. In the image, there is a depiction of a trombone with a note being played. The note is represented by a swirl of air, which is a visual representation of the sound produced by the trombone.",
+    "cot_cf": "[/INST] 1. In the image, there is a loaf of bread on a plate and a cake on a plate. The bread appears to be sliced, and the cake has a dusting of powdered sugar on top.\n\n2. The image does not provide "
+  },
+  {
+    "id": "407",
+    "cf_type": "random",
+    "vf_score": 0.4634,
+    "cot_orig": "[/INST] 1. The image shows a map of a region with a prominent coastal area. The map is stylized with a focus on the coastline and the land bordering the ocean. The color scheme is simple, with the lan",
+    "cot_cf": "[/INST] 1. In the image, there are two people in the ocean. One person is standing in the water, and the other person is lying on their stomach, riding a wave. They both appear to be enjoying themselv"
+  },
+  {
+    "id": "1577",
+    "cf_type": "random",
+    "vf_score": 0.6341,
+    "cot_orig": "[/INST] 1. The image shows a blue bucket with a handle. The bucket appears to be made of a smooth, shiny material.\n\n2. The shiny surface of the bucket suggests that it is made of a material that refle",
+    "cot_cf": "[/INST] 1. In the image, there are two sheep standing in a grassy field. The sheep are facing the camera, and they appear to be looking directly at it. The field is enclosed by a red fence, which is m"
+  },
+  {
+    "id": "1316",
+    "cf_type": "random",
+    "vf_score": 0.3757,
+    "cot_orig": "[/INST] 1. The image shows a stylized map of the United States with the state of Iowa highlighted in green. The map is not to scale and does not include any geographic features or cities.\n\n2. The high",
+    "cot_cf": "[/INST] 1. In the image, there is a train on a track, and the train is passing by a brick wall. The train has a yellow front and a white body with a yellow stripe. The train is also passing by a build"
+  },
+  {
+    "id": "1434",
+    "cf_type": "random",
+    "vf_score": 0.574,
+    "cot_orig": "[/INST] 1. In the image, there is a large, dark-colored fish with a long, pointed snout and a pair of fins on its back. The fish is swimming in a body of water, which appears to be a tropical sea or o",
+    "cot_cf": "[/INST] 1. In the image, there are two young girls standing in a room. The room appears to be a bedroom, as indicated by the presence of a bed and a window with curtains. The girls are looking out of "
+  },
+  {
+    "id": "403",
+    "cf_type": "random",
+    "vf_score": 0.7698,
+    "cot_orig": "[/INST] 1. In the image, there are three objects: a glass, a flask, and a water glass. Each object is depicted in a stylized manner, with the glass and flask being shown in a three-dimensional perspec",
+    "cot_cf": "[/INST] 1. In the image, there is a cat sitting on a table, a red bowl, and a printer. The cat is wearing a purple collar.\n\n2. The cat, the red bowl, and the printer are all objects that are found on "
+  },
+  {
+    "id": "608",
+    "cf_type": "random",
+    "vf_score": 0.4644,
+    "cot_orig": "[/INST] 1. The image shows a cartoon-style illustration of a dinosaur. It is a four-legged animal with a long neck and tail, and it appears to be walking or running. The dinosaur has a body covered in",
+    "cot_cf": "[/INST] 1. In the image, there is a ripe banana that has been peeled and is being held in a blue bowl. The banana is curved and has a yellow skin with visible brown spots, indicating that it is ripe. "
+  },
+  {
+    "id": "2501",
+    "cf_type": "random",
+    "vf_score": 0.7982,
+    "cot_orig": "[/INST] 1. In the image, there are three objects: a wave, a cracker, and a pile of potato chips. The wave is depicted in a stylized manner, with a blue ocean and a wave cresting. The cracker is a simp",
+    "cot_cf": "[/INST] 1. In the image, there is a wire basket containing various items. The items include a pair of black sandals, a pair of white shoes, and a small brown dog.\n\n2. The sandals and the shoes are bot"
+  },
+  {
+    "id": "1608",
+    "cf_type": "random",
+    "vf_score": 0.2111,
+    "cot_orig": "[/INST] 1. In the image, there is a large bird with a long beak and a long neck, wading in a body of water. The bird has a white body with some grey markings, and its beak is long and pointed.\n\n2. The",
+    "cot_cf": "[/INST] 1. In the image, there is a large green truck driving down a city street. The truck is in the foreground, and the background features tall buildings, suggesting an urban environment.\n\n2. The s"
+  },
+  {
+    "id": "2960",
+    "cf_type": "random",
+    "vf_score": 0.3118,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets. The magnets are labeled \"Pair 1\" and \"Pair 2.\" Each pair has one magnet labeled \"N\" and the other labeled ",
+    "cot_cf": "[/INST] 1. In the image, there are several pairs of magnets placed on the tables. The magnets are arranged in such a way that they are facing each other, creating a magnetic force between them.\n\n2. Th"
+  },
+  {
+    "id": "3009",
+    "cf_type": "random",
+    "vf_score": 0.3704,
+    "cot_orig": "[/INST] 1. In the image, there are two magnets with the letters \"N\" and \"S\" on them, and they are placed on a background with alternating stripes of green and purple. The magnets are positioned in suc",
+    "cot_cf": "[/INST] 1. In the image, there are two magnets on a green surface. One magnet is closer to the camera, and the other magnet is further away. The magnets appear to be made of metal, which is typically "
+  },
+  {
+    "id": "2575",
+    "cf_type": "random",
+    "vf_score": 0.339,
+    "cot_orig": "[/INST] 1. The image shows two jars, labeled \"Sample A\" and \"Sample B,\" each containing a number of particles that are either blue or green. The particles are depicted as being in motion, suggesting t",
+    "cot_cf": "[/INST] 1. In the image, there is a living room with various pieces of furniture, including a couch, a table, a piano, and a potted plant. The room has a warm and inviting atmosphere, with a wooden fl"
+  },
+  {
+    "id": "3534",
+    "cf_type": "random",
+    "vf_score": 0.5104,
+    "cot_orig": "[/INST] 1. In the image, there is a diagram illustrating the process of plant reproduction. The diagram shows a plant with a seed capsule, a spore capsule, and a spore starting to grow. The plant is d",
+    "cot_cf": "[/INST] 1. In the image, there is a stop sign on the side of a road, and the view is taken from the perspective of a vehicle, likely from the driver's side window. The road is lined with trees, and th"
+  },
+  {
+    "id": "1220",
+    "cf_type": "random",
+    "vf_score": 0.6637,
+    "cot_orig": "[/INST] 1. In the image, there is a map of the United States with a green color scheme. One state is highlighted in a different color, which is not green.\n\n2. The highlighted state is not green, which",
+    "cot_cf": "[/INST] 1. In the image, there are two cows grazing in a grassy field. The cow in the foreground is a white cow with brown spots, and the cow in the background is a brown and white cow. The field is l"
+  },
+  {
+    "id": "3859",
+    "cf_type": "random",
+    "vf_score": 0.496,
+    "cot_orig": "[/INST] 1. In the image, there are two magnets with the letters \"S\" and \"N\" on them. The magnets are placed on an orange background.\n\n2. The magnets are labeled \"N\" and \"S,\" which stand for North and ",
+    "cot_cf": "[/INST] 1. In the image, there is a train with a yellow and black striped front, and several people standing on a platform next to the train. The train is on the tracks, and the platform is adjacent t"
+  },
+  {
+    "id": "3283",
+    "cf_type": "random",
+    "vf_score": 0.5529,
+    "cot_orig": "[/INST] 1. The image shows a hat with a textured pattern on it. The pattern appears to be a series of lines or stitches that create a grid-like design. The hat is black in color.\n\n2. The hat's materia",
+    "cot_cf": "[/INST] 1. The image shows a variety of fresh vegetables, including carrots, broccoli, and leafy greens. The vegetables are displayed in a way that suggests they are for sale, possibly at a market or "
+  },
+  {
+    "id": "612",
+    "cf_type": "random",
+    "vf_score": 0.3792,
+    "cot_orig": "[/INST] 1. The image shows three fossils of insects, each depicted in a different layer of sedimentary rock. The fossils are of a beetle, a butterfly, and a leaf.\n\n2. To determine which fossil is olde",
+    "cot_cf": "[/INST] 1. In the image, there is a black cat standing on a bed next to a nightstand. The cat appears to be reaching for a cup on the nightstand. The nightstand has various items on it, including a bo"
+  },
+  {
+    "id": "3599",
+    "cf_type": "random",
+    "vf_score": 0.2604,
+    "cot_orig": "[/INST] 1. In the image, there is a cartoon depiction of a hippopotamus. The hippo is shown in a stylized manner, with exaggerated features such as large eyes and a big smile. It is colored in shades ",
+    "cot_cf": "[/INST] 1. In the image, there is a wooden bench situated in a park-like setting with trees and grass in the background. The bench is empty and appears to be made of wood.\n\n2. A stuffed hippo is not v"
+  },
+  {
+    "id": "3967",
+    "cf_type": "random",
+    "vf_score": 0.4325,
+    "cot_orig": "[/INST] 1. The image shows two magnets with the letters \"N\" and \"S\" on them, placed next to each other. The magnets are colored in shades of green and purple.\n\n2. Magnets are attracted to each other i",
+    "cot_cf": "[/INST] 1. In the image, there are two people in a small boat on a body of water. The boat appears to be a traditional, possibly wooden, design, and the water is calm. The people are dressed in clothi"
+  },
+  {
+    "id": "2646",
+    "cf_type": "random",
+    "vf_score": 0.5188,
+    "cot_orig": "[/INST] 1. In the image, there is a large, brown, spotted amphibian with a prominent head and a wide mouth. The amphibian is resting on a grassy surface with some green plants around it.\n\n2. The amphi",
+    "cot_cf": "[/INST] 1. In the image, there is a person taking a selfie in a mirror, and the reflection shows a person with their arm raised. Below the mirror, there is a small, dark-colored animal that appears to"
+  },
+  {
+    "id": "4225",
+    "cf_type": "random",
+    "vf_score": 0.4416,
+    "cot_orig": "[/INST] 1. In the image, there are two kangaroos. One kangaroo is standing upright on its hind legs, facing the camera, while the other kangaroo is standing on all fours, facing away from the camera. ",
+    "cot_cf": "[/INST] 1. In the image, there is a person sitting in a chair. The person is wearing a crown on their head. The room has a fireplace and a mirror on the wall. There is also a cup on a table in front o"
+  },
+  {
+    "id": "963",
+    "cf_type": "random",
+    "vf_score": 0.5268,
+    "cot_orig": "[/INST] 1. The image shows two flasks, each containing a solution with blue particles dispersed throughout. The flask on the left is labeled \"Solution A\" and the flask on the right is labeled \"Solutio",
+    "cot_cf": "[/INST] 1. In the image, there is a tennis player in the foreground who is actively playing tennis. The player is holding a tennis racket and appears to be in motion, possibly running or moving quickl"
+  },
+  {
+    "id": "2661",
+    "cf_type": "random",
+    "vf_score": 0.6153,
+    "cot_orig": "[/INST] 1. The image shows a map of a region with a prominent peninsula extending into a body of water. The peninsula is colored in green, and there is a large, green-colored area on the opposite side",
+    "cot_cf": "[/INST] 1. In the image, there is a large pile of bananas and a smaller pile of oranges. A person's hand is reaching into the bananas, and the person is holding a banana.\n\n2. The image shows a market "
+  },
+  {
+    "id": "1670",
+    "cf_type": "random",
+    "vf_score": 0.2385,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets of the same type (either both north or both south). The magnets are arranged in a loop, with the loops bein",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets. The magnets are placed on a surface, and they are facing each other.\n\n2. The magnets in each pair are attracted to each other due to their magn"
+  },
+  {
+    "id": "545",
+    "cf_type": "random",
+    "vf_score": 0.1291,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets of the same type (either both north or both south). The magnets are placed on a white background, and each ",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets. The magnets in each pair are facing each other, and they are positioned in such a way that they are attracting each other.\n\n2. The magnetic for"
+  },
+  {
+    "id": "2949",
+    "cf_type": "random",
+    "vf_score": 0.3347,
+    "cot_orig": "[/INST] 1. The image shows two lists of items that Sandeep and Tracy want. Sandeep's list includes a sandwich, oranges, broccoli, water, and winter. Tracy's list includes a hot dog, tomatoes, almonds,",
+    "cot_cf": "[/INST] 1. In the image, there is a kitchen with various appliances and items on the counter. There is a refrigerator, a microwave, a sink, and a dining table with chairs. On the counter, there are so"
+  },
+  {
+    "id": "3045",
+    "cf_type": "random",
+    "vf_score": 0.5894,
+    "cot_orig": "[/INST] 1. In the image, there are three models of molecules, each labeled with a different name: methane, bromomethane, and oxygen. Each model consists of a central atom surrounded by other atoms.\n\n2",
+    "cot_cf": "[/INST] 1. In the image, there is a woman sitting on a bed in a bedroom. The bed has a white comforter and multiple pillows. The room has a colorful mural on the wall behind the bed, and there are dec"
+  },
+  {
+    "id": "548",
+    "cf_type": "random",
+    "vf_score": 0.5124,
+    "cot_orig": "[/INST] 1. In the image, there are three objects: a metal bar, a set of building blocks, and a magnifying glass.\n\n2. The metal bar is a long, thin, and straight object, typically used for construction",
+    "cot_cf": "[/INST] 1. In the image, there are three objects on a black surface that appear to be related to cooking or food preparation. The objects are a pair of scissors, a pair of tongs, and a small, red, cir"
+  },
+  {
+    "id": "397",
+    "cf_type": "random",
+    "vf_score": 0.5986,
+    "cot_orig": "[/INST] 1. In the image, there is a fossil of a snake-like creature with a pattern of scales. The fossil is on a rock surface, and the snake-like creature appears to be coiled.\n\n2. The snake-like crea",
+    "cot_cf": "[/INST] 1. In the image, I see a living room with a television mounted on the wall. The television is turned on, displaying a cartoon. There is a large window with a view of a house and a yard. A wood"
+  },
+  {
+    "id": "3256",
+    "cf_type": "random",
+    "vf_score": 0.5358,
+    "cot_orig": "[/INST] 1. In the image, I see a street lamp with snow on it, indicating that it has been snowing recently. The street lamp is illuminated, and the sky is dark, suggesting that it is either nighttime ",
+    "cot_cf": "[/INST] 1. In the image, there are four women sitting in a room. They are all dressed in formal attire, with some of them wearing dresses. The room appears to be a formal setting, possibly a banquet h"
+  },
+  {
+    "id": "2687",
+    "cf_type": "random",
+    "vf_score": 0.3204,
+    "cot_orig": "[/INST] 1. In the image, I see a stylized map of the world with a focus on the continents. The map is not to scale and does not include the oceans in detail. The continents are colored in green, and t",
+    "cot_cf": "[/INST] 1. In the image, I see a room with a bed covered in various items, including clothes and books. There are two bookshelves filled with books, and a television is placed on a stand. The room app"
+  },
+  {
+    "id": "1106",
+    "cf_type": "random",
+    "vf_score": 0.7122,
+    "cot_orig": "[/INST] 1. In the image, there is a pineapple with a green top and a yellow body, which is a fruit. Next to the pineapple, there is a slice of pineapple that has been cut off.\n\n2. The pineapple is a f",
+    "cot_cf": "[/INST] 1. In the image, there is a laptop computer with its screen open and displaying a webpage. Next to the laptop, there is an open book. The book appears to be a textbook or a similar type of boo"
+  },
+  {
+    "id": "2624",
+    "cf_type": "random",
+    "vf_score": 0.3368,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each consisting of two magnets of equal size and strength. The magnets are arranged in a circular pattern, with one magnet in each pair facing ",
+    "cot_cf": "[/INST] 1. In the image, there is a table with a variety of cakes and pastries on it. There are two people standing near the table, and one of them is reaching for a piece of cake. The table is covere"
+  },
+  {
+    "id": "619",
+    "cf_type": "random",
+    "vf_score": 0.3032,
+    "cot_orig": "[/INST] 1. In the image, there are two rectangles, each containing a series of pink circles. The rectangles are separated by a dashed line, which represents a permeable membrane. The pink circles repr",
+    "cot_cf": "[/INST] 1. In the image, we see three individuals sitting on a bench. They are dressed in military-style uniforms, suggesting they may be cadets or members of a military organization. One of the indiv"
+  },
+  {
+    "id": "3981",
+    "cf_type": "random",
+    "vf_score": 0.3503,
+    "cot_orig": "[/INST] 1. In the image, there is a fossil of a Meiolania, which is a type of prehistoric marine reptile. The fossil is displayed in a museum setting, with a white background and a clear glass case. T",
+    "cot_cf": "[/INST] 1. In the image, there is a computer desk with various electronic devices on it. The desk has a laptop, a desktop computer with a monitor, a keyboard, and a mouse. There is also a lamp providi"
+  },
+  {
+    "id": "5",
+    "cf_type": "random",
+    "vf_score": 0.4069,
+    "cot_orig": "[/INST] 1. The image depicts a food web with various organisms, including a polar bear, an Arctic fox, a caribou, a barren-ground caribou, a grizzly bear, a brown bear, a bison, a bear sedge, a lichen",
+    "cot_cf": "[/INST] 1. The image shows a train station with multiple train cars parked on the tracks. The train cars are predominantly white with red stripes, and they appear to be in a covered or enclosed area, "
+  },
+  {
+    "id": "418",
+    "cf_type": "random",
+    "vf_score": 0.4835,
+    "cot_orig": "[/INST] 1. The image shows two circular magnets with the letters \"S\" and \"N\" on them. The magnets are placed side by side, and they appear to be of the same type, as they are both blue and have the sa",
+    "cot_cf": "[/INST] 1. In the image, there is a young boy sitting on a cart filled with various suitcases. The cart is on a platform, and there are windows and a bench in the background.\n\n2. The suitcases on the "
+  },
+  {
+    "id": "4072",
+    "cf_type": "random",
+    "vf_score": 0.1776,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets of the same type (either both north or both south). The magnets are arranged in a circular fashion, with th",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets. One pair is located near the top of the image, and the other pair is near the bottom. Both pairs of magnets are facing each other, with the mag"
+  },
+  {
+    "id": "1430",
+    "cf_type": "random",
+    "vf_score": 0.3595,
+    "cot_orig": "[/INST] 1. In the image, there is a large, brown, semi-aquatic mammal with a thick, waterproof coat of fur, a broad, flat tail, and a pair of sharp, curved claws. It is standing on rocks and appears t",
+    "cot_cf": "[/INST] 1. In the image, there is a person sitting down, wearing a suit and tie. The person is facing the camera, and the background is blurred, making it difficult to discern any specific details.\n\n2"
+  },
+  {
+    "id": "2822",
+    "cf_type": "random",
+    "vf_score": 0.3756,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets of the same type (either both north or both south). The magnets are placed on a white background, and there",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets floating on the water. The magnets are positioned in such a way that they are facing each other, with the north poles of the magnets facing each"
+  },
+  {
+    "id": "3820",
+    "cf_type": "random",
+    "vf_score": 0.4598,
+    "cot_orig": "[/INST] 1. The image shows a clothes hanger with a hook at the top. The hanger appears to be made of a light-colored material, possibly plastic or a similar synthetic material.\n\n2. The hanger is desig",
+    "cot_cf": "[/INST] 1. The image shows a baseball game in progress. There are players on the field, and the scene includes a pitcher, a batter, and other players in various positions. The field is well-maintained"
+  },
+  {
+    "id": "2418",
+    "cf_type": "random",
+    "vf_score": 0.7177,
+    "cot_orig": "[/INST] 1. In the image, there is a man wearing a blue hard hat and a black shirt, working on a solar panel installation on a rooftop. The man is kneeling on the roof and appears to be in the process ",
+    "cot_cf": "[/INST] 1. In the image, there is a group of people gathered around a buffet table, which is filled with various food items. The table is set up with plates, utensils, and serving dishes. The people a"
+  },
+  {
+    "id": "1376",
+    "cf_type": "random",
+    "vf_score": 0.4535,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets. The magnets are arranged in a way that they are facing each other, with the \"N\" and \"S\" poles of the magne",
+    "cot_cf": "[/INST] 1. In the image, there is a person riding a surfboard on a body of water, which appears to be a river or a lake. The person is wearing a black wetsuit and is in a crouched position, leaning fo"
+  },
+  {
+    "id": "1589",
+    "cf_type": "random",
+    "vf_score": 0.355,
+    "cot_orig": "[/INST] 1. In the image, we see a rocky shoreline at Little Corona Beach during what appears to be either sunrise or sunset, given the warm colors in the sky. The tide pools are filled with water, and",
+    "cot_cf": "[/INST] 1. In the image, there is a person performing a skateboard trick on a ramp, which appears to be a homemade ramp made of a colorful box and a skateboard. The ramp is situated in a backyard sett"
+  },
+  {
+    "id": "2959",
+    "cf_type": "random",
+    "vf_score": 0.6195,
+    "cot_orig": "[/INST] 1. The image shows a table with two rows, each with two columns. The top row has the title \"Pizza\" and the bottom row has the title \"Initial temperature (°C)\". The left column lists \"Pizza on ",
+    "cot_cf": "[/INST] 1. In the image, there are two horses in a grassy field. The horses appear to be grazing or resting. The field is lush and green, suggesting a healthy and fertile environment.\n\n2. To answer th"
+  },
+  {
+    "id": "1072",
+    "cf_type": "random",
+    "vf_score": 0.5487,
+    "cot_orig": "[/INST] 1. In the image, there is a white rabbit sitting on a snow-covered surface. The rabbit's fur is white, which helps it blend in with the snowy background, providing camouflage.\n\n2. The rabbit's",
+    "cot_cf": "[/INST] 1. In the image, there is a boat floating on a body of water, which appears to be a river or a canal. The boat has a traditional design with a pointed bow and a flat bottom, which is typical f"
+  },
+  {
+    "id": "1745",
+    "cf_type": "random",
+    "vf_score": 0.797,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets of the same type (either both north or both south). The magnets are placed on a white background, and there",
+    "cot_cf": "[/INST] 1. In the image, there is a person sitting on a toilet in a bathroom. The person is holding their arms up in the air. The bathroom has a white toilet, a sink, and a mirror. There are also seve"
+  },
+  {
+    "id": "454",
+    "cf_type": "random",
+    "vf_score": 0.3635,
+    "cot_orig": "[/INST] 1. In the image, there are two magnets with the letters \"S\" and \"N\" on them, and they are placed on a background with alternating blue and green stripes. The magnets are positioned in such a w",
+    "cot_cf": "[/INST] 1. In the image, there is a person standing on a sidewalk, and there are several benches in the background. The person appears to be wearing a yellow and black striped shirt. The sidewalk is m"
+  },
+  {
+    "id": "467",
+    "cf_type": "random",
+    "vf_score": 0.5251,
+    "cot_orig": "[/INST] 1. In the image, there is a bird standing on one leg. The bird has a long neck and a long beak. It is standing in a body of water, which appears to be a lake or a pond. The bird's legs are lon",
+    "cot_cf": "[/INST] 1. In the image, there is a young boy standing in front of a large orange umbrella. The boy is holding the umbrella with both hands. He is wearing a green shirt and khaki pants.\n\n2. The boy is"
+  },
+  {
+    "id": "1208",
+    "cf_type": "random",
+    "vf_score": 0.7096,
+    "cot_orig": "[/INST] 1. In the image, there are two rectangles with yellow circles representing solute particles. The rectangles are separated by a dashed line, which could represent a permeable membrane. The yell",
+    "cot_cf": "[/INST] 1. In the image, there is a man playing a guitar while standing in front of a mirror. He is holding the guitar and appears to be in the middle of a performance or demonstration. There are seve"
+  },
+  {
+    "id": "4205",
+    "cf_type": "random",
+    "vf_score": 0.5519,
+    "cot_orig": "[/INST] 1. The image shows a map of a region with a large body of water, which appears to be the Atlantic Ocean. There is a prominent landmass that is colored in green, indicating a particular area of",
+    "cot_cf": "[/INST] 1. In the image, we see two individuals standing on skis at the top of a snow-covered slope. They are wearing winter clothing and appear to be preparing to ski down the hill. The slope is part"
+  },
+  {
+    "id": "2652",
+    "cf_type": "random",
+    "vf_score": 0.349,
+    "cot_orig": "[/INST] 1. In the image, I see a dense forest with a variety of trees and vegetation. The trees are lush and green, indicating a healthy and thriving ecosystem. The forest appears to be a tropical rai",
+    "cot_cf": "[/INST] 1. In the image, there is a vase with red flowers on a table, and the vase is placed in front of a window. The flowers are in full bloom, and the vase is filled with water. There is also a tea"
+  },
+  {
+    "id": "1631",
+    "cf_type": "random",
+    "vf_score": 0.3156,
+    "cot_orig": "[/INST] 1. In the image, I see a map of the United States with a green color scheme. The state of Wyoming is highlighted in a darker shade of green, indicating that it is the focus of the map.\n\n2. The",
+    "cot_cf": "[/INST] 1. In the image, there is a young boy who appears to be looking at a smartphone. The boy is wearing a dark-colored t-shirt and has short hair. The background is plain and white, which suggests"
+  },
+  {
+    "id": "475",
+    "cf_type": "random",
+    "vf_score": 0.5382,
+    "cot_orig": "[/INST] 1. In the image, there is a woman named Rose sitting at a desk with a laptop in front of her. She is wearing glasses and appears to be focused on the screen. There are also several wind turbin",
+    "cot_cf": "[/INST] 1. In the image, there is a kitchen with a stove and an oven. On the stove, there is a pot with a lid, and on the oven, there is a blue container with a teddy bear inside. The kitchen also has"
+  },
+  {
+    "id": "557",
+    "cf_type": "random",
+    "vf_score": 0.3986,
+    "cot_orig": "[/INST] 1. In the image, I see a map of the United States with the state of Iowa highlighted in green. The map shows the state's borders and the location of its capital.\n\n2. To determine the capital o",
+    "cot_cf": "[/INST] 1. In the image, there is a man with a long white beard and a green tie. He is standing in a room with a high ceiling, and there are several other people in the background. The room appears to"
+  },
+  {
+    "id": "2945",
+    "cf_type": "random",
+    "vf_score": 0.2889,
+    "cot_orig": "[/INST] 1. The image shows two flasks, each containing a solution with blue particles dispersed throughout. The flask on the left is labeled \"Solution A\" and the flask on the right is labeled \"Solutio",
+    "cot_cf": "[/INST] 1. In the image, there are several suitcases displayed on shelves. The suitcases vary in size, color, and design. Some suitcases are red, while others are blue. The suitcases are arranged in a"
+  },
+  {
+    "id": "3648",
+    "cf_type": "random",
+    "vf_score": 0.2563,
+    "cot_orig": "[/INST] 1. In the image, there is a bird with a distinctive appearance. It has a large head, a prominent beak, and a body covered in a pattern of dark and light feathers. The bird's posture is upright",
+    "cot_cf": "[/INST] 1. In the image, there is a large kite that resembles a fish, with a long body and a tail, flying in the sky. The kite is quite prominent and appears to be the main focus of the scene. There a"
+  },
+  {
+    "id": "1039",
+    "cf_type": "random",
+    "vf_score": 0.3782,
+    "cot_orig": "[/INST] 1. In the image, there is a large, brown mammal with a long neck and a long tail. It is standing on all fours in a grassy area with green grass. The animal appears to be a kangaroo.\n\n2. The an",
+    "cot_cf": "[/INST] 1. In the image, there is a large, gray elephant standing on a dirt ground. The elephant is holding a large ball in its trunk. The elephant is positioned in front of a fence, and there are tre"
+  },
+  {
+    "id": "2235",
+    "cf_type": "random",
+    "vf_score": 0.3473,
+    "cot_orig": "[/INST] 1. In the image, there is a close-up of a turtle's head, showing its mouth open and its tongue visible. The turtle appears to be eating something, possibly a leafy plant.\n\n2. To answer the que",
+    "cot_cf": "[/INST] 1. The image shows a group of people in the ocean, enjoying themselves. They are standing in the water, some of them are closer to the camera, while others are further away. The water appears "
+  },
+  {
+    "id": "483",
+    "cf_type": "random",
+    "vf_score": 0.5187,
+    "cot_orig": "[/INST] 1. In the image, there is a black object with a hole in the center, and it appears to be a piece of machinery or equipment. There are three metal rods or poles in front of the black object, an",
+    "cot_cf": "[/INST] 1. In the image, there is a man walking on a sidewalk. He is holding an umbrella in his right hand. The man is wearing a backpack and appears to be in motion. There are other people in the bac"
+  },
+  {
+    "id": "4226",
+    "cf_type": "random",
+    "vf_score": 0.337,
+    "cot_orig": "[/INST] 1. In the image, there is a large island with a town built on it. The island is surrounded by water, and there are boats visible in the water. The sky is clear, suggesting a sunny day.\n\n2. Bas",
+    "cot_cf": "[/INST] 1. In the image, there are two people in the ocean, riding a wave. The water appears to be choppy, and the sky is overcast.\n\n2. The presence of waves suggests that the weather is likely windy,"
+  },
+  {
+    "id": "2725",
+    "cf_type": "random",
+    "vf_score": 0.6778,
+    "cot_orig": "[/INST] 1. In the image, there is a large bird with a prominent wingspan, and it appears to be perched on a branch or a pole. The bird has a dark plumage with a lighter underside, and it has a long, p",
+    "cot_cf": "[/INST] 1. In the image, there is a man sitting on a toilet in a bathroom. He is wearing a blue shirt and brown shorts. The bathroom appears to be a typical residential bathroom, with a sink and a mir"
+  },
+  {
+    "id": "1590",
+    "cf_type": "random",
+    "vf_score": 0.3432,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets of the same type (either both north or both south). The magnets are arranged in a circular fashion, with th",
+    "cot_cf": "[/INST] 1. In the image, there is a person standing in front of a red and white banner with the word \"COUNTRY\" on it. The person is wearing a black jacket and a beanie, and they are holding a pair of "
+  },
+  {
+    "id": "342",
+    "cf_type": "random",
+    "vf_score": 0.5036,
+    "cot_orig": "[/INST] 1. The image is a table that lists the volume of each planet in our solar system, along with their primary composition. The planets listed are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Ura",
+    "cot_cf": "[/INST] 1. In the image, there is a giraffe grazing on grass in a field. The giraffe is the main subject of the image.\n\n2. The statement provided is about the four smallest planets in our solar system"
+  },
+  {
+    "id": "3195",
+    "cf_type": "random",
+    "vf_score": 0.4161,
+    "cot_orig": "[/INST] 1. The image shows three layers of sediment with fossils embedded in them. From top to bottom, the layers are:\n   - A layer with a fossil of a leaf.\n   - A layer with a fossil of a beetle.\n   ",
+    "cot_cf": "[/INST] 1. In the image, there is a cat lying on a couch. The cat appears to be resting or sleeping. The couch has a patterned fabric, and there are various items in the background, including a framed"
+  },
+  {
+    "id": "42",
+    "cf_type": "random",
+    "vf_score": 0.6586,
+    "cot_orig": "[/INST] 1. In the image, there is a tray with multiple small pots, each containing soil and a small green plant. The plants appear to be seedlings, and they are all in the early stages of growth.\n\n2. ",
+    "cot_cf": "[/INST] 1. In the image, there is a man standing outdoors, wearing a black beanie and a dark jacket. He is looking at his cell phone, which is in his hand. The man appears to be focused on the screen "
+  },
+  {
+    "id": "1462",
+    "cf_type": "random",
+    "vf_score": 0.523,
+    "cot_orig": "[/INST] 1. In the image, there are two rectangles, each containing a series of purple circles. The circles are arranged in a pattern that suggests a representation of solute particles. The rectangles ",
+    "cot_cf": "[/INST] 1. In the image, there is a large metallic refrigerator standing in a kitchen. The refrigerator is a double-door model, which suggests that it has a separate freezer compartment. The kitchen h"
+  },
+  {
+    "id": "3852",
+    "cf_type": "random",
+    "vf_score": 0.4041,
+    "cot_orig": "[/INST] 1. The image shows a stylized representation of an icicle, which is a frozen water droplet hanging from a surface.\n\n2. An icicle is formed when water droplets freeze and then continue to grow ",
+    "cot_cf": "[/INST] 1. In the image, there is a blurred red bus driving down a street at night. The street is illuminated by the headlights of the bus, and there is a yellow line painted on the road. On the sidew"
+  },
+  {
+    "id": "3743",
+    "cf_type": "random",
+    "vf_score": 0.4981,
+    "cot_orig": "[/INST] 1. The image shows a stylized map of a region, with the landmasses colored in green and the water in blue. The map is not to scale and does not include any specific cities or geographic featur",
+    "cot_cf": "[/INST] 1. In the image, there is a sandy area with a small, sand-colored structure that resembles a house, complete with a roof and a door. Next to the house, there is a red fire hydrant. The sandy a"
+  },
+  {
+    "id": "443",
+    "cf_type": "random",
+    "vf_score": 0.6041,
+    "cot_orig": "[/INST] 1. In the image, there are two columns with temperature values. The first column lists the initial temperature, and the second column lists the final temperature. The temperatures are given in",
+    "cot_cf": "[/INST] 1. In the image, there is a woman dressed in a green dress, possibly a historical or renaissance costume, standing in a field with a group of people. There are also individuals in costumes tha"
+  },
+  {
+    "id": "738",
+    "cf_type": "random",
+    "vf_score": 0.321,
+    "cot_orig": "[/INST] 1. In the image, there are two women, Jennifer and Scarlett, who appear to be scientists or researchers. They are standing in a field with a small concrete structure in front of them. Jennifer",
+    "cot_cf": "[/INST] 1. In the image, there is a young girl standing on a bed with a piece of paper in her hand. She is wearing a colorful dress and appears to be in a playful or excited mood. The bed is covered w"
+  },
+  {
+    "id": "211",
+    "cf_type": "random",
+    "vf_score": 0.4467,
+    "cot_orig": "[/INST] 1. The image shows two flasks, each containing a solution with green particles dispersed throughout. The flask on the left is labeled \"Solution A\" and the one on the right is labeled \"Solution",
+    "cot_cf": "[/INST] 1. In the image, there is a plate of food that includes a sandwich, a side of potato wedges, and a side of sliced cucumbers and tomatoes. The sandwich appears to be cut in half, revealing the "
+  },
+  {
+    "id": "1351",
+    "cf_type": "random",
+    "vf_score": 0.3734,
+    "cot_orig": "[/INST] 1. The image shows two circular magnets with the letters \"S\" and \"N\" on them. The magnets are placed next to each other, and they appear to be of the same type, as they are both orange and hav",
+    "cot_cf": "[/INST] 1. In the image, there is a room with various items, including a television, a couch, a chair, and some boxes. There are also some magnets visible in the room.\n\n2. To determine whether the mag"
+  },
+  {
+    "id": "1681",
+    "cf_type": "random",
+    "vf_score": 0.8708,
+    "cot_orig": "[/INST] 1. The image shows a cylindrical object with a tapered end, resembling a tube or a pipe. It appears to be made of a material with a smooth, possibly metallic, surface.\n\n2. The object's shape a",
+    "cot_cf": "[/INST] 1. In the image, there is a red double-decker bus driving down a snowy street. The bus has a destination sign that reads \"St. James's Park & Ride.\" The street is lined with buildings, and the "
+  },
+  {
+    "id": "2360",
+    "cf_type": "random",
+    "vf_score": 0.4198,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets of the same type (either both north or both south). The magnets are placed on a white background, and there",
+    "cot_cf": "[/INST] 1. In the image, there are two horses and two riders. The horses are brown and appear to be walking on a dirt path. The riders are wearing backpacks and hats, suggesting they are on a journey "
+  },
+  {
+    "id": "758",
+    "cf_type": "random",
+    "vf_score": 0.3106,
+    "cot_orig": "[/INST] 1. The image shows two flasks, each containing a solution with green particles. The flask on the left is labeled \"Solution A\" and the one on the right is labeled \"Solution B.\"\n\n2. To determine",
+    "cot_cf": "[/INST] 1. In the image, there is a person lying on a couch with three laptops on their lap. The person appears to be engaged with the laptops, possibly working or studying.\n\n2. To determine which sol"
+  },
+  {
+    "id": "3226",
+    "cf_type": "random",
+    "vf_score": 0.4225,
+    "cot_orig": "[/INST] 1. The image shows a red towel with a white stripe running horizontally across the middle. The towel is neatly folded and appears to be a standard household item.\n\n2. The towel is commonly use",
+    "cot_cf": "[/INST] 1. In the image, I see a bathroom with a large mirror above a sink. The sink has two faucets, and there are various items on the counter, including a soap dispenser, a toothbrush holder, and s"
+  },
+  {
+    "id": "582",
+    "cf_type": "random",
+    "vf_score": 0.6346,
+    "cot_orig": "[/INST] 1. The image is a line graph showing the average temperature in Detroit, Michigan, over the course of a year. The graph is labeled with the months of the year on the x-axis and the average tem",
+    "cot_cf": "[/INST] 1. In the image, there is a group of men in uniforms, including military personnel, gathered around a large cake. The cake is decorated with a ship and is placed on a table. The men are smilin"
+  },
+  {
+    "id": "2799",
+    "cf_type": "random",
+    "vf_score": 0.4115,
+    "cot_orig": "[/INST] 1. In the image, there are two magnets with the letters \"S\" and \"N\" on them, and they are placed on a blue background with an orange stripe. The magnets are positioned in such a way that they ",
+    "cot_cf": "[/INST] 1. In the image, there are two giraffes standing next to each other in a zoo enclosure. The giraffes are surrounded by a fence and there is a feeding trough in front of them. The giraffes appe"
+  },
+  {
+    "id": "3968",
+    "cf_type": "random",
+    "vf_score": 0.6681,
+    "cot_orig": "[/INST] 1. The image shows a table with two columns, \"Initial temperature\" and \"Final temperature,\" each with two rows. The first row lists \"Vial in the refrigerator\" and \"Vial on the counter,\" and th",
+    "cot_cf": "[/INST] 1. In the image, there is a plate of food that includes broccoli and what appears to be a meat dish. The broccoli is covered in a creamy sauce, and the meat dish is also covered in a sauce.\n\n2"
+  },
+  {
+    "id": "295",
+    "cf_type": "random",
+    "vf_score": 0.8876,
+    "cot_orig": "[/INST] 1. The image shows a white sea urchin with a purple and white bristle worm living on its surface. The bristle worm has a spiky appearance with long, thin setae.\n\n2. The bristle worm is a type ",
+    "cot_cf": "[/INST] 1. In the image, there is a cat sitting on a couch with a remote control next to it. The cat appears to be relaxed and comfortable.\n\n2. The cat's relationship with the remote control is one of"
+  },
+  {
+    "id": "2702",
+    "cf_type": "random",
+    "vf_score": 0.621,
+    "cot_orig": "[/INST] 1. The image is a stylized map of the world, showing the continents and oceans. The map is not to scale and does not show specific countries or regions.\n2. The map is labeled with two differen",
+    "cot_cf": "[/INST] 1. In the image, there is a suitcase with a cat lying on top of it. The suitcase is open and appears to be packed. The cat is gray and white and is curled up, possibly sleeping or resting.\n\n2."
+  },
+  {
+    "id": "1868",
+    "cf_type": "random",
+    "vf_score": 0.2623,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets of the same type (either both north or both south). The magnets are placed on a white background, and there",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets. The magnets are placed on the ground, and they are facing each other.\n\n2. The magnets are likely to be attracted to each other due to their mag"
+  },
+  {
+    "id": "2553",
+    "cf_type": "random",
+    "vf_score": 0.3633,
+    "cot_orig": "[/INST] 1. In the image, I see a desert landscape with a variety of cacti and other vegetation. The cacti are spread out across the landscape, with some in the foreground and others in the background.",
+    "cot_cf": "[/INST] 1. In the image, there are two pizzas on a wooden table. One pizza has a lot of toppings, including mushrooms, and the other pizza has a few toppings, including tomatoes and basil. There are a"
+  },
+  {
+    "id": "3066",
+    "cf_type": "random",
+    "vf_score": 0.3648,
+    "cot_orig": "[/INST] 1. In the image, I see a world map with a focus on the African continent. The African continent is highlighted in green, making it stand out from the rest of the world.\n\n2. The image is a styl",
+    "cot_cf": "[/INST] 1. In the image, I see a group of people playing frisbee on a beach. The beach appears to be wet, suggesting that the tide may have recently receded or that it is a rainy day. The people are s"
+  },
+  {
+    "id": "576",
+    "cf_type": "random",
+    "vf_score": 0.5638,
+    "cot_orig": "[/INST] 1. In the image, there is a map of the Caribbean region with a focus on the island of Cuba. The country of Cuba is highlighted in green.\n\n2. The image shows a map of the Caribbean with Cuba pr",
+    "cot_cf": "[/INST] 1. In the image, there is a group of people standing in front of a wall with graffiti on it. The wall is predominantly white with blue and black accents. The graffiti includes stylized letters"
+  },
+  {
+    "id": "747",
+    "cf_type": "random",
+    "vf_score": 0.4316,
+    "cot_orig": "[/INST] 1. The image shows a map of the United States with the state of Vermont highlighted in green. The map does not provide any additional information about the capital of Vermont.\n\n2. To determine",
+    "cot_cf": "[/INST] 1. In the image, I see a teddy bear sitting on a couch. The couch is positioned in front of a plant, and there is a lamp to the left of the couch. The room appears to be dimly lit, with shadow"
+  },
+  {
+    "id": "926",
+    "cf_type": "random",
+    "vf_score": 0.4328,
+    "cot_orig": "[/INST] 1. In the image, there is a brightly colored amphibian with a yellow body and orange limbs. It appears to be a frog, given its limb structure and the way it is positioned on the ground.\n\n2. Th",
+    "cot_cf": "[/INST] 1. In the image, I see a living room with a television, a couch, a chair, and a coffee table. There is a window with sunlight coming in, and the room has a carpet on the floor.\n\n2. An amphibia"
+  },
+  {
+    "id": "1728",
+    "cf_type": "random",
+    "vf_score": 0.3999,
+    "cot_orig": "[/INST] 1. The image shows a rock that appears to be a quartzite. It has a rough, angular shape with a variety of colors and textures. The rock has a hard, crystalline surface and a porous, grainy int",
+    "cot_cf": "[/INST] 1. In the image, there is a vase with flowers on a table, and the vase is placed in front of a window. The flowers are red and green, and there are also some fruits, such as oranges and apples"
+  },
+  {
+    "id": "3401",
+    "cf_type": "random",
+    "vf_score": 0.718,
+    "cot_orig": "[/INST] 1. In the image, there is a colorful, rainbow-colored flower with multiple petals, each in a different color. The flower is attached to a thin, yellow stem. The background is plain and white, ",
+    "cot_cf": "[/INST] 1. In the image, there is a large, ornate building with a prominent clock tower. The clock tower has a green dome and a weather vane on top. The building appears to be made of stone or a simil"
+  },
+  {
+    "id": "4223",
+    "cf_type": "random",
+    "vf_score": 0.5168,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets of the same type (either both north or both south). The magnets are arranged in a way that they are facing ",
+    "cot_cf": "[/INST] 1. In the image, there are two people standing on a beach near the water's edge. One person is flying a kite, and the other person is watching. There are no visible magnets in the image.\n\n2. T"
+  },
+  {
+    "id": "735",
+    "cf_type": "random",
+    "vf_score": 0.3753,
+    "cot_orig": "[/INST] 1. The image shows two beakers, each containing a yellow substance, presumably a solute, and a solvent. The beaker on the left has a higher volume of the yellow substance, while the beaker on ",
+    "cot_cf": "[/INST] 1. In the image, there is a woman standing in front of a large cake with candles on it. The cake is placed on a table, and there are other items on the table as well, such as plates and bowls."
+  },
+  {
+    "id": "1504",
+    "cf_type": "random",
+    "vf_score": 0.1715,
+    "cot_orig": "[/INST] 1. In the image, there is a large reptile with a long snout and a wide mouth, resting on a rocky surface. The reptile has a scaly skin and appears to be a type of alligator.\n\n2. The reptile in",
+    "cot_cf": "[/INST] 1. In the image, there is a person riding a motorcycle on a road. The road is flanked by trees and grass, and the sky is clear.\n\n2. The Chinese alligator is a species of alligator native to Ch"
+  },
+  {
+    "id": "2706",
+    "cf_type": "random",
+    "vf_score": 0.7076,
+    "cot_orig": "[/INST] 1. The image shows two green magnets with the letters \"S\" and \"N\" on them. They are placed side by side, with the \"S\" magnet on the left and the \"N\" magnet on the right.\n\n2. Magnets with the s",
+    "cot_cf": "[/INST] 1. In the image, there are several people riding horses down a street. The horses and riders are moving in the same direction, and the riders are wearing traditional Spanish attire, which sugg"
+  },
+  {
+    "id": "2225",
+    "cf_type": "random",
+    "vf_score": 0.5596,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets. The magnets are labeled \"N\" for North and \"S\" for South. The magnets are placed on a white background, and",
+    "cot_cf": "[/INST] 1. In the image, there is a person sitting on the beach under an umbrella. The umbrella is open and appears to be providing shade for the person. The beach is sandy, and the water is calm. The"
+  },
+  {
+    "id": "2364",
+    "cf_type": "random",
+    "vf_score": 0.5185,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets of the same type (either both north or both south). The magnets are placed on a white background, and there",
+    "cot_cf": "[/INST] 1. In the image, there are two horses and two people riding them. The horses are brown, and the people are wearing backpacks. The horses and their riders are on a dirt path, and there is a mou"
+  },
+  {
+    "id": "1115",
+    "cf_type": "random",
+    "vf_score": 0.6255,
+    "cot_orig": "[/INST] 1. The image shows a table with two columns, each labeled \"Initial temperature (°C)\" and \"Final temperature (°C).\" The first row of the table lists \"Pizza\" in the first column and \"80\" in the ",
+    "cot_cf": "[/INST] 1. In the image, there is a person performing a skateboard trick in the air. The skateboarder is wearing a red hat and a gray shirt. The skateboarder is in the middle of the image, and the bac"
+  },
+  {
+    "id": "3797",
+    "cf_type": "random",
+    "vf_score": 0.4237,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets of the same type (either both north or both south). The magnets are arranged in a circular fashion, with th",
+    "cot_cf": "[/INST] 1. In the image, there is a parking meter on the side of a street, and there are two cars parked on the street. The parking meter has a blue \"P\" sign on it, indicating that it is a designated "
+  },
+  {
+    "id": "1851",
+    "cf_type": "random",
+    "vf_score": 0.3059,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets of the same type (either both north or both south). The magnets are placed on a white background, and there",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets. The first pair consists of two magnets placed on a surface, and the second pair consists of two magnets placed on a plate of food.\n\n2. The magn"
+  },
+  {
+    "id": "1079",
+    "cf_type": "random",
+    "vf_score": 0.5844,
+    "cot_orig": "[/INST] 1. In the image, there is a man who appears to be in the middle of a dive or a flip into a swimming pool. He is upside down, with his feet in the air and his head submerged in the water. The m",
+    "cot_cf": "[/INST] 1. The image shows a meal served on a green plastic tray. The tray contains a variety of food items, including what appears to be a salad, a piece of meat, and some sliced tomatoes. The food i"
+  },
+  {
+    "id": "333",
+    "cf_type": "random",
+    "vf_score": 0.3052,
+    "cot_orig": "[/INST] 1. In the image, we see a food web with various organisms, including a whale, a sea otter, a black rockfish, a kelp bass, a phytoplankton, a zooplankton, a plankton, a midshipman, a sea cucumb",
+    "cot_cf": "[/INST] 1. In the image, there is a table with various pastries and donuts on it. The pastries include a chocolate-filled pastry, a glazed donut, and a donut with a hole in the middle. There is also a"
+  },
+  {
+    "id": "3955",
+    "cf_type": "random",
+    "vf_score": 0.2608,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets. The magnets are arranged in a way that they are facing each other, with the \"N\" and \"S\" poles of the magne",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets. The magnets are positioned in such a way that they are facing each other, with the magnetic ends facing outward.\n\n2. The magnetic force between"
+  },
+  {
+    "id": "2701",
+    "cf_type": "random",
+    "vf_score": 0.685,
+    "cot_orig": "[/INST] 1. In the image, there is a large white shark with its mouth open, revealing its sharp teeth. The shark is swimming in a body of water, which appears to be a coral reef.\n\n2. The shark's mouth ",
+    "cot_cf": "[/INST] 1. In the image, there is a tall clock tower with a green roof and a clock face on each of its sides. The tower is situated in front of a large building with many windows.\n\n2. The image does n"
+  },
+  {
+    "id": "930",
+    "cf_type": "random",
+    "vf_score": 0.2248,
+    "cot_orig": "[/INST] 1. The image shows a Punnett square, which is a tool used in genetics to predict the possible genotypes of offspring from a cross between two individuals. The square is divided into four quadr",
+    "cot_cf": "[/INST] 1. The image shows a plate of food, which includes broccoli covered in a creamy sauce. The broccoli appears to be cooked and is the main focus of the image.\n\n2. The image does not provide any "
+  },
+  {
+    "id": "2208",
+    "cf_type": "random",
+    "vf_score": 0.3004,
+    "cot_orig": "[/INST] 1. The image is a color-coded map showing specific humidity levels. The outlined area is a region with a purple and green color scheme, indicating a range of humidity levels.\n\n2. To determine ",
+    "cot_cf": "[/INST] 1. In the image, there is a small airplane with a propeller, and a person is hanging from the bottom of the airplane. The airplane is flying low over a grassy field, and there is a motorcycle "
+  },
+  {
+    "id": "2693",
+    "cf_type": "random",
+    "vf_score": 0.4714,
+    "cot_orig": "[/INST] 1. In the image, there are two individuals, Katy and Anne, who appear to be scientists or researchers. They are standing in a field with a small concrete structure in front of them. Both indiv",
+    "cot_cf": "[/INST] 1. In the image, there are three people standing on a beach with a large kite flying in the sky above them. The beach appears to be a sandy area with a clear blue sky. The kite is quite large "
+  },
+  {
+    "id": "1759",
+    "cf_type": "random",
+    "vf_score": 0.601,
+    "cot_orig": "[/INST] 1. In the image, there are four objects: a rock, a pineapple, a side walk, and a potato sack. Each object is depicted in a different way: the rock is shown as a three-dimensional object, the p",
+    "cot_cf": "[/INST] 1. In the image, there is a man standing in front of a white wall. He is holding a cell phone to his ear, suggesting that he is engaged in a conversation. He is also wearing a black sweater an"
+  },
+  {
+    "id": "16",
+    "cf_type": "random",
+    "vf_score": 0.3943,
+    "cot_orig": "[/INST] 1. The image depicts a food web with various organisms and their relationships. At the top, there is a large fish, which is a secondary consumer, as it feeds on smaller fish. Below the large f",
+    "cot_cf": "[/INST] 1. In the image, I see a commercial kitchen with various appliances, utensils, and food items. There is a large wooden counter with a bowl on it, and a sink with a faucet. There are also sever"
+  },
+  {
+    "id": "671",
+    "cf_type": "random",
+    "vf_score": 0.8581,
+    "cot_orig": "[/INST] 1. In the image, there is a pile of wooden sticks or toothpicks, and a single metal object, which appears to be a nail, is sticking out of the pile.\n\n2. The metal object is the only one of its",
+    "cot_cf": "[/INST] 1. In the image, there is a yellow fire hydrant covered in snow. The fire hydrant is located in a snowy area, and there is a chain-link fence in the background.\n\n2. The fire hydrant is partial"
+  },
+  {
+    "id": "1518",
+    "cf_type": "random",
+    "vf_score": 0.4918,
+    "cot_orig": "[/INST] 1. In the image, there is a frog with a large, bulbous belly. The frog is resting on a surface that appears to be a pond or a similar body of water. The frog's skin has a textured pattern, and",
+    "cot_cf": "[/INST] 1. In the image, there is a person playing tennis. The person is in the middle of a swing, holding a tennis racket, and appears to be hitting a tennis ball. The person is wearing an orange shi"
+  },
+  {
+    "id": "1952",
+    "cf_type": "random",
+    "vf_score": 0.3757,
+    "cot_orig": "[/INST] 1. The image shows an underwater view of a coral reef ecosystem. The reef is densely populated with various types of coral, which are the primary structure-builders in the ecosystem. There are",
+    "cot_cf": "[/INST] 1. In the image, there is a person performing a skateboard trick on a metal railing. The person is in mid-air, with the skateboard beneath them. The background shows a grassy area with trees a"
+  },
+  {
+    "id": "4145",
+    "cf_type": "random",
+    "vf_score": 0.6093,
+    "cot_orig": "[/INST] 1. In the image, there is a young girl with curly hair. She is smiling and appears to be sitting in a grassy area.\n\n2. The girl is a mammal, as she is a warm-blooded vertebrate with mammary gl",
+    "cot_cf": "[/INST] 1. In the image, there is a young boy riding a skateboard on a street. The boy is wearing a gray shirt and blue shorts. The street appears to be a residential area with houses and trees in the"
+  },
+  {
+    "id": "3880",
+    "cf_type": "random",
+    "vf_score": 0.7518,
+    "cot_orig": "[/INST] 1. In the image, there is a solar panel mounted on a pole, which is connected to a device that appears to be a weather station. The solar panel is angled towards the sun, and the weather stati",
+    "cot_cf": "[/INST] 1. In the image, there are two open styrofoam containers placed on a surface. Each container holds a hot dog. The hot dog on the left is topped with a variety of ingredients, including what ap"
+  },
+  {
+    "id": "2056",
+    "cf_type": "random",
+    "vf_score": 0.158,
+    "cot_orig": "[/INST] 1. The image is a table that lists the volume of various planets in our solar system, along with their primary composition. The planets listed are Mercury, Venus, Earth, Mars, Jupiter, Saturn,",
+    "cot_cf": "[/INST] 1. In the image, there are four people in a room, and they appear to be engaged in a social activity, possibly drinking from cups. The room has a kitchen-like setting with a refrigerator, a mi"
+  },
+  {
+    "id": "1772",
+    "cf_type": "random",
+    "vf_score": 0.4387,
+    "cot_orig": "[/INST] 1. In the image, there is a fossil of a fish that appears to be a Diplomystus. The fossil is imprinted on a textured surface, possibly a rock or a piece of wood. The fish has a long, slender b",
+    "cot_cf": "[/INST] 1. In the image, there is a young boy standing on a baseball field. He is wearing a baseball uniform, which includes a maroon jersey, gray pants, and a baseball glove. He is also wearing a bas"
+  },
+  {
+    "id": "3227",
+    "cf_type": "random",
+    "vf_score": 0.1492,
+    "cot_orig": "[/INST] 1. In the image, there is a great gray owl perched on a branch with snow on it. The owl is facing the camera, and its feathers are visible.\n\n2. To answer the question, we need to identify the ",
+    "cot_cf": "[/INST] 1. The image shows a bustling city street at night, with numerous brightly lit signs and advertisements. There are many people walking on the sidewalks, and the street is illuminated by the gl"
+  },
+  {
+    "id": "1554",
+    "cf_type": "random",
+    "vf_score": 0.4152,
+    "cot_orig": "[/INST] 1. In the image, there are two rectangles with a central dividing line. Each rectangle contains a series of pink circles, which represent solute particles. The circles are distributed unevenly",
+    "cot_cf": "[/INST] 1. In the image, there is a sandwich with a toothpick inserted into it. The sandwich appears to be cut in half, with the two halves placed on a plate. The sandwich is quite large, taking up mo"
+  },
+  {
+    "id": "635",
+    "cf_type": "random",
+    "vf_score": 0.4356,
+    "cot_orig": "[/INST] 1. In the image, there is a skeletal display of an aurochs, which is an extinct species of cattle. The skeleton is mounted on a stand and is displayed in a museum setting. The aurochs has a pr",
+    "cot_cf": "[/INST] 1. In the image, there is a cat lying on a windowsill, surrounded by potted plants. The cat appears to be relaxed and is looking directly at the camera.\n\n2. The cat's fur is fluffy and white, "
+  },
+  {
+    "id": "128",
+    "cf_type": "random",
+    "vf_score": 0.1826,
+    "cot_orig": "[/INST] 1. The image shows a Punnett square, which is a tool used in genetics to predict the possible outcomes of a cross between two individuals with known genotypes. The square is divided into four ",
+    "cot_cf": "[/INST] 1. The image shows a small, clean bathroom with a toilet and a sink. The walls are painted in a light color, and the floor appears to be made of wood.\n\n2. To answer the question, we need to un"
+  },
+  {
+    "id": "1098",
+    "cf_type": "random",
+    "vf_score": 0.4074,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets. The magnets are labeled \"Pair 1\" and \"Pair 2.\" Each pair has one magnet labeled \"N\" and the other labeled ",
+    "cot_cf": "[/INST] 1. In the image, there are two people playing a video game in a room. They are standing in front of a television, which is displaying the game they are playing. The room has a yellow wall and "
+  },
+  {
+    "id": "2064",
+    "cf_type": "random",
+    "vf_score": 0.4642,
+    "cot_orig": "[/INST] 1. The image shows a colorful pool toy that is designed to look like a dragon. It has a long body, a head with a smiling face, and a tail with spikes. The dragon is predominantly green with ye",
+    "cot_cf": "[/INST] 1. In the image, there is a baseball player standing on a grassy field. The player is wearing a dark-colored uniform and a cap, and is holding a baseball glove in his left hand. The player app"
+  },
+  {
+    "id": "3657",
+    "cf_type": "random",
+    "vf_score": 0.1162,
+    "cot_orig": "[/INST] 1. In the image, there is a close-up of a large animal with a wide-open mouth. The animal appears to be a rodent, possibly a beaver, given its size and the texture of its fur.\n\n2. Rodents are ",
+    "cot_cf": "[/INST] 1. In the image, I see a bedroom with a large bed, a nightstand with a lamp, a dresser, and a desk with a chair. There is also a window with curtains and a view of the outside.\n\n2. The questio"
+  },
+  {
+    "id": "2545",
+    "cf_type": "random",
+    "vf_score": 0.4279,
+    "cot_orig": "[/INST] 1. The image is a satellite view of Earth, showing a large area of the planet with a focus on a specific region. The area is outlined in red, and within this outlined region, there is a large ",
+    "cot_cf": "[/INST] 1. In the image, there is a large clock mounted on the side of a building. The clock has a blue face with white numerals and hands. The building appears to be made of stone, and there are gree"
+  },
+  {
+    "id": "172",
+    "cf_type": "random",
+    "vf_score": 0.3624,
+    "cot_orig": "[/INST] 1. In the image, there are two magnets with the letters \"S\" and \"N\" on them, and they are placed on a background with stripes of purple and green. The magnets are positioned in such a way that",
+    "cot_cf": "[/INST] 1. In the image, there are two magnets placed on opposite sides of a plate of food. The food appears to be a sandwich or a burger, with various ingredients visible.\n\n2. The magnets are attract"
+  },
+  {
+    "id": "3073",
+    "cf_type": "random",
+    "vf_score": 0.2755,
+    "cot_orig": "[/INST] 1. The image shows two beakers, each containing a solution with purple particles. The beaker on the left is labeled \"Solution A\" and the beaker on the right is labeled \"Solution B.\"\n\n2. To det",
+    "cot_cf": "[/INST] 1. The image is a collage of several photos showing a kitchen with various items and decorations. The kitchen features a refrigerator, an oven, a sink, a countertop, and a rug. There are also "
+  },
+  {
+    "id": "3725",
+    "cf_type": "random",
+    "vf_score": 0.2364,
+    "cot_orig": "[/INST] 1. The image shows a Punnett square, which is a tool used in genetics to predict the possible outcomes of a cross between two individuals with known genotypes. The square is divided into four ",
+    "cot_cf": "[/INST] 1. In the image, there is a kitchen with a countertop, a stove, and a refrigerator. There are two chairs at the countertop. The kitchen appears to be well-maintained and clean.\n\n2. The image d"
+  },
+  {
+    "id": "2506",
+    "cf_type": "random",
+    "vf_score": 0.4829,
+    "cot_orig": "[/INST] 1. In the image, there is a map of the Caribbean region with a focus on the island of Cuba. The map is stylized with a blue background and green landmasses. There is a small green box with a w",
+    "cot_cf": "[/INST] 1. In the image, there is a cat lying on a bed with a floral pattern. The cat appears to be resting its head on a person's leg, which is wearing a shoe with a cat face design. The cat's eyes a"
+  },
+  {
+    "id": "3661",
+    "cf_type": "random",
+    "vf_score": 0.4329,
+    "cot_orig": "[/INST] 1. In the image, there is a large animal with long, curved horns. The animal is standing in a snowy field with a fence in the background.\n\n2. The animal in the image is a mouflon, which is a s",
+    "cot_cf": "[/INST] 1. In the image, there are four birds flying in a line against a cloudy sky. The birds appear to be small in size, and they are flying at a relatively low altitude.\n\n2. The birds in the image "
+  },
+  {
+    "id": "2397",
+    "cf_type": "random",
+    "vf_score": 0.2986,
+    "cot_orig": "[/INST] 1. The image shows a map of the United States with the state of West Virginia highlighted in green. The map is stylized and does not include any additional geographic details.\n\n2. To determine",
+    "cot_cf": "[/INST] 1. In the image, there is a person standing in a kitchen, preparing food. The person is wearing glasses and a dark-colored top. The kitchen is equipped with various appliances, including a sto"
+  },
+  {
+    "id": "3603",
+    "cf_type": "random",
+    "vf_score": 0.7912,
+    "cot_orig": "[/INST] 1. The image shows a simple, stylized illustration of a glass. It is a clear, cylindrical container with a wide base that narrows as it rises to a flared opening at the top.\n\n2. The glass appe",
+    "cot_cf": "[/INST] 1. In the image, there are two giraffes standing in a grassy area with trees in the background. The giraffes are brown and white in color, and they appear to be in a natural habitat.\n\n2. The g"
+  },
+  {
+    "id": "1958",
+    "cf_type": "random",
+    "vf_score": 0.34,
+    "cot_orig": "[/INST] 1. In the image, I see a stylized map of the United States with a focus on the state of South Dakota. The state is colored in a solid green color, which makes it stand out from the rest of the",
+    "cot_cf": "[/INST] 1. The image shows a variety of fresh vegetables, including carrots, broccoli, and leafy greens. The vegetables are displayed in a way that suggests they are for sale, possibly at a market or "
+  },
+  {
+    "id": "3767",
+    "cf_type": "random",
+    "vf_score": 0.3471,
+    "cot_orig": "[/INST] 1. The image is a world map with various continents labeled. The prime meridian is the line of longitude that runs through Greenwich, London, and is the dividing line between the Eastern and W",
+    "cot_cf": "[/INST] 1. The image shows a bedroom with a bed, a nightstand, a chair, and a window. There are two lamps on the nightstand, and the room has a simple, clean design.\n\n2. The prime meridian is the line"
+  },
+  {
+    "id": "1077",
+    "cf_type": "random",
+    "vf_score": 0.8001,
+    "cot_orig": "[/INST] 1. In the image, there is a pile of wooden sticks or toothpicks, and a single metal object, which appears to be a nail, is sticking out of the pile.\n\n2. The presence of the nail among the wood",
+    "cot_cf": "[/INST] 1. In the image, there are two tennis players on a tennis court. They are both holding tennis rackets and are in the middle of a game. The court has a blue and green surface, and there are lin"
+  },
+  {
+    "id": "2284",
+    "cf_type": "random",
+    "vf_score": 0.8677,
+    "cot_orig": "[/INST] 1. The image shows a penny with a clear, reflective surface. The penny is lying on a surface that casts a shadow on the penny, creating a reflection of the shadow on the penny's surface.\n\n2. T",
+    "cot_cf": "[/INST] 1. In the image, there is a person flying a kite in a large, open field. The sky is partly cloudy, and the person appears to be alone in the field.\n\n2. The person is flying a kite, which sugge"
+  },
+  {
+    "id": "167",
+    "cf_type": "random",
+    "vf_score": 0.7926,
+    "cot_orig": "[/INST] 1. The image shows three objects: a rubber toy, a flower petal, and a gold nugget. Each object is depicted in a stylized manner, with the rubber toy and flower petal being yellow and the gold ",
+    "cot_cf": "[/INST] 1. In the image, there are three objects on a wooden table: a cup of coffee, a plate of pastries, and a glass of water.\n\n2. The cup of coffee and the glass of water are both beverages, and the"
+  },
+  {
+    "id": "1846",
+    "cf_type": "random",
+    "vf_score": 0.4703,
+    "cot_orig": "[/INST] 1. The image shows two circular magnets with alternating colors, one green and one blue, each with a letter \"N\" on them.\n2. The magnets are placed next to each other, and they are not touching",
+    "cot_cf": "[/INST] 1. In the image, there is a group of people gathered around a laptop screen. The laptop is open and turned on, with the screen displaying a blue screen. The room has a dark ambiance, and there"
+  },
+  {
+    "id": "3911",
+    "cf_type": "random",
+    "vf_score": 0.4342,
+    "cot_orig": "[/INST] 1. The image shows a bar chart representing the average monthly precipitation in Atlanta, Georgia. The x-axis lists the months of the year, and the y-axis represents the precipitation in inche",
+    "cot_cf": "[/INST] 1. In the image, there is a red double-decker bus driving down a snowy street. The bus has a digital display on the front that reads \"School Service 105.\" The street is covered with snow, and "
+  },
+  {
+    "id": "1501",
+    "cf_type": "random",
+    "vf_score": 0.2154,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets of the same type (either both north or both south). The magnets are placed on a white background, and each ",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets. The first pair is on the left side of the kitchen, and the second pair is on the right side. Both pairs of magnets are on the kitchen island.\n\n"
+  },
+  {
+    "id": "4181",
+    "cf_type": "random",
+    "vf_score": 0.6114,
+    "cot_orig": "[/INST] 1. The image shows a black rectangular box with a lid on top. The box appears to be made of a smooth, possibly plastic or metal material. The lid is also black and seems to fit snugly on top o",
+    "cot_cf": "[/INST] 1. In the image, there are two motorcycles parked on the side of a road. One motorcycle is blue, and the other is black. There are two people in the image, both wearing helmets and riding moto"
+  },
+  {
+    "id": "3168",
+    "cf_type": "random",
+    "vf_score": 0.6296,
+    "cot_orig": "[/INST] 1. In the image, there are three objects: a pair of blue jeans, a blueberry, and a blue pom pom. All three objects share the same color, which is blue.\n\n2. The objects are depicted in a styliz",
+    "cot_cf": "[/INST] 1. In the image, there is a piece of cake on a white plate, a fork, and a napkin. The cake appears to be a chocolate dessert, and the fork is placed next to the cake.\n\n2. The cake, fork, and n"
+  },
+  {
+    "id": "2816",
+    "cf_type": "random",
+    "vf_score": 0.7594,
+    "cot_orig": "[/INST] 1. In the image, there is a red cardinal perched on a bird feeder. The bird feeder is filled with birdseed, and the cardinal is looking down at the birdseed.\n\n2. The cardinal is a type of bird",
+    "cot_cf": "[/INST] 1. In the image, there is a baseball game in progress. The field is well-maintained with clear lines marking the playing area. There are several players on the field, some in the outfield, and"
+  },
+  {
+    "id": "2750",
+    "cf_type": "random",
+    "vf_score": 0.5132,
+    "cot_orig": "[/INST] 1. In the image, I see a map of a region with a green color scheme, indicating the area of interest. There are no cities marked on the map.\n\n2. The map does not show any cities marked on it. I",
+    "cot_cf": "[/INST] 1. In the image, there is a horse-drawn carriage parked in front of a building. The horse is harnessed to the carriage and is standing on a paved surface. There are people in the background, a"
+  },
+  {
+    "id": "463",
+    "cf_type": "random",
+    "vf_score": 0.5277,
+    "cot_orig": "[/INST] 1. The image shows a close-up of a creature with a vividly colored skin, featuring bright red and yellow hues. The skin texture appears to be rough and bumpy, with some areas that look like th",
+    "cot_cf": "[/INST] 1. In the image, there is a baseball game in progress. A batter is in the middle of a swing, and a catcher is positioned behind him, ready to catch the ball. There are other players on the fie"
+  },
+  {
+    "id": "1961",
+    "cf_type": "random",
+    "vf_score": 0.1939,
+    "cot_orig": "[/INST] 1. The image is a table with two columns. The left column lists the names of planets in our solar system, and the right column lists their volumes in cubic kilometers.\n\n2. To determine if the ",
+    "cot_cf": "[/INST] 1. In the image, there is a person lying on a couch with their head resting on a stack of four laptops. The person appears to be relaxed and is looking directly at the camera.\n\n2. The statemen"
+  },
+  {
+    "id": "502",
+    "cf_type": "random",
+    "vf_score": 0.4239,
+    "cot_orig": "[/INST] 1. In the image, there is a large building that appears to be severely damaged. The building has a significant amount of debris scattered around it, and there are visible cracks and structural",
+    "cot_cf": "[/INST] 1. In the image, there is a horse-drawn carriage parked in front of a building. The horse is harnessed to the carriage and appears to be standing still. The carriage has a white canopy and is "
+  },
+  {
+    "id": "2523",
+    "cf_type": "random",
+    "vf_score": 0.5679,
+    "cot_orig": "[/INST] 1. The image shows a red magnet with a white handle, which is a type of pull. The magnet is hanging from a hook, and there are two wires attached to the magnet.\n\n2. The magnet is suspended fro",
+    "cot_cf": "[/INST] 1. In the image, there is a woman standing on a surfboard in the water, facing towards the beach. She appears to be preparing to surf or has just finished surfing. There are other people in th"
+  },
+  {
+    "id": "1889",
+    "cf_type": "random",
+    "vf_score": 0.3644,
+    "cot_orig": "[/INST] 1. The image depicts a food web with various organisms, including birds, mammals, and insects. The food web includes a lichen, which is a type of symbiotic organism that forms a mutualistic re",
+    "cot_cf": "[/INST] 1. In the image, there is a large clock tower with a clock face on each of its sides. The clock tower is part of a building with a modern architectural style, featuring large glass windows and"
+  },
+  {
+    "id": "2092",
+    "cf_type": "random",
+    "vf_score": 0.2106,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets of the same type (either both north or both south). The magnets are placed on a white background, and there",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets. The magnets in each pair are facing each other, and they are positioned in such a way that they are attracting each other.\n\n2. The magnets in e"
+  },
+  {
+    "id": "3204",
+    "cf_type": "random",
+    "vf_score": 0.231,
+    "cot_orig": "[/INST] 1. In the image, I see a map of the United States with a green color scheme. The state of Wyoming is highlighted in a darker shade of green, indicating that it is the focus of the map.\n\n2. The",
+    "cot_cf": "[/INST] 1. In the image, there are two men riding bicycles on a dirt road. They are both wearing jackets, suggesting it might be a cool day or they are dressed for a longer ride. The road is flanked b"
+  },
+  {
+    "id": "4025",
+    "cf_type": "random",
+    "vf_score": 0.4054,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets of the same type (either both north or both south). The magnets are placed on a white background, and there",
+    "cot_cf": "[/INST] 1. In the image, there is a small airplane flying in the sky, and below it, there is a person riding a motorcycle. The motorcycle is equipped with two large magnets on the front. The airplane "
+  },
+  {
+    "id": "3222",
+    "cf_type": "random",
+    "vf_score": 0.5827,
+    "cot_orig": "[/INST] 1. In the image, there is a map of the world with a focus on the Pacific Ocean. The map is not to scale and appears to be a simplified representation rather than a detailed geographic map.\n\n2.",
+    "cot_cf": "[/INST] 1. In the image, there are two individuals, a woman and a girl, who appear to be engaged in some sort of activity involving a yellow object with a green ribbon. The woman is wearing a green ja"
+  },
+  {
+    "id": "3825",
+    "cf_type": "random",
+    "vf_score": 0.3591,
+    "cot_orig": "[/INST] 1. In the image, I see a stylized representation of the Earth, with a focus on the landmasses and the oceans. The landmasses are colored in green, while the oceans are depicted in blue. The im",
+    "cot_cf": "[/INST] 1. In the image, there is a group of people gathered around a wooden barrel, which appears to be a wine barrel. The setting suggests a wine tasting event, as people are holding wine glasses an"
+  },
+  {
+    "id": "1085",
+    "cf_type": "random",
+    "vf_score": 0.6925,
+    "cot_orig": "[/INST] 1. In the image, there are two objects: a blue diamond-shaped icon on the left and a pair of blue shorts on the right. Both objects are blue in color.\n\n2. The diamond-shaped icon and the short",
+    "cot_cf": "[/INST] 1. In the image, there is a parking meter on the sidewalk and a green van parked on the street. The parking meter is a vertical, metallic structure with a digital display and a coin slot, whil"
+  },
+  {
+    "id": "1435",
+    "cf_type": "random",
+    "vf_score": 0.4887,
+    "cot_orig": "[/INST] 1. The image shows a molecule with four atoms, each labeled with a capital letter: F, B, E, and F. The atoms are connected by lines, indicating bonds between them.\n\n2. To determine the chemica",
+    "cot_cf": "[/INST] 1. In the image, there are several people interacting with two giraffes. The giraffes are being fed by the people, and one of the giraffes is extending its long neck to reach the food. The peo"
+  },
+  {
+    "id": "2281",
+    "cf_type": "random",
+    "vf_score": 0.3674,
+    "cot_orig": "[/INST] 1. The image shows a close-up view of a rocky shoreline with various marine life forms. There are sea urchins, which are spiky and green, and other organisms that are not clearly identifiable.",
+    "cot_cf": "[/INST] 1. The image shows a kitchen with various appliances and items on the counter. There is a stove, a refrigerator, a sink, and a cabinet. On the counter, there are several items including a blue"
+  },
+  {
+    "id": "1060",
+    "cf_type": "random",
+    "vf_score": 0.5495,
+    "cot_orig": "[/INST] 1. The image shows four objects, each depicted in two different states: one as a flower petal and the other as a marshmallow. The objects are a yellow flower, a red flower, a purple bag, and a",
+    "cot_cf": "[/INST] 1. In the image, I see a sandwich, which appears to be a hot dog, placed on a piece of paper or a wrapper. The sandwich is on a wooden table, and there is a napkin or a piece of paper next to "
+  },
+  {
+    "id": "1848",
+    "cf_type": "random",
+    "vf_score": 0.2261,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets. The magnets are labeled \"N\" and \"S\" to indicate their north and south poles.\n\n2. The magnets in each pair ",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets. The magnets in each pair are facing each other, and they are on a tennis court.\n\n2. The magnets are attracted to each other due to their magnet"
+  },
+  {
+    "id": "3261",
+    "cf_type": "random",
+    "vf_score": 0.3462,
+    "cot_orig": "[/INST] 1. In the image, there is a train with many passengers on it. The train is on a track, and there are people standing on a platform next to the train. The train appears to be in motion, as indi",
+    "cot_cf": "[/INST] 1. In the image, there are four women in a room. Three of them are standing, and one is sitting on a chair. They are all dressed in formal attire, with some of them wearing dresses. The room h"
+  },
+  {
+    "id": "2379",
+    "cf_type": "random",
+    "vf_score": 0.709,
+    "cot_orig": "[/INST] 1. In the image, there are three objects: a sundae, a pile of coins, and a popsicle.\n\n2. The sundae is a dessert made with layers of ice cream, whipped cream, and other toppings, served in a g",
+    "cot_cf": "[/INST] 1. In the image, there is a skateboarder performing a trick in mid-air. The skateboarder is wearing a white shirt and blue jeans. The skateboarder is in the foreground of the image, and the ba"
+  }
+]

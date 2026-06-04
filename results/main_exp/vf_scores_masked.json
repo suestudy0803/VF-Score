@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "3835",
+    "cf_type": "masked",
+    "vf_score": 0.6016,
+    "cot_orig": "[/INST] 1. In the image, there are three objects: a pair of sunglasses, a collection of apple seeds, and a canoe. Each object is distinct and has a different shape and color.\n\n2. The sunglasses are a ",
+    "cot_cf": "[/INST] 1. The image is a black background with three objects on it. The objects are a white square, a white circle, and a white rectangle.\n\n2. The three objects share the property of being white in c"
+  },
+  {
+    "id": "3940",
+    "cf_type": "masked",
+    "vf_score": 0.3587,
+    "cot_orig": "[/INST] 1. In the image, there are three models of molecules, each labeled with a different name: acetaldehyde, oxygen, and chloroform. Each model consists of atoms connected by lines, representing th",
+    "cot_cf": "[/INST] 1. The image shows a black background with a series of white lines and shapes that appear to be representations of molecules. These shapes are abstract and do not depict any specific molecules"
+  },
+  {
+    "id": "1877",
+    "cf_type": "masked",
+    "vf_score": 0.5357,
+    "cot_orig": "[/INST] 1. In the image, there are two overlapping circles, one green and one gray. Inside the green circle, the letters \"HF\" are written in black. The gray circle contains the letters \"H\" and \"F\" in ",
+    "cot_cf": "[/INST] 1. The image is a black background with a white substance on it.\n2. The white substance appears to be a solid, possibly a solid chemical compound.\n3. The white substance is not labeled, so it "
+  },
+  {
+    "id": "3512",
+    "cf_type": "masked",
+    "vf_score": 0.249,
+    "cot_orig": "[/INST] 1. The image is a map showing specific humidity levels in a certain area. The map uses a color scale to represent the humidity levels, with different colors corresponding to different humidity",
+    "cot_cf": "[/INST] 1. The image shows a black background with a white outline. There is no visible content within the outlined area.\n\n2. Since the image is black and white, and there is no visible content within"
+  },
+  {
+    "id": "3877",
+    "cf_type": "masked",
+    "vf_score": 0.0166,
+    "cot_orig": "[/INST] 1. The image shows a single, unlit white candle. The candle appears to be made of a smooth, waxy material that is typically used for candles.\n\n2. To determine if candle wax is a mineral, we ne",
+    "cot_cf": "[/INST] 1. The image shows a black background with a white substance that appears to be candle wax.\n\n2. To determine if candle wax is a mineral, we need to consider the properties of minerals. Mineral"
+  },
+  {
+    "id": "499",
+    "cf_type": "masked",
+    "vf_score": 0.2552,
+    "cot_orig": "[/INST] 1. The image shows two magnets with a \"U\" shape, colored in blue and green. Each magnet has a \"N\" on it, which is a symbol for the north pole of a magnet.\n\n2. Magnets with the same polarity (n",
+    "cot_cf": "[/INST] 1. The image shows two magnets, one black and one white, placed against a black background.\n\n2. Based on the image, we can observe that the magnets are placed close to each other.\n\n3. Since th"
+  },
+  {
+    "id": "1087",
+    "cf_type": "masked",
+    "vf_score": 0.3876,
+    "cot_orig": "[/INST] 1. In the image, there is a map of the world with a focus on the Pacific Ocean. The map is not to scale and appears to be a simplified representation rather than a detailed geographic map.\n\n2.",
+    "cot_cf": "[/INST] 1. The image is a black background with a single, brightly lit object in the center. The object appears to be a small, round, illuminated object.\n2. The object is the only thing in the image t"
+  },
+  {
+    "id": "3566",
+    "cf_type": "masked",
+    "vf_score": 0.1958,
+    "cot_orig": "[/INST] 1. In the image, there are two magnets with the letters \"N\" and \"S\" on them, and they are placed on a background with stripes of blue, white, and pink. The magnets are positioned in such a way",
+    "cot_cf": "[/INST] 1. The image shows two magnets, one black and one white, placed close to each other.\n\n2. Based on the image, we can observe that the magnets are of opposite poles, as they are placed next to e"
+  },
+  {
+    "id": "1594",
+    "cf_type": "masked",
+    "vf_score": 0.1141,
+    "cot_orig": "[/INST] 1. In the image, there is a large fish with a prominent mouth and teeth. The fish is swimming in a body of water, which appears to be a coral reef.\n\n2. The fish's mouth is adapted for tearing ",
+    "cot_cf": "[/INST] 1. The image shows a close-up of a fish's mouth. The fish appears to be a shark, as indicated by the presence of teeth.\n\n2. Sharks are known for their sharp teeth, which are adapted for tearin"
+  },
+  {
+    "id": "837",
+    "cf_type": "masked",
+    "vf_score": 0.6417,
+    "cot_orig": "[/INST] 1. In the image, there is a bird with a large wingspan, a strong beak, and sharp talons. It is perched on a rocky outcropping, and the background is blurred, which suggests that the focus is o",
+    "cot_cf": "[/INST] 1. The image is a black background with a blurred object in the center. There is no clear depiction of an organism or any other identifiable features.\n\n2. Since the image is too blurred to dis"
+  },
+  {
+    "id": "4184",
+    "cf_type": "masked",
+    "vf_score": 0.1723,
+    "cot_orig": "[/INST] 1. The image shows a bar chart representing average precipitation in Cairo, Egypt, for each month of the year. The x-axis lists the months of the year, and the y-axis represents the precipitat",
+    "cot_cf": "[/INST] 1. The image shows a black background with a few white dots scattered across it. There is no text or additional information provided.\n\n2. The image does not provide any specific information ab"
+  },
+  {
+    "id": "182",
+    "cf_type": "masked",
+    "vf_score": 0.2414,
+    "cot_orig": "[/INST] 1. The image shows a map of the United States with the state of Ohio highlighted in green. The map is stylized and does not include any text or labels.\n\n2. To determine the capital of Ohio, we",
+    "cot_cf": "[/INST] 1. The image is a black background with no visible content.\n\n2. There is no information in the image that can be used to determine the capital of Ohio. The image does not contain any text, sym"
+  },
+  {
+    "id": "1349",
+    "cf_type": "masked",
+    "vf_score": 0.931,
+    "cot_orig": "[/INST] 1. The image is a table with two columns: \"Date\" and \"Event.\" The events listed are historical events related to the Akkadian Empire and its successors.\n\n2. To answer the question, we need to ",
+    "cot_cf": "[/INST] 1. The image is a black background with no visible content.\n\n2. Since the image is black and does not contain any information, it is not possible to reason step by step based on what is visibl"
+  },
+  {
+    "id": "703",
+    "cf_type": "masked",
+    "vf_score": 0.7886,
+    "cot_orig": "[/INST] 1. In the image, there is a graphic of a necktie with a red and blue striped pattern. The tie is depicted in a way that it appears to be tied in a Windsor knot.\n\n2. The object in the image is ",
+    "cot_cf": "[/INST] 1. The image is a black background with a white object in the center. The object appears to be a simple geometric shape, possibly a rectangle or a square.\n\n2. The object is the only thing in t"
+  },
+  {
+    "id": "1541",
+    "cf_type": "masked",
+    "vf_score": 0.749,
+    "cot_orig": "[/INST] 1. In the image, there is a pile of wooden sticks or toothpicks, and a single metal object, which appears to be a nail, is sticking out of the pile.\n\n2. The metal object is the only one of its",
+    "cot_cf": "[/INST] 1. The image is a black background with a white line. There is no additional context or information provided.\n\n2. The image does not provide any information that would allow for the identifica"
+  },
+  {
+    "id": "1164",
+    "cf_type": "masked",
+    "vf_score": 0.1755,
+    "cot_orig": "[/INST] 1. In the image, there are two magnets with the letters \"S\" and \"N\" on them. The magnets are placed on a background with alternating stripes of blue and pink.\n\n2. The magnets are placed next t",
+    "cot_cf": "[/INST] 1. The image shows two magnets, one black and one white, placed close to each other.\n\n2. Based on the image, we can observe that the magnets are of opposite poles, as they are placed next to e"
+  },
+  {
+    "id": "198",
+    "cf_type": "masked",
+    "vf_score": 0.0946,
+    "cot_orig": "[/INST] 1. The image shows two beakers, each containing a solution with pink particles. The beaker on the left is labeled \"Solution A\" and the beaker on the right is labeled \"Solution B.\"\n\n2. To deter",
+    "cot_cf": "[/INST] 1. The image shows two solutions, one in a black container and the other in a white container. Both solutions appear to contain pink particles.\n\n2. To determine which solution has a higher con"
+  },
+  {
+    "id": "3321",
+    "cf_type": "masked",
+    "vf_score": 0.3436,
+    "cot_orig": "[/INST] 1. In the image, there are three fossils depicted: a shell, a leaf, and a bug. The shell is at the bottom, the leaf is in the middle, and the bug is at the top.\n\n2. To determine which fossil i",
+    "cot_cf": "[/INST] 1. The image shows a black background with a single, white, rectangular shape. There are no other objects or details visible in the image.\n\n2. Since the image only contains a single, white, re"
+  },
+  {
+    "id": "2452",
+    "cf_type": "masked",
+    "vf_score": 0.3497,
+    "cot_orig": "[/INST] 1. The image shows a stylized map of the United States with the state of California highlighted in green. The map is not to scale and does not include any geographic features or cities.\n\n2. Th",
+    "cot_cf": "[/INST] 1. The image is a black background with no visible content.\n\n2. Since the image is black and contains no information, there is no way to determine the capital of California from the image alon"
+  },
+  {
+    "id": "4141",
+    "cf_type": "masked",
+    "vf_score": 0.584,
+    "cot_orig": "[/INST] 1. In the image, I see a map of the United States with all the states colored in green. There is one state that is highlighted in a different color, which stands out from the rest.\n\n2. The hig",
+    "cot_cf": "[/INST] 1. The image is a black background with a single, brightly lit object. The object appears to be a small, round, white light.\n\n2. The brightly lit object is the only thing in the image that is "
+  },
+  {
+    "id": "842",
+    "cf_type": "masked",
+    "vf_score": 0.2488,
+    "cot_orig": "[/INST] 1. In the image, there are two magnets with the letters \"S\" and \"N\" on them, and they are placed on a background with alternating orange and blue stripes. The magnets are positioned in such a ",
+    "cot_cf": "[/INST] 1. The image shows two magnets, one black and one white, placed close to each other.\n\n2. Based on the image, we can observe that the magnets are of opposite poles, as they are placed next to e"
+  },
+  {
+    "id": "73",
+    "cf_type": "masked",
+    "vf_score": 0.5869,
+    "cot_orig": "[/INST] 1. In the image, there is a red cardinal perched on a bird feeder. The bird feeder is filled with birdseed, and the cardinal is looking down at the birdseed.\n\n2. The cardinal is likely attract",
+    "cot_cf": "[/INST] 1. The image is a black background with a white line. There is no additional context or information provided.\n\n2. The image appears to be a simple, abstract representation with no discernible "
+  },
+  {
+    "id": "2963",
+    "cf_type": "masked",
+    "vf_score": 0.2673,
+    "cot_orig": "[/INST] 1. In the image, there is a large animal with a furry body and long, sharp claws. The animal is surrounded by green foliage, which suggests that it is in a natural, wild environment.\n\n2. The a",
+    "cot_cf": "[/INST] 1. The image shows a black background with a single, white, animal foot.\n\n2. The foot appears to be adapted for digging, as it has a claw-like structure.\n\n3. The animal foot in the image is th"
+  },
+  {
+    "id": "316",
+    "cf_type": "masked",
+    "vf_score": 0.3521,
+    "cot_orig": "[/INST] 1. In the image, I see a map of the United States with a green rectangle superimposed on the state of Colorado. The rectangle is not labeled with the name of the capital city.\n\n2. The rectangl",
+    "cot_cf": "[/INST] 1. The image is a black background with no visible content.\n2. There is no information in the image that can be used to determine the capital of Colorado.\n3. The image does not provide any clu"
+  },
+  {
+    "id": "2161",
+    "cf_type": "masked",
+    "vf_score": 0.1056,
+    "cot_orig": "[/INST] 1. The image shows a scenic landscape with a valley between two hills or mountains. The valley is filled with lush greenery, including trees and shrubs. The terrain appears to be a mix of open",
+    "cot_cf": "[/INST] 1. The image is a black and white photograph of a landscape, which appears to be a forested area with a dense canopy. There are no visible texts or distinguishing marks that provide specific i"
+  },
+  {
+    "id": "1476",
+    "cf_type": "masked",
+    "vf_score": 0.3019,
+    "cot_orig": "[/INST] 1. In the image, there is a turtle with a shell that is predominantly yellow with some brown markings. The turtle appears to be swimming in a body of water, as indicated by the ripples around ",
+    "cot_cf": "[/INST] 1. The image shows a black background with a white silhouette of a human figure. The figure appears to be standing upright with its arms at its sides.\n\n2. To reason about which animal's feet a"
+  },
+  {
+    "id": "2539",
+    "cf_type": "masked",
+    "vf_score": 0.3066,
+    "cot_orig": "[/INST] 1. In the image, there is a gray heron standing on a rock or concrete surface. The heron is a large wading bird with a long neck and legs, and it has a grayish-blue plumage.\n\n2. To answer the ",
+    "cot_cf": "[/INST] 1. The image is a black and white photograph of a bird, but the details are not clear due to the low resolution and lack of color.\n\n2. To reason about the organism's genus, we would need to ob"
+  },
+  {
+    "id": "589",
+    "cf_type": "masked",
+    "vf_score": 0.3857,
+    "cot_orig": "[/INST] 1. In the image, there is a snake with a distinctive pattern of red and black scales. The snake is coiled and appears to be resting on a bed of dry leaves and twigs.\n\n2. The snake's pattern an",
+    "cot_cf": "[/INST] 1. The image is a black background with a single, blurred object that appears to be a reptile. The object is not in focus, making it difficult to discern specific details.\n\n2. Since the object"
+  },
+  {
+    "id": "1855",
+    "cf_type": "masked",
+    "vf_score": 0.6706,
+    "cot_orig": "[/INST] 1. In the image, there are three objects: a tennis ball, a tennis racket, and a pair of boots. Each object is depicted in a different color: the tennis ball is blue, the tennis racket is green",
+    "cot_cf": "[/INST] 1. The image is a black background with three objects on it. The objects are a white square, a white circle, and a white rectangle.\n\n2. The three objects share the property of being white in c"
+  },
+  {
+    "id": "2031",
+    "cf_type": "masked",
+    "vf_score": 0.1028,
+    "cot_orig": "[/INST] 1. The image shows two beakers, each containing a solution with green particles. The beaker on the left is labeled \"Solution A\" and the beaker on the right is labeled \"Solution B.\"\n\n2. To dete",
+    "cot_cf": "[/INST] 1. The image shows two solutions, one in a black background and the other in a white background. Both solutions appear to contain green particles.\n\n2. To determine which solution has a higher "
+  },
+  {
+    "id": "3842",
+    "cf_type": "masked",
+    "vf_score": 0.326,
+    "cot_orig": "[/INST] 1. In the image, I see a world map with a focus on the African continent. The African continent is highlighted in green, making it stand out from the rest of the world.\n\n2. The image is a styl",
+    "cot_cf": "[/INST] 1. The image is a black background with a single, brightly lit object. The object appears to be a small, round, white light.\n\n2. The object is the only thing illuminated in the image, which ma"
+  },
+  {
+    "id": "3860",
+    "cf_type": "masked",
+    "vf_score": 0.1497,
+    "cot_orig": "[/INST] 1. In the image, we see a majestic snow-capped mountain, Mount Rainier, towering over a lush green valley filled with trees. The mountain is surrounded by a clear blue sky, and the valley appe",
+    "cot_cf": "[/INST] 1. The image is a black and white photograph of a forested area. It shows a dense canopy of trees, with no visible sky or horizon. The trees appear to be coniferous, with a variety of shapes a"
+  },
+  {
+    "id": "45",
+    "cf_type": "masked",
+    "vf_score": 0.8436,
+    "cot_orig": "[/INST] 1. In the image, there is a hand holding a partially eaten ice cream cone. The ice cream appears to be melting, as indicated by the dripping texture.\n\n2. The object in the image is an ice crea",
+    "cot_cf": "[/INST] 1. The image is a black background with a white object in the center. The object appears to be a simple geometric shape, possibly a rectangle or a square.\n\n2. The object is the only thing in t"
+  },
+  {
+    "id": "852",
+    "cf_type": "masked",
+    "vf_score": 0.239,
+    "cot_orig": "[/INST] 1. The image is a table that lists the planets of our solar system along with their volume in cubic kilometers and their primary composition. The table includes the following planets: Mercury,",
+    "cot_cf": "[/INST] 1. The image is a black background with no visible content.\n2. Since the image is black and does not provide any information about the solar system or the Earth, it is not possible to determin"
+  },
+  {
+    "id": "2094",
+    "cf_type": "masked",
+    "vf_score": 0.428,
+    "cot_orig": "[/INST] 1. The image shows a map of a region with a prominent peninsula or landmass extending into a body of water. The landmass is colored in green, indicating it is a part of a country or colony. Th",
+    "cot_cf": "[/INST] 1. The image is a close-up of a dark background with a lighter area that appears to be a colony of some sort. The colony is not clearly defined due to the close-up and the darkness of the back"
+  },
+  {
+    "id": "719",
+    "cf_type": "masked",
+    "vf_score": 0.4783,
+    "cot_orig": "[/INST] 1. In the image, there is a large body of water with a significant amount of smoke or steam rising from the surface. The smoke is dense and appears to be billowing upwards, suggesting a powerf",
+    "cot_cf": "[/INST] 1. The image is a black and white photograph of a dark sky. There are no visible landmarks or distinctive features that would allow for a clear identification of the location.\n\n2. The captain'"
+  },
+  {
+    "id": "803",
+    "cf_type": "masked",
+    "vf_score": 0.3108,
+    "cot_orig": "[/INST] 1. In the image, there are three models of molecules, each labeled with a different name: fluoroethanol, carbon tetrachloride, and nitrogen. Each model consists of atoms connected by lines, re",
+    "cot_cf": "[/INST] 1. The image shows a black background with a series of white lines and shapes that appear to be representations of molecules. These shapes are abstract and do not depict any specific molecules"
+  },
+  {
+    "id": "3806",
+    "cf_type": "masked",
+    "vf_score": 0.2654,
+    "cot_orig": "[/INST] 1. The image is a table with two columns. The left column lists the names of planets in our solar system, and the right column lists their volumes in cubic kilometers.\n\n2. The table includes t",
+    "cot_cf": "[/INST] 1. The image is a black background with no visible content. It does not provide any information about the solar system or the planets within it.\n\n2. Since the image does not contain any releva"
+  },
+  {
+    "id": "664",
+    "cf_type": "masked",
+    "vf_score": 0.3878,
+    "cot_orig": "[/INST] 1. The image is a bar chart that shows the average monthly precipitation in Nairobi, Kenya. The x-axis lists the months of the year, and the y-axis represents the precipitation in millimeters.",
+    "cot_cf": "[/INST] 1. The image shows a black background with a single white line. There is no additional information or context provided.\n\n2. The white line appears to be a horizontal line, but without any addi"
+  },
+  {
+    "id": "148",
+    "cf_type": "masked",
+    "vf_score": 0.1514,
+    "cot_orig": "[/INST] 1. The image shows two circular magnets with alternating colors, one blue and one orange. Each magnet has a letter \"S\" on it.\n2. The magnets are placed next to each other, with the \"S\" on the ",
+    "cot_cf": "[/INST] 1. The image shows two magnets, one black and one white, placed against a black background. They are positioned close to each other, with the black magnet on the left and the white magnet on t"
+  },
+  {
+    "id": "2388",
+    "cf_type": "masked",
+    "vf_score": 0.2305,
+    "cot_orig": "[/INST] 1. In the image, I see a map of the United States with the state of Mississippi highlighted in green. The map is stylized and does not include any text or labels.\n\n2. To determine the capital ",
+    "cot_cf": "[/INST] 1. The image is a black background with no visible content.\n\n2. Since the image is black and contains no information, there is no way to determine the capital of Mississippi from the image alo"
+  },
+  {
+    "id": "1294",
+    "cf_type": "masked",
+    "vf_score": 0.085,
+    "cot_orig": "[/INST] 1. In the image, there is a depiction of a trombone with a note being played. The note is represented by a swirl of air, which is a visual representation of the sound produced by the trombone.",
+    "cot_cf": "[/INST] 1. The image shows a black background with a trombone. The trombone appears to be a solid object, as it has a defined shape and is not a liquid or a gas.\n\n2. A trombone is a musical instrument"
+  },
+  {
+    "id": "407",
+    "cf_type": "masked",
+    "vf_score": 0.4787,
+    "cot_orig": "[/INST] 1. The image shows a map of a region with a prominent coastal area. The map is stylized with a focus on the coastline and the land bordering the ocean. The color scheme is simple, with the lan",
+    "cot_cf": "[/INST] 1. The image is a close-up of a dark background with a lighter area that appears to be a colony of some sort. The colony is not clearly defined due to the close-up and the darkness of the back"
+  },
+  {
+    "id": "1577",
+    "cf_type": "masked",
+    "vf_score": 0.1708,
+    "cot_orig": "[/INST] 1. The image shows a blue bucket with a handle. The bucket appears to be made of a smooth, shiny material.\n\n2. The shiny surface of the bucket suggests that it is made of a material that refle",
+    "cot_cf": "[/INST] 1. The image shows a black bucket with a handle. The bucket appears to be made of a solid material, and it is placed against a dark background.\n\n2. To determine the material of the bucket, we "
+  },
+  {
+    "id": "1316",
+    "cf_type": "masked",
+    "vf_score": 0.3468,
+    "cot_orig": "[/INST] 1. The image shows a stylized map of the United States with the state of Iowa highlighted in green. The map is not to scale and does not include any geographic features or cities.\n\n2. The high",
+    "cot_cf": "[/INST] 1. The image is a black background with no visible content.\n\n2. Since the image is black and contains no information, there is no way to determine the capital of Iowa from the image alone.\n\n3."
+  },
+  {
+    "id": "1434",
+    "cf_type": "masked",
+    "vf_score": 0.4665,
+    "cot_orig": "[/INST] 1. In the image, there is a large, dark-colored fish with a long, pointed snout and a pair of fins on its back. The fish is swimming in a body of water, which appears to be a tropical sea or o",
+    "cot_cf": "[/INST] 1. The image is a black background with a single, small, white object that appears to be a fish.\n\n2. The fish is the only object in the image, and it is located in the lower right corner.\n\n3. "
+  },
+  {
+    "id": "403",
+    "cf_type": "masked",
+    "vf_score": 0.5295,
+    "cot_orig": "[/INST] 1. In the image, there are three objects: a glass, a flask, and a water glass. Each object is depicted in a stylized manner, with the glass and flask being shown in a three-dimensional perspec",
+    "cot_cf": "[/INST] 1. The image is a black background with three objects on it. The objects are a white square, a white circle, and a white rectangle.\n\n2. The three objects share the property of being white in c"
+  },
+  {
+    "id": "608",
+    "cf_type": "masked",
+    "vf_score": 0.3101,
+    "cot_orig": "[/INST] 1. The image shows a cartoon-style illustration of a dinosaur. It is a four-legged animal with a long neck and tail, and it appears to be walking or running. The dinosaur has a body covered in",
+    "cot_cf": "[/INST] 1. The image is a black background with a faint outline of a shape that resembles an archosaur. The shape is not detailed enough to provide a clear description of the archosaur's features.\n\n2."
+  },
+  {
+    "id": "2501",
+    "cf_type": "masked",
+    "vf_score": 0.7622,
+    "cot_orig": "[/INST] 1. In the image, there are three objects: a wave, a cracker, and a pile of potato chips. The wave is depicted in a stylized manner, with a blue ocean and a wave cresting. The cracker is a simp",
+    "cot_cf": "[/INST] 1. The image is a black background with three objects on it. The objects are a white square, a white circle, and a white rectangle.\n\n2. The three objects share the property of being white in c"
+  },
+  {
+    "id": "1608",
+    "cf_type": "masked",
+    "vf_score": 0.1791,
+    "cot_orig": "[/INST] 1. In the image, there is a large bird with a long beak and a long neck, wading in a body of water. The bird has a white body with some grey markings, and its beak is long and pointed.\n\n2. The",
+    "cot_cf": "[/INST] 1. The image is a black background with a single spot-billed pelican visible. The pelican is a large bird with a distinctive bill that has a large pouch underneath for catching fish.\n\n2. To an"
+  },
+  {
+    "id": "2960",
+    "cf_type": "masked",
+    "vf_score": 0.3806,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets. The magnets are labeled \"Pair 1\" and \"Pair 2.\" Each pair has one magnet labeled \"N\" and the other labeled ",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets. Each pair consists of a magnet with a north pole and a magnet with a south pole. The magnets are placed close to each other, but they are not t"
+  },
+  {
+    "id": "3009",
+    "cf_type": "masked",
+    "vf_score": 0.2437,
+    "cot_orig": "[/INST] 1. In the image, there are two magnets with the letters \"N\" and \"S\" on them, and they are placed on a background with alternating stripes of green and purple. The magnets are positioned in suc",
+    "cot_cf": "[/INST] 1. The image shows two magnets, one black and one white, placed close to each other.\n\n2. Based on the image, we can observe that the magnets are of opposite poles, as they are placed next to e"
+  },
+  {
+    "id": "2575",
+    "cf_type": "masked",
+    "vf_score": 0.274,
+    "cot_orig": "[/INST] 1. The image shows two jars, labeled \"Sample A\" and \"Sample B,\" each containing a number of particles that are either blue or green. The particles are depicted as being in motion, suggesting t",
+    "cot_cf": "[/INST] 1. The image shows two samples, one on the left and one on the right. Both samples appear to be black, which might suggest that they are both at the same temperature. However, without addition"
+  },
+  {
+    "id": "3534",
+    "cf_type": "masked",
+    "vf_score": 0.5409,
+    "cot_orig": "[/INST] 1. In the image, there is a diagram illustrating the process of plant reproduction. The diagram shows a plant with a seed capsule, a spore capsule, and a spore starting to grow. The plant is d",
+    "cot_cf": "[/INST] 1. The image is a black background with no visible content.\n\n2. The image does not provide any information about a sperm and an egg, as it is completely black and lacks any discernible details"
+  },
+  {
+    "id": "1220",
+    "cf_type": "masked",
+    "vf_score": 0.5254,
+    "cot_orig": "[/INST] 1. In the image, there is a map of the United States with a green color scheme. One state is highlighted in a different color, which is not green.\n\n2. The highlighted state is not green, which",
+    "cot_cf": "[/INST] 1. The image is a black background with a single, brightly lit object. The object appears to be a small, round, white light.\n\n2. The brightly lit object is the only thing in the image that is "
+  },
+  {
+    "id": "3859",
+    "cf_type": "masked",
+    "vf_score": 0.251,
+    "cot_orig": "[/INST] 1. In the image, there are two magnets with the letters \"S\" and \"N\" on them. The magnets are placed on an orange background.\n\n2. The magnets are labeled \"N\" and \"S,\" which stand for North and ",
+    "cot_cf": "[/INST] 1. The image shows two magnets, one black and one white, placed close to each other.\n\n2. Based on the image, we can observe that the magnets are of opposite poles, as they are placed next to e"
+  },
+  {
+    "id": "3283",
+    "cf_type": "masked",
+    "vf_score": 0.2098,
+    "cot_orig": "[/INST] 1. The image shows a hat with a textured pattern on it. The pattern appears to be a series of lines or stitches that create a grid-like design. The hat is black in color.\n\n2. The hat's materia",
+    "cot_cf": "[/INST] 1. The image shows a black hat against a black background. The hat appears to be a simple, solid-colored design with no visible patterns or textures.\n\n2. Since the hat is black and the backgro"
+  },
+  {
+    "id": "612",
+    "cf_type": "masked",
+    "vf_score": 0.3839,
+    "cot_orig": "[/INST] 1. The image shows three fossils of insects, each depicted in a different layer of sedimentary rock. The fossils are of a beetle, a butterfly, and a leaf.\n\n2. To determine which fossil is olde",
+    "cot_cf": "[/INST] 1. The image shows a black background with a single, white, rectangular shape. There are no other objects or details visible in the image.\n\n2. Since the image only contains a single, white, re"
+  },
+  {
+    "id": "3599",
+    "cf_type": "masked",
+    "vf_score": 0.0992,
+    "cot_orig": "[/INST] 1. In the image, there is a cartoon depiction of a hippopotamus. The hippo is shown in a stylized manner, with exaggerated features such as large eyes and a big smile. It is colored in shades ",
+    "cot_cf": "[/INST] 1. The image is a black background with a white object. The object appears to be a stuffed hippo.\n\n2. A stuffed hippo is a solid object. It is not a liquid or a gas because it has a definite s"
+  },
+  {
+    "id": "3967",
+    "cf_type": "masked",
+    "vf_score": 0.1899,
+    "cot_orig": "[/INST] 1. The image shows two magnets with the letters \"N\" and \"S\" on them, placed next to each other. The magnets are colored in shades of green and purple.\n\n2. Magnets are attracted to each other i",
+    "cot_cf": "[/INST] 1. The image shows two magnets, one black and one white, placed against a black background. They are positioned close to each other, with the black magnet on the left and the white magnet on t"
+  },
+  {
+    "id": "2646",
+    "cf_type": "masked",
+    "vf_score": 0.2414,
+    "cot_orig": "[/INST] 1. In the image, there is a large, brown, spotted amphibian with a prominent head and a wide mouth. The amphibian is resting on a grassy surface with some green plants around it.\n\n2. The amphi",
+    "cot_cf": "[/INST] 1. The image is a black background with a single, small, white object. The object appears to be a frog.\n\n2. The frog is the only amphibian visible in the image. It is small and white, which is"
+  },
+  {
+    "id": "4225",
+    "cf_type": "masked",
+    "vf_score": 0.4429,
+    "cot_orig": "[/INST] 1. In the image, there are two kangaroos. One kangaroo is standing upright on its hind legs, facing the camera, while the other kangaroo is standing on all fours, facing away from the camera. ",
+    "cot_cf": "[/INST] 1. The image is a black and white photograph of a mammal. The mammal appears to be a large, quadrupedal animal with a long snout and a thick, furry coat. It has a long, slender tail and a pair"
+  },
+  {
+    "id": "963",
+    "cf_type": "masked",
+    "vf_score": 0.1525,
+    "cot_orig": "[/INST] 1. The image shows two flasks, each containing a solution with blue particles dispersed throughout. The flask on the left is labeled \"Solution A\" and the flask on the right is labeled \"Solutio",
+    "cot_cf": "[/INST] 1. The image shows two solutions, one in a black background and the other in a white background. Both solutions appear to contain blue particles.\n\n2. To determine which solution has a higher c"
+  },
+  {
+    "id": "2661",
+    "cf_type": "masked",
+    "vf_score": 0.4767,
+    "cot_orig": "[/INST] 1. The image shows a map of a region with a prominent peninsula extending into a body of water. The peninsula is colored in green, and there is a large, green-colored area on the opposite side",
+    "cot_cf": "[/INST] 1. The image is a close-up of a dark background with a lighter area that appears to be a colony of some sort. The colony is not clearly defined due to the close-up and the darkness of the back"
+  },
+  {
+    "id": "1670",
+    "cf_type": "masked",
+    "vf_score": 0.2362,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets of the same type (either both north or both south). The magnets are arranged in a loop, with the loops bein",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets. Each pair consists of a magnet with a north pole and a magnet with a south pole. The magnets are placed close to each other, but they are not t"
+  },
+  {
+    "id": "545",
+    "cf_type": "masked",
+    "vf_score": 0.3118,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets of the same type (either both north or both south). The magnets are placed on a white background, and each ",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets. Each pair consists of a magnet with a north pole and a magnet with a south pole. The magnets are placed close to each other, but they are not t"
+  },
+  {
+    "id": "2949",
+    "cf_type": "masked",
+    "vf_score": 0.5523,
+    "cot_orig": "[/INST] 1. The image shows two lists of items that Sandeep and Tracy want. Sandeep's list includes a sandwich, oranges, broccoli, water, and winter. Tracy's list includes a hot dog, tomatoes, almonds,",
+    "cot_cf": "[/INST] 1. The image shows a black background with no visible objects or actions.\n\n2. Since there is no visible content, it is not possible to determine what Sandeep and Tracy want or what they can tr"
+  },
+  {
+    "id": "3045",
+    "cf_type": "masked",
+    "vf_score": 0.5847,
+    "cot_orig": "[/INST] 1. In the image, there are three models of molecules, each labeled with a different name: methane, bromomethane, and oxygen. Each model consists of a central atom surrounded by other atoms.\n\n2",
+    "cot_cf": "[/INST] 1. The image shows a black background with a series of white lines and shapes that appear to be representations of molecules. These shapes are abstract and do not depict any specific molecules"
+  },
+  {
+    "id": "548",
+    "cf_type": "masked",
+    "vf_score": 0.6459,
+    "cot_orig": "[/INST] 1. In the image, there are three objects: a metal bar, a set of building blocks, and a magnifying glass.\n\n2. The metal bar is a long, thin, and straight object, typically used for construction",
+    "cot_cf": "[/INST] 1. The image is a black background with three objects on it. The objects are a white square, a white circle, and a white rectangle.\n\n2. The three objects share the property of being white in c"
+  },
+  {
+    "id": "397",
+    "cf_type": "masked",
+    "vf_score": 0.5823,
+    "cot_orig": "[/INST] 1. In the image, there is a fossil of a snake-like creature with a pattern of scales. The fossil is on a rock surface, and the snake-like creature appears to be coiled.\n\n2. The snake-like crea",
+    "cot_cf": "[/INST] 1. In the image, there is a fossil of a bird, specifically a Palaeopygion. The fossil is depicted in black and white, and it appears to be a side view of the bird.\n\n2. The Palaeopygion is know"
+  },
+  {
+    "id": "3256",
+    "cf_type": "masked",
+    "vf_score": 0.3618,
+    "cot_orig": "[/INST] 1. In the image, I see a street lamp with snow on it, indicating that it has been snowing recently. The street lamp is illuminated, and the sky is dark, suggesting that it is either nighttime ",
+    "cot_cf": "[/INST] 1. The image is a black and white photograph of a landscape. It shows a dark sky, which could suggest either a cloudy day or a clear night. The sky is the main focus of the image, and there ar"
+  },
+  {
+    "id": "2687",
+    "cf_type": "masked",
+    "vf_score": 0.0999,
+    "cot_orig": "[/INST] 1. In the image, I see a stylized map of the world with a focus on the continents. The map is not to scale and does not include the oceans in detail. The continents are colored in green, and t",
+    "cot_cf": "[/INST] 1. The image is a black background with a white outline. There is no specific detail that stands out as an ocean.\n\n2. The image does not provide any information that would allow me to determin"
+  },
+  {
+    "id": "1106",
+    "cf_type": "masked",
+    "vf_score": 0.7415,
+    "cot_orig": "[/INST] 1. In the image, there is a pineapple with a green top and a yellow body, which is a fruit. Next to the pineapple, there is a slice of pineapple that has been cut off.\n\n2. The pineapple is a f",
+    "cot_cf": "[/INST] 1. The image is a black background with a white object in the center. The object appears to be a simple geometric shape, possibly a rectangle or a square.\n\n2. The object is the only thing in t"
+  },
+  {
+    "id": "2624",
+    "cf_type": "masked",
+    "vf_score": 0.247,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each consisting of two magnets of equal size and strength. The magnets are arranged in a circular pattern, with one magnet in each pair facing ",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets. Each pair consists of a magnet with a north pole and a magnet with a south pole. The magnets are placed close to each other, but they are not t"
+  },
+  {
+    "id": "619",
+    "cf_type": "masked",
+    "vf_score": 0.1096,
+    "cot_orig": "[/INST] 1. In the image, there are two rectangles, each containing a series of pink circles. The rectangles are separated by a dashed line, which represents a permeable membrane. The pink circles repr",
+    "cot_cf": "[/INST] 1. The image shows a diagram of a permeable membrane with solute particles on both sides. The solute particles are depicted as small dots, and they are shown moving in both directions across t"
+  },
+  {
+    "id": "3981",
+    "cf_type": "masked",
+    "vf_score": 0.1942,
+    "cot_orig": "[/INST] 1. In the image, there is a fossil of a Meiolania, which is a type of prehistoric marine reptile. The fossil is displayed in a museum setting, with a white background and a clear glass case. T",
+    "cot_cf": "[/INST] 1. In the image, there is a fossil of a fish. The fossil appears to be a side view of a fish, with its body and fins visible.\n\n2. To reason about the trait of Meiolania, we need to consider wh"
+  },
+  {
+    "id": "5",
+    "cf_type": "masked",
+    "vf_score": 0.6246,
+    "cot_orig": "[/INST] 1. The image depicts a food web with various organisms, including a polar bear, an Arctic fox, a caribou, a barren-ground caribou, a grizzly bear, a brown bear, a bison, a bear sedge, a lichen",
+    "cot_cf": "[/INST] 1. The image shows a black background with no visible objects or text.\n\n2. Since the question asks about the lichen, it is likely that the image is meant to represent the lichen or its compone"
+  },
+  {
+    "id": "418",
+    "cf_type": "masked",
+    "vf_score": 0.1865,
+    "cot_orig": "[/INST] 1. The image shows two circular magnets with the letters \"S\" and \"N\" on them. The magnets are placed side by side, and they appear to be of the same type, as they are both blue and have the sa",
+    "cot_cf": "[/INST] 1. The image shows two magnets placed close to each other against a black background.\n\n2. Based on the image, we can observe that the magnets are of the same type, which suggests that they hav"
+  },
+  {
+    "id": "4072",
+    "cf_type": "masked",
+    "vf_score": 0.1947,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets of the same type (either both north or both south). The magnets are arranged in a circular fashion, with th",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets. Each pair consists of a magnet with a north pole and a magnet with a south pole. The magnets are placed close to each other, but they are not t"
+  },
+  {
+    "id": "1430",
+    "cf_type": "masked",
+    "vf_score": 0.3248,
+    "cot_orig": "[/INST] 1. In the image, there is a large, brown, semi-aquatic mammal with a thick, waterproof coat of fur, a broad, flat tail, and a pair of sharp, curved claws. It is standing on rocks and appears t",
+    "cot_cf": "[/INST] 1. The image is a black and white photograph of a beaver.\n2. The beaver is a mammal, and it belongs to the genus Castor.\n3. The North American beaver is a species of beaver native to North Ame"
+  },
+  {
+    "id": "2822",
+    "cf_type": "masked",
+    "vf_score": 0.3186,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets of the same type (either both north or both south). The magnets are placed on a white background, and there",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets. Each pair consists of a magnet with a north pole and a magnet with a south pole. The magnets are placed close to each other, but they are not t"
+  },
+  {
+    "id": "3820",
+    "cf_type": "masked",
+    "vf_score": 0.2701,
+    "cot_orig": "[/INST] 1. The image shows a clothes hanger with a hook at the top. The hanger appears to be made of a light-colored material, possibly plastic or a similar synthetic material.\n\n2. The hanger is desig",
+    "cot_cf": "[/INST] 1. The image shows a black background with a single object that appears to be a clothes hanger. The hanger is not clearly visible due to the black background, but it seems to be a simple, thin"
+  },
+  {
+    "id": "2418",
+    "cf_type": "masked",
+    "vf_score": 0.5976,
+    "cot_orig": "[/INST] 1. In the image, there is a man wearing a blue hard hat and a black shirt, working on a solar panel installation on a rooftop. The man is kneeling on the roof and appears to be in the process ",
+    "cot_cf": "[/INST] 1. The image is a black background with a blurred object in the center. The object appears to be a person, but it is not clear enough to discern any specific details.\n\n2. The blurred object co"
+  },
+  {
+    "id": "1376",
+    "cf_type": "masked",
+    "vf_score": 0.1824,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets. The magnets are arranged in a way that they are facing each other, with the \"N\" and \"S\" poles of the magne",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets. Each pair consists of a magnet with a north pole and a magnet with a south pole. The magnets are placed close to each other, but they are not t"
+  },
+  {
+    "id": "1589",
+    "cf_type": "masked",
+    "vf_score": 0.268,
+    "cot_orig": "[/INST] 1. In the image, we see a rocky shoreline at Little Corona Beach during what appears to be either sunrise or sunset, given the warm colors in the sky. The tide pools are filled with water, and",
+    "cot_cf": "[/INST] 1. The image is a black and white photograph of a beach scene. It shows a sandy beach with a darker area that could be a tide pool or a shadowed area. There are no visible tide pool ecosystems"
+  },
+  {
+    "id": "2959",
+    "cf_type": "masked",
+    "vf_score": 0.5788,
+    "cot_orig": "[/INST] 1. The image shows a table with two rows, each with two columns. The top row has the title \"Pizza\" and the bottom row has the title \"Initial temperature (°C)\". The left column lists \"Pizza on ",
+    "cot_cf": "[/INST] 1. The image shows a black background with a white line. There is no additional context or information provided.\n\n2. The question asks about thermal energy transfer during a specific time. How"
+  },
+  {
+    "id": "1072",
+    "cf_type": "masked",
+    "vf_score": 0.3494,
+    "cot_orig": "[/INST] 1. In the image, there is a white rabbit sitting on a snow-covered surface. The rabbit's fur is white, which helps it blend in with the snowy background, providing camouflage.\n\n2. The rabbit's",
+    "cot_cf": "[/INST] 1. The image shows a black background with a white outline of a polar bear.\n\n2. The polar bear is an animal that is adapted to survive in cold places. Its skin is thick and covered with a laye"
+  },
+  {
+    "id": "1745",
+    "cf_type": "masked",
+    "vf_score": 0.347,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets of the same type (either both north or both south). The magnets are placed on a white background, and there",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets. Each pair consists of a magnet with a north pole and a magnet with a south pole. The magnets are placed close to each other, but they are not t"
+  },
+  {
+    "id": "454",
+    "cf_type": "masked",
+    "vf_score": 0.236,
+    "cot_orig": "[/INST] 1. In the image, there are two magnets with the letters \"S\" and \"N\" on them, and they are placed on a background with alternating blue and green stripes. The magnets are positioned in such a w",
+    "cot_cf": "[/INST] 1. The image shows two magnets, one black and one white, placed close to each other.\n\n2. Based on the image, we can observe that the magnets are of opposite poles, as they are placed next to e"
+  },
+  {
+    "id": "467",
+    "cf_type": "masked",
+    "vf_score": 0.207,
+    "cot_orig": "[/INST] 1. In the image, there is a bird standing on one leg. The bird has a long neck and a long beak. It is standing in a body of water, which appears to be a lake or a pond. The bird's legs are lon",
+    "cot_cf": "[/INST] 1. The image shows a black background with a silhouette of an animal. The animal has long legs and a long neck.\n\n2. The animal's long legs and neck suggest that it is adapted for wading, as th"
+  },
+  {
+    "id": "1208",
+    "cf_type": "masked",
+    "vf_score": 0.0864,
+    "cot_orig": "[/INST] 1. In the image, there are two rectangles with yellow circles representing solute particles. The rectangles are separated by a dashed line, which could represent a permeable membrane. The yell",
+    "cot_cf": "[/INST] 1. The image shows a diagram of a permeable membrane with solute particles on both sides. The solute particles are depicted as small dots, and they are shown moving in both directions across t"
+  },
+  {
+    "id": "4205",
+    "cf_type": "masked",
+    "vf_score": 0.5164,
+    "cot_orig": "[/INST] 1. The image shows a map of a region with a large body of water, which appears to be the Atlantic Ocean. There is a prominent landmass that is colored in green, indicating a particular area of",
+    "cot_cf": "[/INST] 1. The image is a close-up of a dark background with a lighter area that appears to be a colony of some sort. The colony is not clearly defined due to the close-up and the darkness of the back"
+  },
+  {
+    "id": "2652",
+    "cf_type": "masked",
+    "vf_score": 0.1441,
+    "cot_orig": "[/INST] 1. In the image, I see a dense forest with a variety of trees and vegetation. The trees are lush and green, indicating a healthy and thriving ecosystem. The forest appears to be a tropical rai",
+    "cot_cf": "[/INST] 1. The image is a black and white photograph of a forest. It shows a dense canopy of trees with a variety of shapes and sizes. The forest appears to be lush and thriving, with a rich diversity"
+  },
+  {
+    "id": "1631",
+    "cf_type": "masked",
+    "vf_score": 0.2423,
+    "cot_orig": "[/INST] 1. In the image, I see a map of the United States with a green color scheme. The state of Wyoming is highlighted in a darker shade of green, indicating that it is the focus of the map.\n\n2. The",
+    "cot_cf": "[/INST] 1. The image is a black background with no visible content.\n\n2. There is no information in the image that can be used to determine the capital of Wyoming. The image does not contain any text, "
+  },
+  {
+    "id": "475",
+    "cf_type": "masked",
+    "vf_score": 0.382,
+    "cot_orig": "[/INST] 1. In the image, there is a woman named Rose sitting at a desk with a laptop in front of her. She is wearing glasses and appears to be focused on the screen. There are also several wind turbin",
+    "cot_cf": "[/INST] 1. The image is a black background with a blurred object in the center. The object appears to be a small, round, and possibly metallic or reflective item.\n\n2. Rose's test is a method used to d"
+  },
+  {
+    "id": "557",
+    "cf_type": "masked",
+    "vf_score": 0.2995,
+    "cot_orig": "[/INST] 1. In the image, I see a map of the United States with the state of Iowa highlighted in green. The map shows the state's borders and the location of its capital.\n\n2. To determine the capital o",
+    "cot_cf": "[/INST] 1. The image is a black background with no visible content.\n\n2. Since the image is black and contains no information, there is no way to determine the capital of Iowa from the image alone.\n\n3."
+  },
+  {
+    "id": "2945",
+    "cf_type": "masked",
+    "vf_score": 0.1568,
+    "cot_orig": "[/INST] 1. The image shows two flasks, each containing a solution with blue particles dispersed throughout. The flask on the left is labeled \"Solution A\" and the flask on the right is labeled \"Solutio",
+    "cot_cf": "[/INST] 1. The image shows two solutions, one in a black background and the other in a white background. Both solutions appear to contain blue particles.\n\n2. To determine which solution has a higher c"
+  },
+  {
+    "id": "3648",
+    "cf_type": "masked",
+    "vf_score": 0.5393,
+    "cot_orig": "[/INST] 1. In the image, there is a bird with a distinctive appearance. It has a large head, a prominent beak, and a body covered in a pattern of dark and light feathers. The bird's posture is upright",
+    "cot_cf": "[/INST] 1. The image is a black background with a blurred object in the center. There is no clear depiction of an organism or any other identifiable features.\n\n2. Since the image is too blurred to dis"
+  },
+  {
+    "id": "1039",
+    "cf_type": "masked",
+    "vf_score": 0.2935,
+    "cot_orig": "[/INST] 1. In the image, there is a large, brown mammal with a long neck and a long tail. It is standing on all fours in a grassy area with green grass. The animal appears to be a kangaroo.\n\n2. The an",
+    "cot_cf": "[/INST] 1. The image is a black and white photograph of a mammal. The mammal appears to be a large, quadrupedal animal with a long snout and a thick, furry coat. It has a long, slender tail and a pair"
+  },
+  {
+    "id": "2235",
+    "cf_type": "masked",
+    "vf_score": 0.3881,
+    "cot_orig": "[/INST] 1. In the image, there is a close-up of a turtle's head, showing its mouth open and its tongue visible. The turtle appears to be eating something, possibly a leafy plant.\n\n2. To answer the que",
+    "cot_cf": "[/INST] 1. The image is a black and white microscopic view of a cell. It appears to be a cell with a nucleus, as there is a distinct, darker area within the cell that could be the nucleus.\n\n2. The pre"
+  },
+  {
+    "id": "483",
+    "cf_type": "masked",
+    "vf_score": 0.3646,
+    "cot_orig": "[/INST] 1. In the image, there is a black object with a hole in the center, and it appears to be a piece of machinery or equipment. There are three metal rods or poles in front of the black object, an",
+    "cot_cf": "[/INST] 1. The image shows a black background with a white line. The line appears to be straight and horizontal.\n\n2. To determine the direction of the pull, we need to consider the orientation of the "
+  },
+  {
+    "id": "4226",
+    "cf_type": "masked",
+    "vf_score": 0.2607,
+    "cot_orig": "[/INST] 1. In the image, there is a large island with a town built on it. The island is surrounded by water, and there are boats visible in the water. The sky is clear, suggesting a sunny day.\n\n2. Bas",
+    "cot_cf": "[/INST] 1. The image is a black and white photograph of a landscape. It shows a dark sky, which could suggest either a cloudy day or a clear night. The sky is the main focus of the image, and there ar"
+  },
+  {
+    "id": "2725",
+    "cf_type": "masked",
+    "vf_score": 0.3246,
+    "cot_orig": "[/INST] 1. In the image, there is a large bird with a prominent wingspan, and it appears to be perched on a branch or a pole. The bird has a dark plumage with a lighter underside, and it has a long, p",
+    "cot_cf": "[/INST] 1. The image is a black and white photograph. It shows a dark background with a lighter area that appears to be a bird. The bird is not clearly visible due to the lack of detail in the image.\n"
+  },
+  {
+    "id": "1590",
+    "cf_type": "masked",
+    "vf_score": 0.2556,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets of the same type (either both north or both south). The magnets are arranged in a circular fashion, with th",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets. Each pair consists of a magnet with a north pole and a magnet with a south pole. The magnets are placed close to each other, but they are not t"
+  },
+  {
+    "id": "342",
+    "cf_type": "masked",
+    "vf_score": 0.5472,
+    "cot_orig": "[/INST] 1. The image is a table that lists the volume of each planet in our solar system, along with their primary composition. The planets listed are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Ura",
+    "cot_cf": "[/INST] 1. The image is a black background with no visible content. It does not provide any information about the solar system or the four smallest planets.\n\n2. Since the image does not contain any re"
+  },
+  {
+    "id": "3195",
+    "cf_type": "masked",
+    "vf_score": 0.3717,
+    "cot_orig": "[/INST] 1. The image shows three layers of sediment with fossils embedded in them. From top to bottom, the layers are:\n   - A layer with a fossil of a leaf.\n   - A layer with a fossil of a beetle.\n   ",
+    "cot_cf": "[/INST] 1. The image shows a black background with a single, white, circular object. There are no other objects or details visible in the image.\n\n2. Since the image only contains one object, there is "
+  },
+  {
+    "id": "42",
+    "cf_type": "masked",
+    "vf_score": 0.5196,
+    "cot_orig": "[/INST] 1. In the image, there is a tray with multiple small pots, each containing soil and a small green plant. The plants appear to be seedlings, and they are all in the early stages of growth.\n\n2. ",
+    "cot_cf": "[/INST] 1. The image shows a black background with a single, brightly lit object in the center. The object appears to be a small, round light source, possibly a light bulb or a small lamp.\n\n2. To dete"
+  },
+  {
+    "id": "1462",
+    "cf_type": "masked",
+    "vf_score": 0.1308,
+    "cot_orig": "[/INST] 1. In the image, there are two rectangles, each containing a series of purple circles. The circles are arranged in a pattern that suggests a representation of solute particles. The rectangles ",
+    "cot_cf": "[/INST] 1. The image shows a diagram of a permeable membrane with solute particles on both sides. The solute particles are depicted as small dots, and they are shown moving in both directions across t"
+  },
+  {
+    "id": "3852",
+    "cf_type": "masked",
+    "vf_score": 0.3728,
+    "cot_orig": "[/INST] 1. The image shows a stylized representation of an icicle, which is a frozen water droplet hanging from a surface.\n\n2. An icicle is formed when water droplets freeze and then continue to grow ",
+    "cot_cf": "[/INST] 1. The image is a black background with no visible content.\n\n2. Since the image is black and there is no visible content, it is not possible to determine if an icicle is a solid, a liquid, or "
+  },
+  {
+    "id": "3743",
+    "cf_type": "masked",
+    "vf_score": 0.1696,
+    "cot_orig": "[/INST] 1. The image shows a stylized map of a region, with the landmasses colored in green and the water in blue. The map is not to scale and does not include any specific cities or geographic featur",
+    "cot_cf": "[/INST] 1. The image shows a black background with no visible landmarks or cities. It appears to be a simple, dark graphic with no discernible features.\n\n2. Since the image is black and lacks any reco"
+  },
+  {
+    "id": "443",
+    "cf_type": "masked",
+    "vf_score": 0.4148,
+    "cot_orig": "[/INST] 1. In the image, there are two columns with temperature values. The first column lists the initial temperature, and the second column lists the final temperature. The temperatures are given in",
+    "cot_cf": "[/INST] 1. The image shows a black background with a white line. There is no additional context or information provided.\n\n2. The question asks about thermal energy transfer during a specific time. How"
+  },
+  {
+    "id": "738",
+    "cf_type": "masked",
+    "vf_score": 0.433,
+    "cot_orig": "[/INST] 1. In the image, there are two women, Jennifer and Scarlett, who appear to be scientists or researchers. They are standing in a field with a small concrete structure in front of them. Jennifer",
+    "cot_cf": "[/INST] 1. The image is a black background with a blurred image of a person. The person appears to be a woman with a dark complexion. She is wearing a dark top and has her hair pulled back. The image "
+  },
+  {
+    "id": "211",
+    "cf_type": "masked",
+    "vf_score": 0.158,
+    "cot_orig": "[/INST] 1. The image shows two flasks, each containing a solution with green particles dispersed throughout. The flask on the left is labeled \"Solution A\" and the one on the right is labeled \"Solution",
+    "cot_cf": "[/INST] 1. The image shows two solutions, one in a black background and the other in a white background. Both solutions appear to contain green particles.\n\n2. To determine which solution has a higher "
+  },
+  {
+    "id": "1351",
+    "cf_type": "masked",
+    "vf_score": 0.2287,
+    "cot_orig": "[/INST] 1. The image shows two circular magnets with the letters \"S\" and \"N\" on them. The magnets are placed next to each other, and they appear to be of the same type, as they are both orange and hav",
+    "cot_cf": "[/INST] 1. The image shows two magnets, one black and one white, placed against a black background. They are positioned close to each other, with the black magnet on the left and the white magnet on t"
+  },
+  {
+    "id": "1681",
+    "cf_type": "masked",
+    "vf_score": 0.6278,
+    "cot_orig": "[/INST] 1. The image shows a cylindrical object with a tapered end, resembling a tube or a pipe. It appears to be made of a material with a smooth, possibly metallic, surface.\n\n2. The object's shape a",
+    "cot_cf": "[/INST] 1. The image is a black background with a white object in the center. The object appears to be a simple geometric shape, possibly a rectangle or a square.\n\n2. The object is the only thing in t"
+  },
+  {
+    "id": "2360",
+    "cf_type": "masked",
+    "vf_score": 0.1647,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets of the same type (either both north or both south). The magnets are placed on a white background, and there",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets. Each pair consists of a magnet with a north pole and a magnet with a south pole. The magnets are placed close to each other, but they are not t"
+  },
+  {
+    "id": "758",
+    "cf_type": "masked",
+    "vf_score": 0.1647,
+    "cot_orig": "[/INST] 1. The image shows two flasks, each containing a solution with green particles. The flask on the left is labeled \"Solution A\" and the one on the right is labeled \"Solution B.\"\n\n2. To determine",
+    "cot_cf": "[/INST] 1. The image shows two solutions, one in a black background and the other in a white background. Both solutions appear to contain green particles.\n\n2. To determine which solution has a higher "
+  },
+  {
+    "id": "3226",
+    "cf_type": "masked",
+    "vf_score": 0.775,
+    "cot_orig": "[/INST] 1. The image shows a red towel with a white stripe running horizontally across the middle. The towel is neatly folded and appears to be a standard household item.\n\n2. The towel is commonly use",
+    "cot_cf": "[/INST] 1. The image is a black background with a white object in the center. The object appears to be a simple geometric shape, possibly a rectangle or a square.\n\n2. The object is the only thing in t"
+  },
+  {
+    "id": "582",
+    "cf_type": "masked",
+    "vf_score": 0.1223,
+    "cot_orig": "[/INST] 1. The image is a line graph showing the average temperature in Detroit, Michigan, over the course of a year. The graph is labeled with the months of the year on the x-axis and the average tem",
+    "cot_cf": "[/INST] 1. The image shows a black background with a series of horizontal bars of varying heights. These bars represent the average temperature for each month of the year.\n\n2. To determine the coolest"
+  },
+  {
+    "id": "2799",
+    "cf_type": "masked",
+    "vf_score": 0.1993,
+    "cot_orig": "[/INST] 1. In the image, there are two magnets with the letters \"S\" and \"N\" on them, and they are placed on a blue background with an orange stripe. The magnets are positioned in such a way that they ",
+    "cot_cf": "[/INST] 1. The image shows two magnets, one black and one white, placed close to each other.\n\n2. Based on the image, we can observe that the magnets are of opposite poles, as they are placed next to e"
+  },
+  {
+    "id": "3968",
+    "cf_type": "masked",
+    "vf_score": 0.4799,
+    "cot_orig": "[/INST] 1. The image shows a table with two columns, \"Initial temperature\" and \"Final temperature,\" each with two rows. The first row lists \"Vial in the refrigerator\" and \"Vial on the counter,\" and th",
+    "cot_cf": "[/INST] 1. The image shows a black background with a white line. There is no additional context or information provided.\n\n2. The question asks about thermal energy transfer during a specific time. How"
+  },
+  {
+    "id": "295",
+    "cf_type": "masked",
+    "vf_score": 0.2807,
+    "cot_orig": "[/INST] 1. The image shows a white sea urchin with a purple and white bristle worm living on its surface. The bristle worm has a spiky appearance with long, thin setae.\n\n2. The bristle worm is a type ",
+    "cot_cf": "[/INST] 1. The image shows a black background with a white sea urchin on the right side. There is no visible bristle worm.\n\n2. The image does not provide enough information to determine the relationsh"
+  },
+  {
+    "id": "2702",
+    "cf_type": "masked",
+    "vf_score": 0.4974,
+    "cot_orig": "[/INST] 1. The image is a stylized map of the world, showing the continents and oceans. The map is not to scale and does not show specific countries or regions.\n2. The map is labeled with two differen",
+    "cot_cf": "[/INST] 1. The image is a black and white map, and it appears to be a satellite view of a specific area. The map is not detailed enough to discern any specific landmarks or features.\n\n2. Since the ima"
+  },
+  {
+    "id": "1868",
+    "cf_type": "masked",
+    "vf_score": 0.1786,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets of the same type (either both north or both south). The magnets are placed on a white background, and there",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets. Each pair consists of a magnet with a north pole and a magnet with a south pole. The magnets are placed close to each other, but they are not t"
+  },
+  {
+    "id": "2553",
+    "cf_type": "masked",
+    "vf_score": 0.0989,
+    "cot_orig": "[/INST] 1. In the image, I see a desert landscape with a variety of cacti and other vegetation. The cacti are spread out across the landscape, with some in the foreground and others in the background.",
+    "cot_cf": "[/INST] 1. The image is a black and white photograph of a desert landscape. It shows a flat, arid terrain with sparse vegetation. The vegetation appears to be low-growing, possibly cacti or other succ"
+  },
+  {
+    "id": "3066",
+    "cf_type": "masked",
+    "vf_score": 0.3371,
+    "cot_orig": "[/INST] 1. In the image, I see a world map with a focus on the African continent. The African continent is highlighted in green, making it stand out from the rest of the world.\n\n2. The image is a styl",
+    "cot_cf": "[/INST] 1. The image is a black background with a single, brightly lit object. The object appears to be a small, round, white light.\n\n2. The object is the only thing illuminated in the image, which ma"
+  },
+  {
+    "id": "576",
+    "cf_type": "masked",
+    "vf_score": 0.4088,
+    "cot_orig": "[/INST] 1. In the image, there is a map of the Caribbean region with a focus on the island of Cuba. The country of Cuba is highlighted in green.\n\n2. The image shows a map of the Caribbean with Cuba pr",
+    "cot_cf": "[/INST] 1. The image is a black background with a single, brightly lit object. The object appears to be a small, round, illuminated object, possibly a light bulb or a small lamp.\n\n2. The object is the"
+  },
+  {
+    "id": "747",
+    "cf_type": "masked",
+    "vf_score": 0.253,
+    "cot_orig": "[/INST] 1. The image shows a map of the United States with the state of Vermont highlighted in green. The map does not provide any additional information about the capital of Vermont.\n\n2. To determine",
+    "cot_cf": "[/INST] 1. The image is a black background with no visible content.\n\n2. Since the image is black and contains no information, there is no way to determine the capital of Vermont from the image alone.\n"
+  },
+  {
+    "id": "926",
+    "cf_type": "masked",
+    "vf_score": 0.2946,
+    "cot_orig": "[/INST] 1. In the image, there is a brightly colored amphibian with a yellow body and orange limbs. It appears to be a frog, given its limb structure and the way it is positioned on the ground.\n\n2. Th",
+    "cot_cf": "[/INST] 1. The image is a black background with a single, small, white object. The object appears to be a frog.\n\n2. The frog is the only amphibian visible in the image. It is small and white, which is"
+  },
+  {
+    "id": "1728",
+    "cf_type": "masked",
+    "vf_score": 0.326,
+    "cot_orig": "[/INST] 1. The image shows a rock that appears to be a quartzite. It has a rough, angular shape with a variety of colors and textures. The rock has a hard, crystalline surface and a porous, grainy int",
+    "cot_cf": "[/INST] 1. The image is a black background with no visible content.\n2. Since the image is black and contains no visible content, there is no information to reason about.\n3. Without any visible content"
+  },
+  {
+    "id": "3401",
+    "cf_type": "masked",
+    "vf_score": 0.5983,
+    "cot_orig": "[/INST] 1. In the image, there is a colorful, rainbow-colored flower with multiple petals, each in a different color. The flower is attached to a thin, yellow stem. The background is plain and white, ",
+    "cot_cf": "[/INST] 1. The image is a black background with a white object in the center. The object appears to be a simple geometric shape, possibly a rectangle or a square.\n\n2. The object is the only thing in t"
+  },
+  {
+    "id": "4223",
+    "cf_type": "masked",
+    "vf_score": 0.1419,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets of the same type (either both north or both south). The magnets are arranged in a way that they are facing ",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets. Each pair consists of a magnet with a north pole and a magnet with a south pole. The magnets are placed close to each other, but they are not t"
+  },
+  {
+    "id": "735",
+    "cf_type": "masked",
+    "vf_score": 0.1391,
+    "cot_orig": "[/INST] 1. The image shows two beakers, each containing a yellow substance, presumably a solute, and a solvent. The beaker on the left has a higher volume of the yellow substance, while the beaker on ",
+    "cot_cf": "[/INST] 1. The image shows two solutions, one in a black container and the other in a white container. Both solutions appear to contain yellow particles.\n\n2. To determine which solution has a higher c"
+  },
+  {
+    "id": "1504",
+    "cf_type": "masked",
+    "vf_score": 0.169,
+    "cot_orig": "[/INST] 1. In the image, there is a large reptile with a long snout and a wide mouth, resting on a rocky surface. The reptile has a scaly skin and appears to be a type of alligator.\n\n2. The reptile in",
+    "cot_cf": "[/INST] 1. The image is a black background with a single, blurred object that appears to be an animal.\n\n2. The animal in the image is a Chinese alligator.\n\n3. The Chinese alligator is a species of all"
+  },
+  {
+    "id": "2706",
+    "cf_type": "masked",
+    "vf_score": 0.2207,
+    "cot_orig": "[/INST] 1. The image shows two green magnets with the letters \"S\" and \"N\" on them. They are placed side by side, with the \"S\" magnet on the left and the \"N\" magnet on the right.\n\n2. Magnets with the s",
+    "cot_cf": "[/INST] 1. The image shows two magnets, one black and one white, placed close together against a black background.\n\n2. Based on the image, we can observe that the magnets are of the same type, as they"
+  },
+  {
+    "id": "2225",
+    "cf_type": "masked",
+    "vf_score": 0.3243,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets. The magnets are labeled \"N\" for North and \"S\" for South. The magnets are placed on a white background, and",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets. Each pair consists of a magnet with a north pole and a magnet with a south pole. The magnets are placed close to each other, but they are not t"
+  },
+  {
+    "id": "2364",
+    "cf_type": "masked",
+    "vf_score": 0.2087,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets of the same type (either both north or both south). The magnets are placed on a white background, and there",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets. Each pair consists of a magnet with a north pole and a magnet with a south pole. The magnets are placed close to each other, but they are not t"
+  },
+  {
+    "id": "1115",
+    "cf_type": "masked",
+    "vf_score": 0.5569,
+    "cot_orig": "[/INST] 1. The image shows a table with two columns, each labeled \"Initial temperature (°C)\" and \"Final temperature (°C).\" The first row of the table lists \"Pizza\" in the first column and \"80\" in the ",
+    "cot_cf": "[/INST] 1. The image shows a black background with a white line. There is no additional context or information provided.\n\n2. The question asks about thermal energy transfer during a specific time. How"
+  },
+  {
+    "id": "3797",
+    "cf_type": "masked",
+    "vf_score": 0.2176,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets of the same type (either both north or both south). The magnets are arranged in a circular fashion, with th",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets. Each pair consists of a magnet with a north pole and a magnet with a south pole. The magnets are placed close to each other, but they are not t"
+  },
+  {
+    "id": "1851",
+    "cf_type": "masked",
+    "vf_score": 0.2675,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets of the same type (either both north or both south). The magnets are placed on a white background, and there",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets. Each pair consists of a magnet with a north pole and a magnet with a south pole. The magnets are placed close to each other, but they are not t"
+  },
+  {
+    "id": "1079",
+    "cf_type": "masked",
+    "vf_score": 0.431,
+    "cot_orig": "[/INST] 1. In the image, there is a man who appears to be in the middle of a dive or a flip into a swimming pool. He is upside down, with his feet in the air and his head submerged in the water. The m",
+    "cot_cf": "[/INST] 1. The image shows a black background with a white line. The line appears to be straight and horizontal.\n\n2. To determine the direction of the pull, we need to consider the orientation of the "
+  },
+  {
+    "id": "333",
+    "cf_type": "masked",
+    "vf_score": 0.3636,
+    "cot_orig": "[/INST] 1. In the image, we see a food web with various organisms, including a whale, a sea otter, a black rockfish, a kelp bass, a phytoplankton, a zooplankton, a plankton, a midshipman, a sea cucumb",
+    "cot_cf": "[/INST] 1. The image shows a black background with a few white dots scattered across it. There is no clear depiction of a food web or any organisms.\n\n2. Since the image does not provide any informatio"
+  },
+  {
+    "id": "3955",
+    "cf_type": "masked",
+    "vf_score": 0.173,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets. The magnets are arranged in a way that they are facing each other, with the \"N\" and \"S\" poles of the magne",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets. Each pair consists of a magnet with a north pole and a magnet with a south pole. The magnets are placed close to each other, but they are not t"
+  },
+  {
+    "id": "2701",
+    "cf_type": "masked",
+    "vf_score": 0.077,
+    "cot_orig": "[/INST] 1. In the image, there is a large white shark with its mouth open, revealing its sharp teeth. The shark is swimming in a body of water, which appears to be a coral reef.\n\n2. The shark's mouth ",
+    "cot_cf": "[/INST] 1. The image shows a close-up of a fish's mouth. The fish appears to be a shark, as indicated by the presence of teeth.\n\n2. Sharks are known for their sharp teeth, which are adapted for tearin"
+  },
+  {
+    "id": "930",
+    "cf_type": "masked",
+    "vf_score": 0.1589,
+    "cot_orig": "[/INST] 1. The image shows a Punnett square, which is a tool used in genetics to predict the possible genotypes of offspring from a cross between two individuals. The square is divided into four quadr",
+    "cot_cf": "[/INST] 1. The image shows a black background with a single, small, white dot.\n\n2. The white dot could represent a genetic trait or characteristic. In the context of the question, it could represent a"
+  },
+  {
+    "id": "2208",
+    "cf_type": "masked",
+    "vf_score": 0.2173,
+    "cot_orig": "[/INST] 1. The image is a color-coded map showing specific humidity levels. The outlined area is a region with a purple and green color scheme, indicating a range of humidity levels.\n\n2. To determine ",
+    "cot_cf": "[/INST] 1. The image shows a black background with a white outline. There is no visible content within the outlined area.\n\n2. Since the image is black and white, and there is no visible content within"
+  },
+  {
+    "id": "2693",
+    "cf_type": "masked",
+    "vf_score": 0.3725,
+    "cot_orig": "[/INST] 1. In the image, there are two individuals, Katy and Anne, who appear to be scientists or researchers. They are standing in a field with a small concrete structure in front of them. Both indiv",
+    "cot_cf": "[/INST] 1. The image is a black background with a blurred white object in the center. The object appears to be a small, round, and possibly metallic or reflective item.\n\n2. The white object could be a"
+  },
+  {
+    "id": "1759",
+    "cf_type": "masked",
+    "vf_score": 0.4424,
+    "cot_orig": "[/INST] 1. In the image, there are four objects: a rock, a pineapple, a side walk, and a potato sack. Each object is depicted in a different way: the rock is shown as a three-dimensional object, the p",
+    "cot_cf": "[/INST] 1. The image is a black background with four objects. The objects are not clearly distinguishable due to the black background.\n\n2. Since the objects are not clearly distinguishable, we cannot "
+  },
+  {
+    "id": "16",
+    "cf_type": "masked",
+    "vf_score": 0.2302,
+    "cot_orig": "[/INST] 1. The image depicts a food web with various organisms and their relationships. At the top, there is a large fish, which is a secondary consumer, as it feeds on smaller fish. Below the large f",
+    "cot_cf": "[/INST] 1. The image shows a black background with a few white dots scattered across it. There is no clear depiction of any organisms or food web.\n\n2. Since the image does not provide any information "
+  },
+  {
+    "id": "671",
+    "cf_type": "masked",
+    "vf_score": 0.7578,
+    "cot_orig": "[/INST] 1. In the image, there is a pile of wooden sticks or toothpicks, and a single metal object, which appears to be a nail, is sticking out of the pile.\n\n2. The metal object is the only one of its",
+    "cot_cf": "[/INST] 1. The image is a black background with a white line. There is no additional context or information provided.\n\n2. The image does not provide any information that would allow us to identify a s"
+  },
+  {
+    "id": "1518",
+    "cf_type": "masked",
+    "vf_score": 0.2613,
+    "cot_orig": "[/INST] 1. In the image, there is a frog with a large, bulbous belly. The frog is resting on a surface that appears to be a pond or a similar body of water. The frog's skin has a textured pattern, and",
+    "cot_cf": "[/INST] 1. The image is a black background with a single, small, white object. The object appears to be a frog.\n\n2. The frog is the only amphibian visible in the image. It is small and white, which is"
+  },
+  {
+    "id": "1952",
+    "cf_type": "masked",
+    "vf_score": 0.3366,
+    "cot_orig": "[/INST] 1. The image shows an underwater view of a coral reef ecosystem. The reef is densely populated with various types of coral, which are the primary structure-builders in the ecosystem. There are",
+    "cot_cf": "[/INST] 1. The image is a black and white photograph of a landscape. It shows a dark, possibly forested area with no visible text or distinguishing features.\n\n2. The image does not provide enough info"
+  },
+  {
+    "id": "4145",
+    "cf_type": "masked",
+    "vf_score": 0.4446,
+    "cot_orig": "[/INST] 1. In the image, there is a young girl with curly hair. She is smiling and appears to be sitting in a grassy area.\n\n2. The girl is a mammal, as she is a warm-blooded vertebrate with mammary gl",
+    "cot_cf": "[/INST] 1. The image is a black and white photograph of a mammal. The mammal appears to be a large, quadrupedal animal with a long snout and a thick, furry coat. It has a long, slender tail and a pair"
+  },
+  {
+    "id": "3880",
+    "cf_type": "masked",
+    "vf_score": 0.5961,
+    "cot_orig": "[/INST] 1. In the image, there is a solar panel mounted on a pole, which is connected to a device that appears to be a weather station. The solar panel is angled towards the sun, and the weather stati",
+    "cot_cf": "[/INST] 1. The image is a black background with a white line. There is no additional context or information provided.\n\n2. The image appears to be a simple, abstract representation with no discernible "
+  },
+  {
+    "id": "2056",
+    "cf_type": "masked",
+    "vf_score": 0.1238,
+    "cot_orig": "[/INST] 1. The image is a table that lists the volume of various planets in our solar system, along with their primary composition. The planets listed are Mercury, Venus, Earth, Mars, Jupiter, Saturn,",
+    "cot_cf": "[/INST] 1. The image is a black background with no visible content. It does not provide any information about the solar system or the relative sizes of planets.\n\n2. Since the image does not contain an"
+  },
+  {
+    "id": "1772",
+    "cf_type": "masked",
+    "vf_score": 0.1921,
+    "cot_orig": "[/INST] 1. In the image, there is a fossil of a fish that appears to be a Diplomystus. The fossil is imprinted on a textured surface, possibly a rock or a piece of wood. The fish has a long, slender b",
+    "cot_cf": "[/INST] 1. In the image, there is a fossil of a Diplomystus. The fossil appears to be a small, black, elongated fish with a long, pointed snout.\n\n2. Based on the image, the Diplomystus is characterize"
+  },
+  {
+    "id": "3227",
+    "cf_type": "masked",
+    "vf_score": 0.1953,
+    "cot_orig": "[/INST] 1. In the image, there is a great gray owl perched on a branch with snow on it. The owl is facing the camera, and its feathers are visible.\n\n2. To answer the question, we need to identify the ",
+    "cot_cf": "[/INST] 1. The image is a black background with no visible content.\n2. Since the question asks for an organism in the same genus as the great gray owl, it is not possible to determine the organism in "
+  },
+  {
+    "id": "1554",
+    "cf_type": "masked",
+    "vf_score": 0.0923,
+    "cot_orig": "[/INST] 1. In the image, there are two rectangles with a central dividing line. Each rectangle contains a series of pink circles, which represent solute particles. The circles are distributed unevenly",
+    "cot_cf": "[/INST] 1. The image shows a diagram of a permeable membrane with solute particles on both sides. The solute particles are depicted as small dots, and they are shown moving in both directions across t"
+  },
+  {
+    "id": "635",
+    "cf_type": "masked",
+    "vf_score": 0.23,
+    "cot_orig": "[/INST] 1. In the image, there is a skeletal display of an aurochs, which is an extinct species of cattle. The skeleton is mounted on a stand and is displayed in a museum setting. The aurochs has a pr",
+    "cot_cf": "[/INST] 1. The image shows a black and white silhouette of an animal that appears to be an aurochs, which is an extinct species of cattle. The silhouette is simple and lacks detail, making it difficul"
+  },
+  {
+    "id": "128",
+    "cf_type": "masked",
+    "vf_score": 0.1621,
+    "cot_orig": "[/INST] 1. The image shows a Punnett square, which is a tool used in genetics to predict the possible outcomes of a cross between two individuals with known genotypes. The square is divided into four ",
+    "cot_cf": "[/INST] 1. The image shows a black background with a single, small, white spot.\n\n2. The white spot could represent a single cat or a single gene. In the context of the question, we can assume that the"
+  },
+  {
+    "id": "1098",
+    "cf_type": "masked",
+    "vf_score": 0.3715,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets. The magnets are labeled \"Pair 1\" and \"Pair 2.\" Each pair has one magnet labeled \"N\" and the other labeled ",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets. Each pair consists of a magnet with a north pole and a magnet with a south pole. The magnets are placed close to each other, but they are not t"
+  },
+  {
+    "id": "2064",
+    "cf_type": "masked",
+    "vf_score": 0.1476,
+    "cot_orig": "[/INST] 1. The image shows a colorful pool toy that is designed to look like a dragon. It has a long body, a head with a smiling face, and a tail with spikes. The dragon is predominantly green with ye",
+    "cot_cf": "[/INST] 1. The image shows a black object with a smooth surface, which appears to be a pool toy. It is floating on the water, and the water is calm.\n\n2. To determine the material of the pool toy, we c"
+  },
+  {
+    "id": "3657",
+    "cf_type": "masked",
+    "vf_score": 0.2196,
+    "cot_orig": "[/INST] 1. In the image, there is a close-up of a large animal with a wide-open mouth. The animal appears to be a rodent, possibly a beaver, given its size and the texture of its fur.\n\n2. Rodents are ",
+    "cot_cf": "[/INST] 1. The image shows a close-up of a black background with a white object in the center. The object appears to be a small, cylindrical item with a pointed end.\n\n2. The object's pointed end sugge"
+  },
+  {
+    "id": "2545",
+    "cf_type": "masked",
+    "vf_score": 0.3135,
+    "cot_orig": "[/INST] 1. The image is a satellite view of Earth, showing a large area of the planet with a focus on a specific region. The area is outlined in red, and within this outlined region, there is a large ",
+    "cot_cf": "[/INST] 1. The image shows a black background with a white outline of a rectangular area. There is no visible content within the outlined area.\n\n2. Since the image is black and white, and there is no "
+  },
+  {
+    "id": "172",
+    "cf_type": "masked",
+    "vf_score": 0.1853,
+    "cot_orig": "[/INST] 1. In the image, there are two magnets with the letters \"S\" and \"N\" on them, and they are placed on a background with stripes of purple and green. The magnets are positioned in such a way that",
+    "cot_cf": "[/INST] 1. The image shows two magnets, one black and one white, placed close to each other.\n\n2. Based on the image, we can observe that the magnets are of opposite poles, as they are placed next to e"
+  },
+  {
+    "id": "3073",
+    "cf_type": "masked",
+    "vf_score": 0.1136,
+    "cot_orig": "[/INST] 1. The image shows two beakers, each containing a solution with purple particles. The beaker on the left is labeled \"Solution A\" and the beaker on the right is labeled \"Solution B.\"\n\n2. To det",
+    "cot_cf": "[/INST] 1. The image shows two solutions, one in a black background and the other in a white background. Both solutions appear to contain purple particles.\n\n2. To determine which solution has a higher"
+  },
+  {
+    "id": "3725",
+    "cf_type": "masked",
+    "vf_score": 0.1691,
+    "cot_orig": "[/INST] 1. The image shows a Punnett square, which is a tool used in genetics to predict the possible outcomes of a cross between two individuals with known genotypes. The square is divided into four ",
+    "cot_cf": "[/INST] 1. The image shows a black background with a white sheep.\n\n2. The sheep appears to be a single individual, and its wool color is white.\n\n3. To determine the probability that a sheep produced b"
+  },
+  {
+    "id": "2506",
+    "cf_type": "masked",
+    "vf_score": 0.42,
+    "cot_orig": "[/INST] 1. In the image, there is a map of the Caribbean region with a focus on the island of Cuba. The map is stylized with a blue background and green landmasses. There is a small green box with a w",
+    "cot_cf": "[/INST] 1. The image is a black background with a single, brightly lit object. The object appears to be a small, round, illuminated object, possibly a light bulb or a small lamp.\n\n2. The object is the"
+  },
+  {
+    "id": "3661",
+    "cf_type": "masked",
+    "vf_score": 0.2555,
+    "cot_orig": "[/INST] 1. In the image, there is a large animal with long, curved horns. The animal is standing in a snowy field with a fence in the background.\n\n2. The animal in the image is a mouflon, which is a s",
+    "cot_cf": "[/INST] 1. The image is a black background with a single, blurred object in the center. The object appears to be a large, furry animal with a prominent hump on its back.\n\n2. The animal in the image is"
+  },
+  {
+    "id": "2397",
+    "cf_type": "masked",
+    "vf_score": 0.2767,
+    "cot_orig": "[/INST] 1. The image shows a map of the United States with the state of West Virginia highlighted in green. The map is stylized and does not include any additional geographic details.\n\n2. To determine",
+    "cot_cf": "[/INST] 1. The image is a black background with no visible content.\n2. There is no information in the image that can be used to determine the capital of West Virginia.\n3. The image does not provide an"
+  },
+  {
+    "id": "3603",
+    "cf_type": "masked",
+    "vf_score": 0.4778,
+    "cot_orig": "[/INST] 1. The image shows a simple, stylized illustration of a glass. It is a clear, cylindrical container with a wide base that narrows as it rises to a flared opening at the top.\n\n2. The glass appe",
+    "cot_cf": "[/INST] 1. The image is a black background with a white object in the center. The object appears to be a simple geometric shape, possibly a rectangle or a square.\n\n2. The object is the only thing in t"
+  },
+  {
+    "id": "1958",
+    "cf_type": "masked",
+    "vf_score": 0.314,
+    "cot_orig": "[/INST] 1. In the image, I see a stylized map of the United States with a focus on the state of South Dakota. The state is colored in a solid green color, which makes it stand out from the rest of the",
+    "cot_cf": "[/INST] 1. The image is a black background with no visible content.\n\n2. Since the image is black and contains no information, there is no way to determine the capital of South Dakota from the image al"
+  },
+  {
+    "id": "3767",
+    "cf_type": "masked",
+    "vf_score": 0.1368,
+    "cot_orig": "[/INST] 1. The image is a world map with various continents labeled. The prime meridian is the line of longitude that runs through Greenwich, London, and is the dividing line between the Eastern and W",
+    "cot_cf": "[/INST] 1. The image is a black background with no visible content.\n2. Since the image is black and does not contain any recognizable landmarks or geographical features, it is not possible to determin"
+  },
+  {
+    "id": "1077",
+    "cf_type": "masked",
+    "vf_score": 0.6596,
+    "cot_orig": "[/INST] 1. In the image, there is a pile of wooden sticks or toothpicks, and a single metal object, which appears to be a nail, is sticking out of the pile.\n\n2. The presence of the nail among the wood",
+    "cot_cf": "[/INST] 1. The image is a black background with a white line. There is no additional context or information provided.\n\n2. The image does not provide any information that would allow us to identify a s"
+  },
+  {
+    "id": "2284",
+    "cf_type": "masked",
+    "vf_score": 0.7746,
+    "cot_orig": "[/INST] 1. The image shows a penny with a clear, reflective surface. The penny is lying on a surface that casts a shadow on the penny, creating a reflection of the shadow on the penny's surface.\n\n2. T",
+    "cot_cf": "[/INST] 1. The image is a black background with a white line. There is no additional context or information provided.\n\n2. The image does not provide any information that would allow us to identify a s"
+  },
+  {
+    "id": "167",
+    "cf_type": "masked",
+    "vf_score": 0.481,
+    "cot_orig": "[/INST] 1. The image shows three objects: a rubber toy, a flower petal, and a gold nugget. Each object is depicted in a stylized manner, with the rubber toy and flower petal being yellow and the gold ",
+    "cot_cf": "[/INST] 1. The image is a black background with three objects on it. The objects are a white square, a white circle, and a white rectangle.\n\n2. The three objects share the property of being white in c"
+  },
+  {
+    "id": "1846",
+    "cf_type": "masked",
+    "vf_score": 0.2122,
+    "cot_orig": "[/INST] 1. The image shows two circular magnets with alternating colors, one green and one blue, each with a letter \"N\" on them.\n2. The magnets are placed next to each other, and they are not touching",
+    "cot_cf": "[/INST] 1. The image shows two magnets, one black and one white, placed against a black background. They are positioned close to each other, with the black magnet on the left and the white magnet on t"
+  },
+  {
+    "id": "3911",
+    "cf_type": "masked",
+    "vf_score": 0.3598,
+    "cot_orig": "[/INST] 1. The image shows a bar chart representing the average monthly precipitation in Atlanta, Georgia. The x-axis lists the months of the year, and the y-axis represents the precipitation in inche",
+    "cot_cf": "[/INST] 1. The image shows a black background with a single white line. There is no additional context or information provided.\n\n2. The white line appears to be a horizontal line, but without any refe"
+  },
+  {
+    "id": "1501",
+    "cf_type": "masked",
+    "vf_score": 0.1646,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets of the same type (either both north or both south). The magnets are placed on a white background, and each ",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets. Each pair consists of a magnet with a north pole and a magnet with a south pole. The magnets are placed close to each other, but they are not t"
+  },
+  {
+    "id": "4181",
+    "cf_type": "masked",
+    "vf_score": 0.3966,
+    "cot_orig": "[/INST] 1. The image shows a black rectangular box with a lid on top. The box appears to be made of a smooth, possibly plastic or metal material. The lid is also black and seems to fit snugly on top o",
+    "cot_cf": "[/INST] 1. The image is a black background with a white line. There is no additional context or information provided.\n\n2. The image appears to be a simple, abstract representation with no discernible "
+  },
+  {
+    "id": "3168",
+    "cf_type": "masked",
+    "vf_score": 0.4449,
+    "cot_orig": "[/INST] 1. In the image, there are three objects: a pair of blue jeans, a blueberry, and a blue pom pom. All three objects share the same color, which is blue.\n\n2. The objects are depicted in a styliz",
+    "cot_cf": "[/INST] 1. The image is a black background with three objects on it. The objects are a white square, a white circle, and a white rectangle.\n\n2. The three objects share the property of being white in c"
+  },
+  {
+    "id": "2816",
+    "cf_type": "masked",
+    "vf_score": 0.5288,
+    "cot_orig": "[/INST] 1. In the image, there is a red cardinal perched on a bird feeder. The bird feeder is filled with birdseed, and the cardinal is looking down at the birdseed.\n\n2. The cardinal is a type of bird",
+    "cot_cf": "[/INST] 1. The image is a black background with a white line. There is no additional context or information provided.\n\n2. The image appears to be a simple, abstract representation with no discernible "
+  },
+  {
+    "id": "2750",
+    "cf_type": "masked",
+    "vf_score": 0.2512,
+    "cot_orig": "[/INST] 1. In the image, I see a map of a region with a green color scheme, indicating the area of interest. There are no cities marked on the map.\n\n2. The map does not show any cities marked on it. I",
+    "cot_cf": "[/INST] 1. The image shows a black background with no visible landmarks or cities. It appears to be a simple, dark graphic with no discernible features.\n\n2. Since the image is black and lacks any reco"
+  },
+  {
+    "id": "463",
+    "cf_type": "masked",
+    "vf_score": 0.4785,
+    "cot_orig": "[/INST] 1. The image shows a close-up of a creature with a vividly colored skin, featuring bright red and yellow hues. The skin texture appears to be rough and bumpy, with some areas that look like th",
+    "cot_cf": "[/INST] 1. The image shows a black background with no visible objects or animals.\n\n2. Since there is no visible animal or its skin, it is not possible to compare the adaptations of different animals' "
+  },
+  {
+    "id": "1961",
+    "cf_type": "masked",
+    "vf_score": 0.1816,
+    "cot_orig": "[/INST] 1. The image is a table with two columns. The left column lists the names of planets in our solar system, and the right column lists their volumes in cubic kilometers.\n\n2. To determine if the ",
+    "cot_cf": "[/INST] 1. The image is a black background with no visible content. It does not provide any information about the solar system or the relative volumes of Mars and Mercury.\n\n2. Since the image does not"
+  },
+  {
+    "id": "502",
+    "cf_type": "masked",
+    "vf_score": 0.2861,
+    "cot_orig": "[/INST] 1. In the image, there is a large building that appears to be severely damaged. The building has a significant amount of debris scattered around it, and there are visible cracks and structural",
+    "cot_cf": "[/INST] 1. The image is a black and white photograph of a landscape. It shows a dark, textured surface that appears to be a rocky terrain. There are no visible landmarks or distinctive features that w"
+  },
+  {
+    "id": "2523",
+    "cf_type": "masked",
+    "vf_score": 0.3399,
+    "cot_orig": "[/INST] 1. The image shows a red magnet with a white handle, which is a type of pull. The magnet is hanging from a hook, and there are two wires attached to the magnet.\n\n2. The magnet is suspended fro",
+    "cot_cf": "[/INST] 1. The image shows a black background with a white line. The line appears to be straight and horizontal.\n\n2. To determine the direction of the pull, we need to consider the orientation of the "
+  },
+  {
+    "id": "1889",
+    "cf_type": "masked",
+    "vf_score": 0.4983,
+    "cot_orig": "[/INST] 1. The image depicts a food web with various organisms, including birds, mammals, and insects. The food web includes a lichen, which is a type of symbiotic organism that forms a mutualistic re",
+    "cot_cf": "[/INST] 1. The image shows a black background with no visible objects or text.\n\n2. Since the question asks about the lichen, it is likely that the image is meant to represent the lichen or its compone"
+  },
+  {
+    "id": "2092",
+    "cf_type": "masked",
+    "vf_score": 0.2322,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets of the same type (either both north or both south). The magnets are placed on a white background, and there",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets. Each pair consists of a magnet with a north pole and a magnet with a south pole. The magnets are placed close to each other, but they are not t"
+  },
+  {
+    "id": "3204",
+    "cf_type": "masked",
+    "vf_score": 0.2027,
+    "cot_orig": "[/INST] 1. In the image, I see a map of the United States with a green color scheme. The state of Wyoming is highlighted in a darker shade of green, indicating that it is the focus of the map.\n\n2. The",
+    "cot_cf": "[/INST] 1. The image is a black background with no visible content.\n\n2. There is no information in the image that can be used to determine the capital of Wyoming. The image does not contain any text, "
+  },
+  {
+    "id": "4025",
+    "cf_type": "masked",
+    "vf_score": 0.1504,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets of the same type (either both north or both south). The magnets are placed on a white background, and there",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets. Each pair consists of a magnet with a north pole and a magnet with a south pole. The magnets are placed close to each other, but they are not t"
+  },
+  {
+    "id": "3222",
+    "cf_type": "masked",
+    "vf_score": 0.4341,
+    "cot_orig": "[/INST] 1. In the image, there is a map of the world with a focus on the Pacific Ocean. The map is not to scale and appears to be a simplified representation rather than a detailed geographic map.\n\n2.",
+    "cot_cf": "[/INST] 1. The image is a black background with a single, brightly lit object in the center. The object appears to be a small, round, illuminated object.\n2. The object is the only thing in the image t"
+  },
+  {
+    "id": "3825",
+    "cf_type": "masked",
+    "vf_score": 0.202,
+    "cot_orig": "[/INST] 1. In the image, I see a stylized representation of the Earth, with a focus on the landmasses and the oceans. The landmasses are colored in green, while the oceans are depicted in blue. The im",
+    "cot_cf": "[/INST] 1. The image is a black background with a white outline. There is no specific detail that stands out as an ocean.\n\n2. The image does not provide any information that would allow me to determin"
+  },
+  {
+    "id": "1085",
+    "cf_type": "masked",
+    "vf_score": 0.6512,
+    "cot_orig": "[/INST] 1. In the image, there are two objects: a blue diamond-shaped icon on the left and a pair of blue shorts on the right. Both objects are blue in color.\n\n2. The diamond-shaped icon and the short",
+    "cot_cf": "[/INST] 1. The image is a black background with two white objects.\n2. The two white objects appear to be circles.\n3. Both circles are located in the upper right corner of the image.\n4. The circles are"
+  },
+  {
+    "id": "1435",
+    "cf_type": "masked",
+    "vf_score": 0.3605,
+    "cot_orig": "[/INST] 1. The image shows a molecule with four atoms, each labeled with a capital letter: F, B, E, and F. The atoms are connected by lines, indicating bonds between them.\n\n2. To determine the chemica",
+    "cot_cf": "[/INST] 1. The image is a black background with a white line. There is no visible chemical structure or formula.\n\n2. Since the image does not provide any information about the chemical structure or fo"
+  },
+  {
+    "id": "2281",
+    "cf_type": "masked",
+    "vf_score": 0.2657,
+    "cot_orig": "[/INST] 1. The image shows a close-up view of a rocky shoreline with various marine life forms. There are sea urchins, which are spiky and green, and other organisms that are not clearly identifiable.",
+    "cot_cf": "[/INST] 1. The image is a black and white photograph of a tide pool ecosystem. It shows a rocky shoreline with a few small pools of water. The tide pools are surrounded by rocks and sand, and there ar"
+  },
+  {
+    "id": "1060",
+    "cf_type": "masked",
+    "vf_score": 0.4861,
+    "cot_orig": "[/INST] 1. The image shows four objects, each depicted in two different states: one as a flower petal and the other as a marshmallow. The objects are a yellow flower, a red flower, a purple bag, and a",
+    "cot_cf": "[/INST] 1. The image is a black background with four objects. The objects are not clearly distinguishable due to the black background.\n\n2. Since the objects are not clearly distinguishable, we cannot "
+  },
+  {
+    "id": "1848",
+    "cf_type": "masked",
+    "vf_score": 0.2721,
+    "cot_orig": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets. The magnets are labeled \"N\" and \"S\" to indicate their north and south poles.\n\n2. The magnets in each pair ",
+    "cot_cf": "[/INST] 1. In the image, there are two pairs of magnets. Each pair consists of a magnet with a north pole and a magnet with a south pole. The magnets are placed close to each other, but they are not t"
+  },
+  {
+    "id": "3261",
+    "cf_type": "masked",
+    "vf_score": 0.2744,
+    "cot_orig": "[/INST] 1. In the image, there is a train with many passengers on it. The train is on a track, and there are people standing on a platform next to the train. The train appears to be in motion, as indi",
+    "cot_cf": "[/INST] 1. The image shows a black background with a train on the right side. The train appears to be in motion, as suggested by the blurred appearance of the train.\n\n2. To determine which of the foll"
+  },
+  {
+    "id": "2379",
+    "cf_type": "masked",
+    "vf_score": 0.7061,
+    "cot_orig": "[/INST] 1. In the image, there are three objects: a sundae, a pile of coins, and a popsicle.\n\n2. The sundae is a dessert made with layers of ice cream, whipped cream, and other toppings, served in a g",
+    "cot_cf": "[/INST] 1. The image is a black background with three objects on it. The objects are a white square, a white circle, and a white rectangle.\n\n2. The three objects share the property of being white in c"
+  }
+]

@@ -1,0 +1,49 @@
+# Model weights (large files)
+models/
+*.pth
+*.pt
+*.bin
+*.ckpt
+*.safetensors
+
+# Data (large datasets - images)
+data/raw/*
+!data/raw/.gitkeep
+data/counterfactual/*
+!data/counterfactual/.gitkeep
+scripts/data/raw/images/
+scripts/data/counterfactual/
+
+# Annotation tools with embedded images (large HTML)
+scripts/data/annotations/annotation_tool_v2.html
+scripts/data/annotations/annotation_tool_v3.html
+scripts/data/annotations/annotation_tool_v4.html
+
+# Logs
+logs/*
+!logs/.gitkeep
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+venv/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Pip install artifact
+scripts/=*

@@ -1,0 +1,8 @@
+{
+  "n_samples": 100,
+  "baseline_drf": 0.172,
+  "finetuned_drf": 0.1622,
+  "improvement": -0.0098,
+  "ttest_p": 0.725,
+  "wilcoxon_p": 0.9129
+}

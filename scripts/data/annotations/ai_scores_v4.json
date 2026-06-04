@@ -1,0 +1,602 @@
+[
+  {
+    "id": "2161",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "2161",
+    "cf_type": "attribute_flip",
+    "sim_score": 3,
+    "faith_score": 3
+  },
+  {
+    "id": "2161",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "2161",
+    "cf_type": "masked",
+    "sim_score": 2,
+    "faith_score": 1
+  },
+  {
+    "id": "499",
+    "cf_type": "semantic_swap",
+    "sim_score": 2,
+    "faith_score": 1
+  },
+  {
+    "id": "499",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 2
+  },
+  {
+    "id": "499",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "499",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "467",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2
+  },
+  {
+    "id": "467",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 3
+  },
+  {
+    "id": "467",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "467",
+    "cf_type": "masked",
+    "sim_score": 3,
+    "faith_score": 1
+  },
+  {
+    "id": "463",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "463",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "463",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "463",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5
+  },
+  {
+    "id": "1877",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "1877",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 5
+  },
+  {
+    "id": "1877",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 2
+  },
+  {
+    "id": "1877",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "2945",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2
+  },
+  {
+    "id": "2945",
+    "cf_type": "attribute_flip",
+    "sim_score": 3,
+    "faith_score": 1
+  },
+  {
+    "id": "2945",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "2945",
+    "cf_type": "masked",
+    "sim_score": 2,
+    "faith_score": 1
+  },
+  {
+    "id": "3820",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2
+  },
+  {
+    "id": "3820",
+    "cf_type": "attribute_flip",
+    "sim_score": 3,
+    "faith_score": 3
+  },
+  {
+    "id": "3820",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5
+  },
+  {
+    "id": "3820",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5
+  },
+  {
+    "id": "4025",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "4025",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "4025",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "4025",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 2
+  },
+  {
+    "id": "1961",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "1961",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "1961",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "1961",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5
+  },
+  {
+    "id": "852",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "852",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 2
+  },
+  {
+    "id": "852",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 2
+  },
+  {
+    "id": "852",
+    "cf_type": "masked",
+    "sim_score": 3,
+    "faith_score": 1
+  },
+  {
+    "id": "1889",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2
+  },
+  {
+    "id": "1889",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 2
+  },
+  {
+    "id": "1889",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 2
+  },
+  {
+    "id": "1889",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5
+  },
+  {
+    "id": "1430",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2
+  },
+  {
+    "id": "1430",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3
+  },
+  {
+    "id": "1430",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 2
+  },
+  {
+    "id": "1430",
+    "cf_type": "masked",
+    "sim_score": 3,
+    "faith_score": 1
+  },
+  {
+    "id": "4145",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "4145",
+    "cf_type": "attribute_flip",
+    "sim_score": 3,
+    "faith_score": 1
+  },
+  {
+    "id": "4145",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "4145",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "3767",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2
+  },
+  {
+    "id": "3767",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 5
+  },
+  {
+    "id": "3767",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 2
+  },
+  {
+    "id": "3767",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5
+  },
+  {
+    "id": "2799",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "2799",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 2
+  },
+  {
+    "id": "2799",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "2799",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 2
+  },
+  {
+    "id": "735",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "735",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "735",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "735",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 3
+  },
+  {
+    "id": "1848",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "1848",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "1848",
+    "cf_type": "random",
+    "sim_score": 3,
+    "faith_score": 1
+  },
+  {
+    "id": "1848",
+    "cf_type": "masked",
+    "sim_score": 2,
+    "faith_score": 1
+  },
+  {
+    "id": "2397",
+    "cf_type": "semantic_swap",
+    "sim_score": 3,
+    "faith_score": 3
+  },
+  {
+    "id": "2397",
+    "cf_type": "attribute_flip",
+    "sim_score": 3,
+    "faith_score": 1
+  },
+  {
+    "id": "2397",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "2397",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5
+  },
+  {
+    "id": "2960",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "2960",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 2
+  },
+  {
+    "id": "2960",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "2960",
+    "cf_type": "masked",
+    "sim_score": 2,
+    "faith_score": 1
+  },
+  {
+    "id": "4184",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "4184",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "4184",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "4184",
+    "cf_type": "masked",
+    "sim_score": 2,
+    "faith_score": 1
+  },
+  {
+    "id": "3725",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2
+  },
+  {
+    "id": "3725",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "3725",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5
+  },
+  {
+    "id": "3725",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 2
+  },
+  {
+    "id": "198",
+    "cf_type": "semantic_swap",
+    "sim_score": 2,
+    "faith_score": 1
+  },
+  {
+    "id": "198",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 1
+  },
+  {
+    "id": "198",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "198",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "295",
+    "cf_type": "semantic_swap",
+    "sim_score": 2,
+    "faith_score": 2
+  },
+  {
+    "id": "295",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 2
+  },
+  {
+    "id": "295",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "295",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 3
+  },
+  {
+    "id": "3261",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2
+  },
+  {
+    "id": "3261",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "3261",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 2
+  },
+  {
+    "id": "3261",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1
+  },
+  {
+    "id": "3852",
+    "cf_type": "semantic_swap",
+    "sim_score": 3,
+    "faith_score": 2
+  },
+  {
+    "id": "3852",
+    "cf_type": "attribute_flip",
+    "sim_score": 3,
+    "faith_score": 3
+  },
+  {
+    "id": "3852",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 2
+  },
+  {
+    "id": "3852",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5
+  }
+]

@@ -1,0 +1,1436 @@
+[
+  {
+    "image_id": "185599",
+    "sim_score": 5,
+    "faith_score": 3,
+    "vf_score": 0.475
+  },
+  {
+    "image_id": "123585",
+    "sim_score": 4,
+    "faith_score": 4,
+    "vf_score": 0.725
+  },
+  {
+    "image_id": "12280",
+    "sim_score": 3,
+    "faith_score": 4,
+    "vf_score": 0.7375
+  },
+  {
+    "image_id": "185157",
+    "sim_score": 5,
+    "faith_score": 2,
+    "vf_score": 0.2375
+  },
+  {
+    "image_id": "187236",
+    "sim_score": 3,
+    "faith_score": 4,
+    "vf_score": 0.7375
+  },
+  {
+    "image_id": "213830",
+    "sim_score": 5,
+    "faith_score": 5,
+    "vf_score": 0.95
+  },
+  {
+    "image_id": "134856",
+    "sim_score": 5,
+    "faith_score": 4,
+    "vf_score": 0.7125
+  },
+  {
+    "image_id": "130613",
+    "sim_score": 3,
+    "faith_score": 4,
+    "vf_score": 0.7375
+  },
+  {
+    "image_id": "128598",
+    "sim_score": 2,
+    "faith_score": 2,
+    "vf_score": 0.275
+  },
+  {
+    "image_id": "132116",
+    "sim_score": 5,
+    "faith_score": 5,
+    "vf_score": 0.95
+  },
+  {
+    "image_id": "213935",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875
+  },
+  {
+    "image_id": "135561",
+    "sim_score": 5,
+    "faith_score": 4,
+    "vf_score": 0.7125
+  },
+  {
+    "image_id": "29675",
+    "sim_score": 2,
+    "faith_score": 2,
+    "vf_score": 0.275
+  },
+  {
+    "image_id": "29393",
+    "sim_score": 5,
+    "faith_score": 4,
+    "vf_score": 0.7125
+  },
+  {
+    "image_id": "190140",
+    "sim_score": 3,
+    "faith_score": 4,
+    "vf_score": 0.7375
+  },
+  {
+    "image_id": "211120",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125
+  },
+  {
+    "image_id": "23899",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "142585",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "150417",
+    "sim_score": 3,
+    "faith_score": 5,
+    "vf_score": 0.975
+  },
+  {
+    "image_id": "29984",
+    "sim_score": 3,
+    "faith_score": 4,
+    "vf_score": 0.7375
+  },
+  {
+    "image_id": "61268",
+    "sim_score": 5,
+    "faith_score": 3,
+    "vf_score": 0.475
+  },
+  {
+    "image_id": "197388",
+    "sim_score": 5,
+    "faith_score": 4,
+    "vf_score": 0.7125
+  },
+  {
+    "image_id": "180487",
+    "sim_score": 3,
+    "faith_score": 3,
+    "vf_score": 0.5
+  },
+  {
+    "image_id": "174123",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "6954",
+    "sim_score": 2,
+    "faith_score": 2,
+    "vf_score": 0.275
+  },
+  {
+    "image_id": "25057",
+    "sim_score": 4,
+    "faith_score": 3,
+    "vf_score": 0.4875
+  },
+  {
+    "image_id": "113403",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125
+  },
+  {
+    "image_id": "61108",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875
+  },
+  {
+    "image_id": "2006",
+    "sim_score": 5,
+    "faith_score": 3,
+    "vf_score": 0.475
+  },
+  {
+    "image_id": "170116",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "48396",
+    "sim_score": 3,
+    "faith_score": 4,
+    "vf_score": 0.7375
+  },
+  {
+    "image_id": "100624",
+    "sim_score": 5,
+    "faith_score": 5,
+    "vf_score": 0.95
+  },
+  {
+    "image_id": "180383",
+    "sim_score": 3,
+    "faith_score": 5,
+    "vf_score": 0.975
+  },
+  {
+    "image_id": "119911",
+    "sim_score": 4,
+    "faith_score": 4,
+    "vf_score": 0.725
+  },
+  {
+    "image_id": "153510",
+    "sim_score": 3,
+    "faith_score": 4,
+    "vf_score": 0.7375
+  },
+  {
+    "image_id": "161799",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875
+  },
+  {
+    "image_id": "11511",
+    "sim_score": 5,
+    "faith_score": 4,
+    "vf_score": 0.7125
+  },
+  {
+    "image_id": "141821",
+    "sim_score": 3,
+    "faith_score": 5,
+    "vf_score": 0.975
+  },
+  {
+    "image_id": "135872",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875
+  },
+  {
+    "image_id": "54592",
+    "sim_score": 3,
+    "faith_score": 3,
+    "vf_score": 0.5
+  },
+  {
+    "image_id": "1532",
+    "sim_score": 4,
+    "faith_score": 5,
+    "vf_score": 0.9625
+  },
+  {
+    "image_id": "174482",
+    "sim_score": 3,
+    "faith_score": 2,
+    "vf_score": 0.2625
+  },
+  {
+    "image_id": "1761",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125
+  },
+  {
+    "image_id": "166426",
+    "sim_score": 3,
+    "faith_score": 3,
+    "vf_score": 0.5
+  },
+  {
+    "image_id": "57027",
+    "sim_score": 5,
+    "faith_score": 4,
+    "vf_score": 0.7125
+  },
+  {
+    "image_id": "101780",
+    "sim_score": 5,
+    "faith_score": 5,
+    "vf_score": 0.95
+  },
+  {
+    "image_id": "134096",
+    "sim_score": 3,
+    "faith_score": 4,
+    "vf_score": 0.7375
+  },
+  {
+    "image_id": "163611",
+    "sim_score": 4,
+    "faith_score": 5,
+    "vf_score": 0.9625
+  },
+  {
+    "image_id": "25096",
+    "sim_score": 3,
+    "faith_score": 3,
+    "vf_score": 0.5
+  },
+  {
+    "image_id": "154705",
+    "sim_score": 5,
+    "faith_score": 5,
+    "vf_score": 0.95
+  },
+  {
+    "image_id": "104612",
+    "sim_score": 4,
+    "faith_score": 5,
+    "vf_score": 0.9625
+  },
+  {
+    "image_id": "168883",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875
+  },
+  {
+    "image_id": "139077",
+    "sim_score": 5,
+    "faith_score": 5,
+    "vf_score": 0.95
+  },
+  {
+    "image_id": "102805",
+    "sim_score": 5,
+    "faith_score": 5,
+    "vf_score": 0.95
+  },
+  {
+    "image_id": "160556",
+    "sim_score": 3,
+    "faith_score": 5,
+    "vf_score": 0.975
+  },
+  {
+    "image_id": "177015",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "14473",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875
+  },
+  {
+    "image_id": "127092",
+    "sim_score": 5,
+    "faith_score": 4,
+    "vf_score": 0.7125
+  },
+  {
+    "image_id": "156372",
+    "sim_score": 3,
+    "faith_score": 3,
+    "vf_score": 0.5
+  },
+  {
+    "image_id": "52413",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875
+  },
+  {
+    "image_id": "200961",
+    "sim_score": 3,
+    "faith_score": 3,
+    "vf_score": 0.5
+  },
+  {
+    "image_id": "147338",
+    "sim_score": 5,
+    "faith_score": 5,
+    "vf_score": 0.95
+  },
+  {
+    "image_id": "172571",
+    "sim_score": 3,
+    "faith_score": 4,
+    "vf_score": 0.7375
+  },
+  {
+    "image_id": "178469",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "173371",
+    "sim_score": 5,
+    "faith_score": 3,
+    "vf_score": 0.475
+  },
+  {
+    "image_id": "172083",
+    "sim_score": 5,
+    "faith_score": 5,
+    "vf_score": 0.95
+  },
+  {
+    "image_id": "218362",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125
+  },
+  {
+    "image_id": "149375",
+    "sim_score": 3,
+    "faith_score": 4,
+    "vf_score": 0.7375
+  },
+  {
+    "image_id": "60899",
+    "sim_score": 3,
+    "faith_score": 5,
+    "vf_score": 0.975
+  },
+  {
+    "image_id": "155341",
+    "sim_score": 5,
+    "faith_score": 2,
+    "vf_score": 0.2375
+  },
+  {
+    "image_id": "117908",
+    "sim_score": 4,
+    "faith_score": 5,
+    "vf_score": 0.9625
+  },
+  {
+    "image_id": "206027",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875
+  },
+  {
+    "image_id": "26465",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "147729",
+    "sim_score": 3,
+    "faith_score": 4,
+    "vf_score": 0.7375
+  },
+  {
+    "image_id": "168337",
+    "sim_score": 5,
+    "faith_score": 2,
+    "vf_score": 0.2375
+  },
+  {
+    "image_id": "34139",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "17182",
+    "sim_score": 3,
+    "faith_score": 4,
+    "vf_score": 0.7375
+  },
+  {
+    "image_id": "15660",
+    "sim_score": 3,
+    "faith_score": 5,
+    "vf_score": 0.975
+  },
+  {
+    "image_id": "219578",
+    "sim_score": 3,
+    "faith_score": 3,
+    "vf_score": 0.5
+  },
+  {
+    "image_id": "221872",
+    "sim_score": 4,
+    "faith_score": 4,
+    "vf_score": 0.725
+  },
+  {
+    "image_id": "146489",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875
+  },
+  {
+    "image_id": "2153",
+    "sim_score": 3,
+    "faith_score": 5,
+    "vf_score": 0.975
+  },
+  {
+    "image_id": "203294",
+    "sim_score": 2,
+    "faith_score": 2,
+    "vf_score": 0.275
+  },
+  {
+    "image_id": "119452",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125
+  },
+  {
+    "image_id": "18575",
+    "sim_score": 4,
+    "faith_score": 2,
+    "vf_score": 0.25
+  },
+  {
+    "image_id": "17899",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "129492",
+    "sim_score": 5,
+    "faith_score": 4,
+    "vf_score": 0.7125
+  },
+  {
+    "image_id": "121031",
+    "sim_score": 5,
+    "faith_score": 5,
+    "vf_score": 0.95
+  },
+  {
+    "image_id": "193717",
+    "sim_score": 4,
+    "faith_score": 3,
+    "vf_score": 0.4875
+  },
+  {
+    "image_id": "6723",
+    "sim_score": 3,
+    "faith_score": 4,
+    "vf_score": 0.7375
+  },
+  {
+    "image_id": "136915",
+    "sim_score": 5,
+    "faith_score": 2,
+    "vf_score": 0.2375
+  },
+  {
+    "image_id": "39785",
+    "sim_score": 3,
+    "faith_score": 5,
+    "vf_score": 0.975
+  },
+  {
+    "image_id": "216296",
+    "sim_score": 3,
+    "faith_score": 5,
+    "vf_score": 0.975
+  },
+  {
+    "image_id": "172877",
+    "sim_score": 4,
+    "faith_score": 4,
+    "vf_score": 0.725
+  },
+  {
+    "image_id": "203864",
+    "sim_score": 5,
+    "faith_score": 5,
+    "vf_score": 0.95
+  },
+  {
+    "image_id": "161609",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "158660",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875
+  },
+  {
+    "image_id": "113589",
+    "sim_score": 2,
+    "faith_score": 2,
+    "vf_score": 0.275
+  },
+  {
+    "image_id": "200839",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "138550",
+    "sim_score": 5,
+    "faith_score": 2,
+    "vf_score": 0.2375
+  },
+  {
+    "image_id": "182805",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "212559",
+    "sim_score": 5,
+    "faith_score": 4,
+    "vf_score": 0.7125
+  },
+  {
+    "image_id": "33109",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125
+  },
+  {
+    "image_id": "59386",
+    "sim_score": 5,
+    "faith_score": 5,
+    "vf_score": 0.95
+  },
+  {
+    "image_id": "2923",
+    "sim_score": 4,
+    "faith_score": 4,
+    "vf_score": 0.725
+  },
+  {
+    "image_id": "132587",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875
+  },
+  {
+    "image_id": "135890",
+    "sim_score": 3,
+    "faith_score": 5,
+    "vf_score": 0.975
+  },
+  {
+    "image_id": "128051",
+    "sim_score": 3,
+    "faith_score": 4,
+    "vf_score": 0.7375
+  },
+  {
+    "image_id": "35326",
+    "sim_score": 5,
+    "faith_score": 4,
+    "vf_score": 0.7125
+  },
+  {
+    "image_id": "182162",
+    "sim_score": 3,
+    "faith_score": 4,
+    "vf_score": 0.7375
+  },
+  {
+    "image_id": "144706",
+    "sim_score": 3,
+    "faith_score": 5,
+    "vf_score": 0.975
+  },
+  {
+    "image_id": "25560",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625
+  },
+  {
+    "image_id": "149568",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875
+  },
+  {
+    "image_id": "192699",
+    "sim_score": 2,
+    "faith_score": 2,
+    "vf_score": 0.275
+  },
+  {
+    "image_id": "172648",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "204329",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125
+  },
+  {
+    "image_id": "125129",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "191580",
+    "sim_score": 3,
+    "faith_score": 4,
+    "vf_score": 0.7375
+  },
+  {
+    "image_id": "6040",
+    "sim_score": 5,
+    "faith_score": 2,
+    "vf_score": 0.2375
+  },
+  {
+    "image_id": "127182",
+    "sim_score": 3,
+    "faith_score": 5,
+    "vf_score": 0.975
+  },
+  {
+    "image_id": "210789",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125
+  },
+  {
+    "image_id": "125062",
+    "sim_score": 4,
+    "faith_score": 3,
+    "vf_score": 0.4875
+  },
+  {
+    "image_id": "149222",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875
+  },
+  {
+    "image_id": "35279",
+    "sim_score": 5,
+    "faith_score": 3,
+    "vf_score": 0.475
+  },
+  {
+    "image_id": "144333",
+    "sim_score": 4,
+    "faith_score": 5,
+    "vf_score": 0.9625
+  },
+  {
+    "image_id": "179141",
+    "sim_score": 4,
+    "faith_score": 4,
+    "vf_score": 0.725
+  },
+  {
+    "image_id": "140640",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "48504",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875
+  },
+  {
+    "image_id": "190637",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "34873",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "129756",
+    "sim_score": 3,
+    "faith_score": 4,
+    "vf_score": 0.7375
+  },
+  {
+    "image_id": "186345",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125
+  },
+  {
+    "image_id": "168330",
+    "sim_score": 4,
+    "faith_score": 4,
+    "vf_score": 0.725
+  },
+  {
+    "image_id": "179265",
+    "sim_score": 5,
+    "faith_score": 3,
+    "vf_score": 0.475
+  },
+  {
+    "image_id": "106235",
+    "sim_score": 3,
+    "faith_score": 4,
+    "vf_score": 0.7375
+  },
+  {
+    "image_id": "105014",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125
+  },
+  {
+    "image_id": "195842",
+    "sim_score": 5,
+    "faith_score": 4,
+    "vf_score": 0.7125
+  },
+  {
+    "image_id": "30785",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125
+  },
+  {
+    "image_id": "1296",
+    "sim_score": 3,
+    "faith_score": 5,
+    "vf_score": 0.975
+  },
+  {
+    "image_id": "1503",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "177213",
+    "sim_score": 4,
+    "faith_score": 5,
+    "vf_score": 0.9625
+  },
+  {
+    "image_id": "53994",
+    "sim_score": 5,
+    "faith_score": 3,
+    "vf_score": 0.475
+  },
+  {
+    "image_id": "31620",
+    "sim_score": 5,
+    "faith_score": 4,
+    "vf_score": 0.7125
+  },
+  {
+    "image_id": "155451",
+    "sim_score": 3,
+    "faith_score": 2,
+    "vf_score": 0.2625
+  },
+  {
+    "image_id": "66841",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125
+  },
+  {
+    "image_id": "193743",
+    "sim_score": 4,
+    "faith_score": 4,
+    "vf_score": 0.725
+  },
+  {
+    "image_id": "173091",
+    "sim_score": 4,
+    "faith_score": 3,
+    "vf_score": 0.4875
+  },
+  {
+    "image_id": "111207",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125
+  },
+  {
+    "image_id": "50331",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875
+  },
+  {
+    "image_id": "158945",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875
+  },
+  {
+    "image_id": "213035",
+    "sim_score": 2,
+    "faith_score": 2,
+    "vf_score": 0.275
+  },
+  {
+    "image_id": "1993",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "147223",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125
+  },
+  {
+    "image_id": "130386",
+    "sim_score": 4,
+    "faith_score": 5,
+    "vf_score": 0.9625
+  },
+  {
+    "image_id": "198805",
+    "sim_score": 5,
+    "faith_score": 2,
+    "vf_score": 0.2375
+  },
+  {
+    "image_id": "139883",
+    "sim_score": 4,
+    "faith_score": 5,
+    "vf_score": 0.9625
+  },
+  {
+    "image_id": "32610",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "38048",
+    "sim_score": 3,
+    "faith_score": 5,
+    "vf_score": 0.975
+  },
+  {
+    "image_id": "47769",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125
+  },
+  {
+    "image_id": "213605",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "111951",
+    "sim_score": 3,
+    "faith_score": 4,
+    "vf_score": 0.7375
+  },
+  {
+    "image_id": "110449",
+    "sim_score": 2,
+    "faith_score": 2,
+    "vf_score": 0.275
+  },
+  {
+    "image_id": "223738",
+    "sim_score": 3,
+    "faith_score": 4,
+    "vf_score": 0.7375
+  },
+  {
+    "image_id": "16451",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "157928",
+    "sim_score": 3,
+    "faith_score": 4,
+    "vf_score": 0.7375
+  },
+  {
+    "image_id": "21879",
+    "sim_score": 4,
+    "faith_score": 5,
+    "vf_score": 0.9625
+  },
+  {
+    "image_id": "139260",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125
+  },
+  {
+    "image_id": "151938",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "196843",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875
+  },
+  {
+    "image_id": "222299",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125
+  },
+  {
+    "image_id": "32735",
+    "sim_score": 2,
+    "faith_score": 2,
+    "vf_score": 0.275
+  },
+  {
+    "image_id": "32887",
+    "sim_score": 5,
+    "faith_score": 5,
+    "vf_score": 0.95
+  },
+  {
+    "image_id": "133645",
+    "sim_score": 3,
+    "faith_score": 4,
+    "vf_score": 0.7375
+  },
+  {
+    "image_id": "25386",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125
+  },
+  {
+    "image_id": "112298",
+    "sim_score": 4,
+    "faith_score": 2,
+    "vf_score": 0.25
+  },
+  {
+    "image_id": "220858",
+    "sim_score": 3,
+    "faith_score": 4,
+    "vf_score": 0.7375
+  },
+  {
+    "image_id": "183648",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "13546",
+    "sim_score": 2,
+    "faith_score": 2,
+    "vf_score": 0.275
+  },
+  {
+    "image_id": "211825",
+    "sim_score": 5,
+    "faith_score": 5,
+    "vf_score": 0.95
+  },
+  {
+    "image_id": "58384",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875
+  },
+  {
+    "image_id": "182202",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125
+  },
+  {
+    "image_id": "143556",
+    "sim_score": 2,
+    "faith_score": 2,
+    "vf_score": 0.275
+  },
+  {
+    "image_id": "221708",
+    "sim_score": 3,
+    "faith_score": 5,
+    "vf_score": 0.975
+  },
+  {
+    "image_id": "164602",
+    "sim_score": 5,
+    "faith_score": 5,
+    "vf_score": 0.95
+  },
+  {
+    "image_id": "131386",
+    "sim_score": 2,
+    "faith_score": 2,
+    "vf_score": 0.275
+  },
+  {
+    "image_id": "180878",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875
+  },
+  {
+    "image_id": "224093",
+    "sim_score": 5,
+    "faith_score": 5,
+    "vf_score": 0.95
+  },
+  {
+    "image_id": "15338",
+    "sim_score": 4,
+    "faith_score": 2,
+    "vf_score": 0.25
+  },
+  {
+    "image_id": "126107",
+    "sim_score": 3,
+    "faith_score": 5,
+    "vf_score": 0.975
+  },
+  {
+    "image_id": "119995",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125
+  },
+  {
+    "image_id": "154644",
+    "sim_score": 3,
+    "faith_score": 5,
+    "vf_score": 0.975
+  },
+  {
+    "image_id": "139872",
+    "sim_score": 3,
+    "faith_score": 5,
+    "vf_score": 0.975
+  },
+  {
+    "image_id": "195754",
+    "sim_score": 5,
+    "faith_score": 4,
+    "vf_score": 0.7125
+  },
+  {
+    "image_id": "112378",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875
+  },
+  {
+    "image_id": "162732",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875
+  },
+  {
+    "image_id": "22755",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875
+  },
+  {
+    "image_id": "182021",
+    "sim_score": 4,
+    "faith_score": 3,
+    "vf_score": 0.4875
+  },
+  {
+    "image_id": "189806",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875
+  },
+  {
+    "image_id": "24567",
+    "sim_score": 5,
+    "faith_score": 4,
+    "vf_score": 0.7125
+  },
+  {
+    "image_id": "214703",
+    "sim_score": 3,
+    "faith_score": 2,
+    "vf_score": 0.2625
+  },
+  {
+    "image_id": "160012",
+    "sim_score": 5,
+    "faith_score": 4,
+    "vf_score": 0.7125
+  },
+  {
+    "image_id": "39769",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "55528",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "31735",
+    "sim_score": 3,
+    "faith_score": 4,
+    "vf_score": 0.7375
+  },
+  {
+    "image_id": "222458",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875
+  },
+  {
+    "image_id": "214192",
+    "sim_score": 3,
+    "faith_score": 2,
+    "vf_score": 0.2625
+  },
+  {
+    "image_id": "19786",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "110042",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "206135",
+    "sim_score": 4,
+    "faith_score": 2,
+    "vf_score": 0.25
+  },
+  {
+    "image_id": "119088",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625
+  },
+  {
+    "image_id": "56127",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "16958",
+    "sim_score": 3,
+    "faith_score": 4,
+    "vf_score": 0.7375
+  },
+  {
+    "image_id": "23230",
+    "sim_score": 5,
+    "faith_score": 5,
+    "vf_score": 0.95
+  },
+  {
+    "image_id": "191013",
+    "sim_score": 5,
+    "faith_score": 4,
+    "vf_score": 0.7125
+  },
+  {
+    "image_id": "27696",
+    "sim_score": 3,
+    "faith_score": 4,
+    "vf_score": 0.7375
+  },
+  {
+    "image_id": "142790",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "13291",
+    "sim_score": 3,
+    "faith_score": 4,
+    "vf_score": 0.7375
+  },
+  {
+    "image_id": "16010",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "23034",
+    "sim_score": 3,
+    "faith_score": 4,
+    "vf_score": 0.7375
+  },
+  {
+    "image_id": "127263",
+    "sim_score": 3,
+    "faith_score": 5,
+    "vf_score": 0.975
+  },
+  {
+    "image_id": "215072",
+    "sim_score": 3,
+    "faith_score": 3,
+    "vf_score": 0.5
+  },
+  {
+    "image_id": "119516",
+    "sim_score": 5,
+    "faith_score": 4,
+    "vf_score": 0.7125
+  },
+  {
+    "image_id": "170474",
+    "sim_score": 4,
+    "faith_score": 2,
+    "vf_score": 0.25
+  },
+  {
+    "image_id": "129416",
+    "sim_score": 3,
+    "faith_score": 5,
+    "vf_score": 0.975
+  },
+  {
+    "image_id": "100274",
+    "sim_score": 3,
+    "faith_score": 4,
+    "vf_score": 0.7375
+  },
+  {
+    "image_id": "7088",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "180011",
+    "sim_score": 4,
+    "faith_score": 5,
+    "vf_score": 0.9625
+  },
+  {
+    "image_id": "187055",
+    "sim_score": 3,
+    "faith_score": 3,
+    "vf_score": 0.5
+  },
+  {
+    "image_id": "184384",
+    "sim_score": 5,
+    "faith_score": 5,
+    "vf_score": 0.95
+  },
+  {
+    "image_id": "116068",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125
+  },
+  {
+    "image_id": "105923",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "50380",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875
+  },
+  {
+    "image_id": "198641",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875
+  },
+  {
+    "image_id": "119445",
+    "sim_score": 5,
+    "faith_score": 5,
+    "vf_score": 0.95
+  },
+  {
+    "image_id": "198489",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  },
+  {
+    "image_id": "184791",
+    "sim_score": 5,
+    "faith_score": 3,
+    "vf_score": 0.475
+  },
+  {
+    "image_id": "183437",
+    "sim_score": 4,
+    "faith_score": 5,
+    "vf_score": 0.9625
+  },
+  {
+    "image_id": "214200",
+    "sim_score": 3,
+    "faith_score": 5,
+    "vf_score": 0.975
+  },
+  {
+    "image_id": "39914",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75
+  }
+]

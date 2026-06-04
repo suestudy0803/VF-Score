@@ -1,0 +1,6 @@
+[submodule "HallusionBench"]
+	path = HallusionBench
+	url = https://github.com/tianyi-lab/HallusionBench.git
+[submodule "SPD-Faith-Bench"]
+	path = SPD-Faith-Bench
+	url = https://github.com/Johanson-colab/SPD-Faith-Bench.git

@@ -1,0 +1,6402 @@
+[
+  {
+    "id": "3256",
+    "cf_type": "semantic_swap",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875,
+    "alpha": 0.05
+  },
+  {
+    "id": "3256",
+    "cf_type": "attribute_flip",
+    "sim_score": 5,
+    "faith_score": 4,
+    "vf_score": 0.7125,
+    "alpha": 0.05
+  },
+  {
+    "id": "3256",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3256",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1349",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1349",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1349",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1349",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3204",
+    "cf_type": "semantic_swap",
+    "sim_score": 2,
+    "faith_score": 2,
+    "vf_score": 0.275,
+    "alpha": 0.05
+  },
+  {
+    "id": "3204",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875,
+    "alpha": 0.05
+  },
+  {
+    "id": "3204",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "3204",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "1476",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1476",
+    "cf_type": "attribute_flip",
+    "sim_score": 4,
+    "faith_score": 5,
+    "vf_score": 0.9625,
+    "alpha": 0.05
+  },
+  {
+    "id": "1476",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1476",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "2501",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "2501",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2501",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2501",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3806",
+    "cf_type": "semantic_swap",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125,
+    "alpha": 0.05
+  },
+  {
+    "id": "3806",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "3806",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3806",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2056",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2056",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "2056",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2056",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "463",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "463",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75,
+    "alpha": 0.05
+  },
+  {
+    "id": "463",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "463",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "499",
+    "cf_type": "semantic_swap",
+    "sim_score": 2,
+    "faith_score": 2,
+    "vf_score": 0.275,
+    "alpha": 0.05
+  },
+  {
+    "id": "499",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "499",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "499",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3566",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "3566",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "3566",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3566",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "758",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "758",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "758",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "758",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1294",
+    "cf_type": "semantic_swap",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125,
+    "alpha": 0.05
+  },
+  {
+    "id": "1294",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1294",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1294",
+    "cf_type": "masked",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "3877",
+    "cf_type": "semantic_swap",
+    "sim_score": 5,
+    "faith_score": 3,
+    "vf_score": 0.475,
+    "alpha": 0.05
+  },
+  {
+    "id": "3877",
+    "cf_type": "attribute_flip",
+    "sim_score": 5,
+    "faith_score": 5,
+    "vf_score": 0.95,
+    "alpha": 0.05
+  },
+  {
+    "id": "3877",
+    "cf_type": "random",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75,
+    "alpha": 0.05
+  },
+  {
+    "id": "3877",
+    "cf_type": "masked",
+    "sim_score": 5,
+    "faith_score": 1,
+    "vf_score": 0.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2388",
+    "cf_type": "semantic_swap",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75,
+    "alpha": 0.05
+  },
+  {
+    "id": "2388",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2388",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2388",
+    "cf_type": "masked",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1670",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1670",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "1670",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1670",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3820",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3820",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75,
+    "alpha": 0.05
+  },
+  {
+    "id": "3820",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3820",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3725",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3725",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3725",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3725",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1087",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "1087",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1087",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1087",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "703",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "703",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875,
+    "alpha": 0.05
+  },
+  {
+    "id": "703",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "703",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1759",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "1759",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1759",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1759",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "545",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "545",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "545",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "545",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "2661",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "2661",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "2661",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2661",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "4145",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "4145",
+    "cf_type": "attribute_flip",
+    "sim_score": 5,
+    "faith_score": 5,
+    "vf_score": 0.95,
+    "alpha": 0.05
+  },
+  {
+    "id": "4145",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "4145",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1554",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1554",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125,
+    "alpha": 0.05
+  },
+  {
+    "id": "1554",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1554",
+    "cf_type": "masked",
+    "sim_score": 5,
+    "faith_score": 5,
+    "vf_score": 0.95,
+    "alpha": 0.05
+  },
+  {
+    "id": "1039",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1039",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1039",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "1039",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "2945",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2945",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "2945",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "2945",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "619",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "619",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "619",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "619",
+    "cf_type": "masked",
+    "sim_score": 3,
+    "faith_score": 5,
+    "vf_score": 0.975,
+    "alpha": 0.05
+  },
+  {
+    "id": "3168",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "3168",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "3168",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3168",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1608",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1608",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125,
+    "alpha": 0.05
+  },
+  {
+    "id": "1608",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1608",
+    "cf_type": "masked",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "1868",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1868",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1868",
+    "cf_type": "random",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "1868",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "4025",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "4025",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "4025",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "4025",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3835",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3835",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3835",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "3835",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3911",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3911",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75,
+    "alpha": 0.05
+  },
+  {
+    "id": "3911",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "3911",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "333",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "333",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "333",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "333",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "1504",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "1504",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75,
+    "alpha": 0.05
+  },
+  {
+    "id": "1504",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "1504",
+    "cf_type": "masked",
+    "sim_score": 5,
+    "faith_score": 5,
+    "vf_score": 0.95,
+    "alpha": 0.05
+  },
+  {
+    "id": "2284",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "2284",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2284",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "2284",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "747",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "747",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75,
+    "alpha": 0.05
+  },
+  {
+    "id": "747",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "747",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2799",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2799",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 2,
+    "vf_score": 0.275,
+    "alpha": 0.05
+  },
+  {
+    "id": "2799",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2799",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1772",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1772",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125,
+    "alpha": 0.05
+  },
+  {
+    "id": "1772",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1772",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "2553",
+    "cf_type": "semantic_swap",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75,
+    "alpha": 0.05
+  },
+  {
+    "id": "2553",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875,
+    "alpha": 0.05
+  },
+  {
+    "id": "2553",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "2553",
+    "cf_type": "masked",
+    "sim_score": 3,
+    "faith_score": 1,
+    "vf_score": 0.025,
+    "alpha": 0.05
+  },
+  {
+    "id": "3009",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3009",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3009",
+    "cf_type": "random",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "3009",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "2452",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "2452",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "2452",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "2452",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3073",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3073",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "3073",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3073",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1681",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "1681",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1681",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1681",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1846",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1846",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1846",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1846",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3880",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3880",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875,
+    "alpha": 0.05
+  },
+  {
+    "id": "3880",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3880",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "1079",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1079",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1079",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1079",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "1889",
+    "cf_type": "semantic_swap",
+    "sim_score": 2,
+    "faith_score": 2,
+    "vf_score": 0.275,
+    "alpha": 0.05
+  },
+  {
+    "id": "1889",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1889",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1889",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3661",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3661",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3661",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3661",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "5",
+    "cf_type": "semantic_swap",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125,
+    "alpha": 0.05
+  },
+  {
+    "id": "5",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125,
+    "alpha": 0.05
+  },
+  {
+    "id": "5",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "5",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2064",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2064",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75,
+    "alpha": 0.05
+  },
+  {
+    "id": "2064",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2064",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "837",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "837",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 2,
+    "vf_score": 0.275,
+    "alpha": 0.05
+  },
+  {
+    "id": "837",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "837",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "42",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "42",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125,
+    "alpha": 0.05
+  },
+  {
+    "id": "42",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "42",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "403",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "403",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "403",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "403",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1376",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "1376",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1376",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1376",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3955",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3955",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "3955",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3955",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1077",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "1077",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "1077",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1077",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "803",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "803",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "803",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "803",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "211",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "211",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "211",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "211",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3195",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3195",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "3195",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3195",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2545",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2545",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "2545",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "2545",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3603",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3603",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75,
+    "alpha": 0.05
+  },
+  {
+    "id": "3603",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3603",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "502",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "502",
+    "cf_type": "attribute_flip",
+    "sim_score": 4,
+    "faith_score": 4,
+    "vf_score": 0.725,
+    "alpha": 0.05
+  },
+  {
+    "id": "502",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "502",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2506",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2506",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "2506",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2506",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "198",
+    "cf_type": "semantic_swap",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "198",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "198",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "198",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "548",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "548",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125,
+    "alpha": 0.05
+  },
+  {
+    "id": "548",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "548",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "182",
+    "cf_type": "semantic_swap",
+    "sim_score": 5,
+    "faith_score": 3,
+    "vf_score": 0.475,
+    "alpha": 0.05
+  },
+  {
+    "id": "182",
+    "cf_type": "attribute_flip",
+    "sim_score": 5,
+    "faith_score": 5,
+    "vf_score": 0.95,
+    "alpha": 0.05
+  },
+  {
+    "id": "182",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "182",
+    "cf_type": "masked",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875,
+    "alpha": 0.05
+  },
+  {
+    "id": "4225",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "4225",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "4225",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "4225",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "2397",
+    "cf_type": "semantic_swap",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75,
+    "alpha": 0.05
+  },
+  {
+    "id": "2397",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 2,
+    "vf_score": 0.275,
+    "alpha": 0.05
+  },
+  {
+    "id": "2397",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2397",
+    "cf_type": "masked",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1577",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "1577",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1577",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1577",
+    "cf_type": "masked",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "2364",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2364",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2364",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "2364",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "2539",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2539",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2539",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "2539",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "73",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "73",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "73",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "73",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2687",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2687",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "2687",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "2687",
+    "cf_type": "masked",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875,
+    "alpha": 0.05
+  },
+  {
+    "id": "2701",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "2701",
+    "cf_type": "attribute_flip",
+    "sim_score": 4,
+    "faith_score": 4,
+    "vf_score": 0.725,
+    "alpha": 0.05
+  },
+  {
+    "id": "2701",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "2701",
+    "cf_type": "masked",
+    "sim_score": 5,
+    "faith_score": 1,
+    "vf_score": 0.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "1115",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "1115",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125,
+    "alpha": 0.05
+  },
+  {
+    "id": "1115",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1115",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "4181",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "4181",
+    "cf_type": "attribute_flip",
+    "sim_score": 3,
+    "faith_score": 5,
+    "vf_score": 0.975,
+    "alpha": 0.05
+  },
+  {
+    "id": "4181",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "4181",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "608",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "608",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "608",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "608",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3066",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3066",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875,
+    "alpha": 0.05
+  },
+  {
+    "id": "3066",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3066",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "2208",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "2208",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2208",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "2208",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "342",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "342",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125,
+    "alpha": 0.05
+  },
+  {
+    "id": "342",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "342",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "128",
+    "cf_type": "semantic_swap",
+    "sim_score": 2,
+    "faith_score": 2,
+    "vf_score": 0.275,
+    "alpha": 0.05
+  },
+  {
+    "id": "128",
+    "cf_type": "attribute_flip",
+    "sim_score": 3,
+    "faith_score": 1,
+    "vf_score": 0.025,
+    "alpha": 0.05
+  },
+  {
+    "id": "128",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "128",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "1462",
+    "cf_type": "semantic_swap",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75,
+    "alpha": 0.05
+  },
+  {
+    "id": "1462",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125,
+    "alpha": 0.05
+  },
+  {
+    "id": "1462",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "1462",
+    "cf_type": "masked",
+    "sim_score": 3,
+    "faith_score": 5,
+    "vf_score": 0.975,
+    "alpha": 0.05
+  },
+  {
+    "id": "2816",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "2816",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2816",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "2816",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3222",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3222",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "3222",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3222",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "418",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "418",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "418",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "418",
+    "cf_type": "masked",
+    "sim_score": 5,
+    "faith_score": 1,
+    "vf_score": 0.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "1589",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1589",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75,
+    "alpha": 0.05
+  },
+  {
+    "id": "1589",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "1589",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2379",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "2379",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2379",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "2379",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1851",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1851",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1851",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1851",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3534",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3534",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3534",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "3534",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3825",
+    "cf_type": "semantic_swap",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125,
+    "alpha": 0.05
+  },
+  {
+    "id": "3825",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 2,
+    "vf_score": 0.275,
+    "alpha": 0.05
+  },
+  {
+    "id": "3825",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "3825",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "483",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "483",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "483",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "483",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "1848",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1848",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1848",
+    "cf_type": "random",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "1848",
+    "cf_type": "masked",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "1220",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1220",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1220",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "1220",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "738",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "738",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "738",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "738",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "295",
+    "cf_type": "semantic_swap",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "295",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 2,
+    "vf_score": 0.275,
+    "alpha": 0.05
+  },
+  {
+    "id": "295",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "295",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "467",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "467",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875,
+    "alpha": 0.05
+  },
+  {
+    "id": "467",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "467",
+    "cf_type": "masked",
+    "sim_score": 4,
+    "faith_score": 1,
+    "vf_score": 0.0125,
+    "alpha": 0.05
+  },
+  {
+    "id": "4141",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "4141",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 2,
+    "vf_score": 0.275,
+    "alpha": 0.05
+  },
+  {
+    "id": "4141",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "4141",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1085",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "1085",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "1085",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1085",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "589",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "589",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875,
+    "alpha": 0.05
+  },
+  {
+    "id": "589",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "589",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3045",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3045",
+    "cf_type": "attribute_flip",
+    "sim_score": 5,
+    "faith_score": 5,
+    "vf_score": 0.95,
+    "alpha": 0.05
+  },
+  {
+    "id": "3045",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "3045",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "557",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "557",
+    "cf_type": "attribute_flip",
+    "sim_score": 5,
+    "faith_score": 4,
+    "vf_score": 0.7125,
+    "alpha": 0.05
+  },
+  {
+    "id": "557",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "557",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "1518",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1518",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1518",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "1518",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1952",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1952",
+    "cf_type": "attribute_flip",
+    "sim_score": 5,
+    "faith_score": 5,
+    "vf_score": 0.95,
+    "alpha": 0.05
+  },
+  {
+    "id": "1952",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "1952",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3648",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "3648",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 2,
+    "vf_score": 0.275,
+    "alpha": 0.05
+  },
+  {
+    "id": "3648",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3648",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3852",
+    "cf_type": "semantic_swap",
+    "sim_score": 3,
+    "faith_score": 3,
+    "vf_score": 0.5,
+    "alpha": 0.05
+  },
+  {
+    "id": "3852",
+    "cf_type": "attribute_flip",
+    "sim_score": 4,
+    "faith_score": 5,
+    "vf_score": 0.9625,
+    "alpha": 0.05
+  },
+  {
+    "id": "3852",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3852",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3859",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "3859",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3859",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3859",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "4184",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "4184",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "4184",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "4184",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "2706",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2706",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "2706",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2706",
+    "cf_type": "masked",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "1072",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "1072",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "1072",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1072",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "576",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "576",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "576",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "576",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1961",
+    "cf_type": "semantic_swap",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125,
+    "alpha": 0.05
+  },
+  {
+    "id": "1961",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1961",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1961",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3767",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "3767",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3767",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3767",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "582",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "582",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "582",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "582",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "4205",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "4205",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "4205",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "4205",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1351",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1351",
+    "cf_type": "attribute_flip",
+    "sim_score": 5,
+    "faith_score": 2,
+    "vf_score": 0.2375,
+    "alpha": 0.05
+  },
+  {
+    "id": "1351",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1351",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3401",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "3401",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3401",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3401",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3321",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3321",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "3321",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "3321",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "4223",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "4223",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "4223",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "4223",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3797",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3797",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3797",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3797",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3842",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3842",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875,
+    "alpha": 0.05
+  },
+  {
+    "id": "3842",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "3842",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1164",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1164",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1164",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1164",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1316",
+    "cf_type": "semantic_swap",
+    "sim_score": 3,
+    "faith_score": 2,
+    "vf_score": 0.2625,
+    "alpha": 0.05
+  },
+  {
+    "id": "1316",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125,
+    "alpha": 0.05
+  },
+  {
+    "id": "1316",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "1316",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2418",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2418",
+    "cf_type": "attribute_flip",
+    "sim_score": 4,
+    "faith_score": 5,
+    "vf_score": 0.9625,
+    "alpha": 0.05
+  },
+  {
+    "id": "2418",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "2418",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3227",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3227",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 2,
+    "vf_score": 0.275,
+    "alpha": 0.05
+  },
+  {
+    "id": "3227",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "3227",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "1435",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "1435",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1435",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1435",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "167",
+    "cf_type": "semantic_swap",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875,
+    "alpha": 0.05
+  },
+  {
+    "id": "167",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "167",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "167",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "45",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "45",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "45",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "45",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "2646",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2646",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875,
+    "alpha": 0.05
+  },
+  {
+    "id": "2646",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2646",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "2822",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2822",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2822",
+    "cf_type": "random",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "2822",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "407",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "407",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "407",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "407",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "2281",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "2281",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "2281",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2281",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "16",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "16",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "16",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "16",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3940",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3940",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3940",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3940",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "316",
+    "cf_type": "semantic_swap",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875,
+    "alpha": 0.05
+  },
+  {
+    "id": "316",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 2,
+    "vf_score": 0.275,
+    "alpha": 0.05
+  },
+  {
+    "id": "316",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "316",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2750",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "2750",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75,
+    "alpha": 0.05
+  },
+  {
+    "id": "2750",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "2750",
+    "cf_type": "masked",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875,
+    "alpha": 0.05
+  },
+  {
+    "id": "664",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "664",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "664",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "664",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2624",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "2624",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125,
+    "alpha": 0.05
+  },
+  {
+    "id": "2624",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "2624",
+    "cf_type": "masked",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "1594",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "1594",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1594",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1594",
+    "cf_type": "masked",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "852",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "852",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "852",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "852",
+    "cf_type": "masked",
+    "sim_score": 2,
+    "faith_score": 2,
+    "vf_score": 0.275,
+    "alpha": 0.05
+  },
+  {
+    "id": "926",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "926",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "926",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "926",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "2702",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2702",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2702",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "2702",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "735",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "735",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "735",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "735",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "2031",
+    "cf_type": "semantic_swap",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "2031",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "2031",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2031",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3981",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "3981",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3981",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3981",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "475",
+    "cf_type": "semantic_swap",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75,
+    "alpha": 0.05
+  },
+  {
+    "id": "475",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875,
+    "alpha": 0.05
+  },
+  {
+    "id": "475",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "475",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "2235",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "2235",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2235",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "2235",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1745",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1745",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1745",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1745",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3261",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3261",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "3261",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "3261",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3860",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "3860",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125,
+    "alpha": 0.05
+  },
+  {
+    "id": "3860",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "3860",
+    "cf_type": "masked",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "1728",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1728",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1728",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "1728",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "719",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "719",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "719",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "719",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "454",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "454",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125,
+    "alpha": 0.05
+  },
+  {
+    "id": "454",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "454",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1430",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1430",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "1430",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1430",
+    "cf_type": "masked",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "2575",
+    "cf_type": "semantic_swap",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125,
+    "alpha": 0.05
+  },
+  {
+    "id": "2575",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125,
+    "alpha": 0.05
+  },
+  {
+    "id": "2575",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "2575",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "1501",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1501",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1501",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1501",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1958",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1958",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125,
+    "alpha": 0.05
+  },
+  {
+    "id": "1958",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "1958",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2963",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2963",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875,
+    "alpha": 0.05
+  },
+  {
+    "id": "2963",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2963",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1208",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1208",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125,
+    "alpha": 0.05
+  },
+  {
+    "id": "1208",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1208",
+    "cf_type": "masked",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1106",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "1106",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "1106",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "1106",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3743",
+    "cf_type": "semantic_swap",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125,
+    "alpha": 0.05
+  },
+  {
+    "id": "3743",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875,
+    "alpha": 0.05
+  },
+  {
+    "id": "3743",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3743",
+    "cf_type": "masked",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875,
+    "alpha": 0.05
+  },
+  {
+    "id": "2225",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2225",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "2225",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2225",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "2094",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "2094",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2094",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "2094",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1434",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1434",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "1434",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "1434",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "443",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "443",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "443",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "443",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2652",
+    "cf_type": "semantic_swap",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125,
+    "alpha": 0.05
+  },
+  {
+    "id": "2652",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75,
+    "alpha": 0.05
+  },
+  {
+    "id": "2652",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2652",
+    "cf_type": "masked",
+    "sim_score": 4,
+    "faith_score": 1,
+    "vf_score": 0.0125,
+    "alpha": 0.05
+  },
+  {
+    "id": "930",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "930",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "930",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "930",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3283",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "3283",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875,
+    "alpha": 0.05
+  },
+  {
+    "id": "3283",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3283",
+    "cf_type": "masked",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1060",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1060",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1060",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "1060",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2725",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2725",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2725",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2725",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "148",
+    "cf_type": "semantic_swap",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125,
+    "alpha": 0.05
+  },
+  {
+    "id": "148",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125,
+    "alpha": 0.05
+  },
+  {
+    "id": "148",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "148",
+    "cf_type": "masked",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "842",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "842",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "842",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "842",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "2949",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2949",
+    "cf_type": "attribute_flip",
+    "sim_score": 5,
+    "faith_score": 3,
+    "vf_score": 0.475,
+    "alpha": 0.05
+  },
+  {
+    "id": "2949",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "2949",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "397",
+    "cf_type": "semantic_swap",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125,
+    "alpha": 0.05
+  },
+  {
+    "id": "397",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "397",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "397",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "2092",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2092",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2092",
+    "cf_type": "random",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "2092",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "2959",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2959",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2959",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2959",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "1855",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "1855",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1855",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "1855",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "635",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "635",
+    "cf_type": "attribute_flip",
+    "sim_score": 5,
+    "faith_score": 5,
+    "vf_score": 0.95,
+    "alpha": 0.05
+  },
+  {
+    "id": "635",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "635",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "1541",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "1541",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1541",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "1541",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "963",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "963",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125,
+    "alpha": 0.05
+  },
+  {
+    "id": "963",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "963",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3512",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3512",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "3512",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3512",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2960",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "2960",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "2960",
+    "cf_type": "random",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "2960",
+    "cf_type": "masked",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "1098",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1098",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75,
+    "alpha": 0.05
+  },
+  {
+    "id": "1098",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "1098",
+    "cf_type": "masked",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "2360",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "2360",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "2360",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "2360",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "4072",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "4072",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "4072",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "4072",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3967",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3967",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3967",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3967",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "2161",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "2161",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 5,
+    "vf_score": 0.9875,
+    "alpha": 0.05
+  },
+  {
+    "id": "2161",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2161",
+    "cf_type": "masked",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "3968",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3968",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3968",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "3968",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "172",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "172",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "172",
+    "cf_type": "random",
+    "sim_score": 2,
+    "faith_score": 2,
+    "vf_score": 0.275,
+    "alpha": 0.05
+  },
+  {
+    "id": "172",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1877",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "1877",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "1877",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "1877",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "2693",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "2693",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "2693",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "2693",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3226",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3226",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3226",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3226",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "2523",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "2523",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  },
+  {
+    "id": "2523",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "2523",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "612",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "612",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "612",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "612",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "671",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "671",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "671",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "671",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "1590",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1590",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1590",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 2,
+    "vf_score": 0.2875,
+    "alpha": 0.05
+  },
+  {
+    "id": "1590",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3657",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3657",
+    "cf_type": "attribute_flip",
+    "sim_score": 5,
+    "faith_score": 5,
+    "vf_score": 0.95,
+    "alpha": 0.05
+  },
+  {
+    "id": "3657",
+    "cf_type": "random",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125,
+    "alpha": 0.05
+  },
+  {
+    "id": "3657",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "1631",
+    "cf_type": "semantic_swap",
+    "sim_score": 2,
+    "faith_score": 2,
+    "vf_score": 0.275,
+    "alpha": 0.05
+  },
+  {
+    "id": "1631",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 3,
+    "vf_score": 0.5125,
+    "alpha": 0.05
+  },
+  {
+    "id": "1631",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "1631",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "4226",
+    "cf_type": "semantic_swap",
+    "sim_score": 3,
+    "faith_score": 5,
+    "vf_score": 0.975,
+    "alpha": 0.05
+  },
+  {
+    "id": "4226",
+    "cf_type": "attribute_flip",
+    "sim_score": 2,
+    "faith_score": 4,
+    "vf_score": 0.75,
+    "alpha": 0.05
+  },
+  {
+    "id": "4226",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "4226",
+    "cf_type": "masked",
+    "sim_score": 1,
+    "faith_score": 1,
+    "vf_score": 0.05,
+    "alpha": 0.05
+  },
+  {
+    "id": "3599",
+    "cf_type": "semantic_swap",
+    "sim_score": 1,
+    "faith_score": 4,
+    "vf_score": 0.7625,
+    "alpha": 0.05
+  },
+  {
+    "id": "3599",
+    "cf_type": "attribute_flip",
+    "sim_score": 1,
+    "faith_score": 5,
+    "vf_score": 1.0,
+    "alpha": 0.05
+  },
+  {
+    "id": "3599",
+    "cf_type": "random",
+    "sim_score": 1,
+    "faith_score": 3,
+    "vf_score": 0.525,
+    "alpha": 0.05
+  },
+  {
+    "id": "3599",
+    "cf_type": "masked",
+    "sim_score": 2,
+    "faith_score": 1,
+    "vf_score": 0.0375,
+    "alpha": 0.05
+  }
+]

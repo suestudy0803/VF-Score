@@ -1,0 +1,452 @@
+[
+  {
+    "id": "1195",
+    "question": "Which state is highlighted?",
+    "answer": 0,
+    "subject": "social science",
+    "image_path": "data/raw/images/1195.jpg",
+    "cot": "[/INST] 1. In the image, I see a map of the United States with all the states colored in green. One state, however, is highlighted in a different color, which appears to be a darker shade of green.\n\n2. The highlighted state is located in the Midwest region of the United States. It is bordered by other states, and it is not one of the coastal states.\n\n3. Based on the image, the highlighted state is Michigan.\n\nTherefore, the answer to the question is Michigan.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "2624",
+    "question": "Think about the magnetic force between the magnets in each pair. Which of the following statements is true?",
+    "answer": 1,
+    "subject": "natural science",
+    "image_path": "data/raw/images/2624.jpg",
+    "cot": "[/INST] 1. In the image, there are two pairs of magnets, each consisting of two magnets of equal size and strength. The magnets are arranged in a circular pattern, with one magnet in each pair facing the other magnet.\n\n2. The magnets in each pair are of the same type (either both are north-south magnets or both are south-north magnets).\n\n3. The magnetic force between the magnets in each pair is attractive, as the magnets are facing each other and are in close proximity.\n\n4. The magnetic force between the magnets in each pair is proportional to the strength of the magnets and the distance between them.\n\n5. The strength of the magnets is indicated by the size of the circles representing them in the image.\n\n6. The distance between the magnets in each pair is the diameter of the circles representing them.\n\n7. The magnetic force between the magnets in each pair is inversely proportional to the square of the distance between them.\n\n8. The magnetic force between the magnets in each pair is attractive because the magnets are facing each other and are in close proximity.\n\n9. The magnetic force between the magnets in each pair is proportional to the strength of the magnets and the distance between them.\n\n10. The strength of the magnets is indicated by the size of the circles representing them in the image.\n\n11. The distance between the magnets in each pair is the diameter of the circles representing them.\n\n12. The magnetic force between the magnets in each pair is inversely proportional to the square of the distance between them.\n\nBased on the observations and reasoning, the true statement is:\n\nThe magnetic force between the magnets in each pair is attractive and proportional to the strength of the magnets and the",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "619",
+    "question": "Complete the text to describe the diagram.\nSolute particles moved in both directions across the permeable membrane. But more solute particles moved across the membrane (). When there was an equal concentration on both sides, the particles reached equilibrium.",
+    "answer": 1,
+    "subject": "natural science",
+    "image_path": "data/raw/images/619.jpg",
+    "cot": "[/INST] 1. In the image, there are two rectangles, each containing a series of pink circles. The rectangles are separated by a dashed line, which represents a permeable membrane. The pink circles represent solute particles.\n\n2. The solute particles are depicted as moving in both directions across the membrane. The pink circles on the left side of the membrane are moving towards the right side, and the pink circles on the right side of the membrane are moving towards the left side.\n\n3. The text in the image states that \"more solute particles moved across the membrane.\" This suggests that there was an imbalance in the number of solute particles on the two sides of the membrane, with more particles moving from one side to the other.\n\n4. The text also mentions that \"when there was an equal concentration on both sides, the particles reached equilibrium.\" This implies that at some point, the concentration of solute particles on both sides of the membrane became equal, and the movement of particles ceased.\n\n5. The image does not provide enough information to determine the exact number of solute particles or the specific conditions that led to equilibrium. However, it does show that the movement of solute particles across the membrane was a dynamic process that eventually reached a state of balance.\n\n6. The answer to the question is: The image depicts the movement of solute particles across a permeable membrane, with more particles moving in one direction than the other, and it illustrates the concept of equilibrium in the context of solute particles.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "1289",
+    "question": "Why did young Mae look at the stars?",
+    "answer": 1,
+    "subject": "language science",
+    "image_path": "data/raw/images/1289.jpg",
+    "cot": "[/INST] 1. In the image, there is a person wearing an orange space suit with a helmet. The person is smiling and appears to be looking up at the stars.\n\n2. The person is likely an astronaut, as indicated by the space suit and helmet. The fact that the person is smiling and looking up at the stars suggests that they are excited and inspired by the prospect of space exploration.\n\n3. The image captures a moment of joy and wonder, as the young Mae looks up at the stars, possibly dreaming of becoming an astronaut and exploring the universe.\n\n4. The image conveys the idea that looking at the stars can inspire and motivate individuals to pursue their dreams and aspirations, regardless of the challenges they may face.\n\n5. The image also serves as a reminder of the importance of space exploration and the role it plays in advancing human knowledge and understanding of the universe.\n\nIn conclusion, the image of young Mae looking at the stars captures a moment of inspiration and wonder, highlighting the impact that space exploration can have on individuals and society as a whole.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "3835",
+    "question": "Which property do these three objects have in common?",
+    "answer": 1,
+    "subject": "natural science",
+    "image_path": "data/raw/images/3835.jpg",
+    "cot": "[/INST] 1. In the image, there are three objects: a pair of sunglasses, a collection of apple seeds, and a canoe. Each object is distinct and has a different shape and color.\n\n2. The sunglasses are a pair of eyewear, typically used to protect the eyes from bright light. They are black with a reflective surface.\n\n3. The apple seeds are a collection of small, brown seeds that are commonly found in apples. They are not directly related to the other two objects.\n\n4. The canoe is a long, narrow boat made of wood or other lightweight materials. It is typically used for recreational purposes on calm water.\n\n5. Based on the image, the sunglasses and the canoe are not directly related to each other or to the apple seeds. The apple seeds are not related to the sunglasses or the canoe either.\n\n6. The only common property among these three objects is that they are all depicted in a cartoon-like style, which is a form of artistic representation.\n\n7. Therefore, the common property among these three objects is that they are all depicted in a cartoon-like style.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "3880",
+    "question": "Which of the following could Harold's test show?",
+    "answer": 0,
+    "subject": "natural science",
+    "image_path": "data/raw/images/3880.jpg",
+    "cot": "[/INST] 1. In the image, there is a solar panel mounted on a pole, which is connected to a device that appears to be a weather station. The solar panel is angled towards the sun, and the weather station is equipped with various instruments, likely for measuring weather conditions.\n\n2. Harold's test is a method used to determine the efficiency of a solar panel. It involves measuring the amount of energy produced by the solar panel under standardized conditions.\n\n3. Based on the image, it is likely that Harold's test is being conducted to measure the efficiency of the solar panel in converting sunlight into electrical energy. The presence of the weather station suggests that the test is being conducted under real-world conditions, which is important for evaluating the performance of the solar panel in a practical setting.\n\n4. The test results would show the solar panel's efficiency in converting sunlight into electrical energy, which is a critical parameter for assessing the effectiveness of solar energy systems.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "1072",
+    "question": "Which animal's skin is also adapted for survival in cold places?",
+    "answer": 0,
+    "subject": "natural science",
+    "image_path": "data/raw/images/1072.jpg",
+    "cot": "[/INST] 1. In the image, there is a white rabbit sitting on a snow-covered surface. The rabbit's fur is white, which helps it blend in with the snowy background, providing camouflage.\n\n2. The rabbit's fur is also adapted for survival in cold places. The white fur helps the rabbit stay warm in cold environments by reflecting sunlight and trapping a layer of insulating air close to its body. This insulation helps the rabbit conserve body heat and stay warm in the harsh winter conditions.\n\n3. The rabbit's fur is an adaptation that allows it to survive in cold environments.\n\nAnswer: The rabbit's fur is an adaptation that allows it to survive in cold environments.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "397",
+    "question": "Which trait did Palaeopython have? Select the trait you can observe on the fossil.",
+    "answer": 2,
+    "subject": "natural science",
+    "image_path": "data/raw/images/397.jpg",
+    "cot": "[/INST] 1. In the image, there is a fossil of a snake-like creature with a pattern of scales. The fossil is on a rock surface, and the snake-like creature appears to be coiled.\n\n2. The snake-like creature has a distinct pattern of scales, which is a characteristic trait of snakes. This pattern is used for camouflage and thermoregulation.\n\n3. Based on the image, the snake-like creature has the trait of a distinct pattern of scales, which is a characteristic feature of snakes.\n\n4. Therefore, the answer is: The snake-like creature has a distinct pattern of scales, which is a characteristic trait of snakes.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "1450",
+    "question": "Based on the text, what was one of the things that made Alex different from most parrots?",
+    "answer": 2,
+    "subject": "language science",
+    "image_path": "data/raw/images/1450.jpg",
+    "cot": "[/INST] 1. In the image, there is a large grey parrot perched on a wooden stick. The parrot is looking down at a table with a variety of colorful blocks or cubes on it. The parrot appears to be interacting with the blocks, possibly playing with them.\n\n2. The parrot's ability to interact with the blocks suggests that it may have been trained to do so. Parrots are known for their intelligence and ability to learn and mimic human behavior. The fact that Alex, the parrot, is engaging with the blocks in a way that is not typical for parrots in the wild indicates that it may have been exposed to human-like activities or training.\n\n3. Based on the text and the image, one of the things that made Alex different from most parrots is that it was trained to interact with objects in a way that is not natural for parrots. This demonstrates the parrot's ability to learn and adapt to human-like activities, which is a characteristic that sets it apart from other parrots.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "548",
+    "question": "Which property do these three objects have in common?",
+    "answer": 2,
+    "subject": "natural science",
+    "image_path": "data/raw/images/548.jpg",
+    "cot": "[/INST] 1. In the image, there are three objects: a metal bar, a set of building blocks, and a magnifying glass.\n\n2. The metal bar is a long, thin, and straight object, typically used for construction or as a tool for measuring distances.\n\n3. The building blocks are colorful, three-dimensional shapes that can be stacked or connected to form larger structures, often used in children's toys or educational materials to teach basic concepts of geometry and construction.\n\n4. The magnifying glass is a handheld instrument with a convex lens, used to magnify and examine small details in objects.\n\n5. Based on these observations, the common property among these three objects is that they are all tools or instruments used for different purposes, such as construction, education, or examination.\n\n6. The metal bar is used for measuring or construction purposes, the building blocks are used for educational or construction purposes, and the magnifying glass is used for examination or observation purposes.\n\n7. Therefore, the common property among these three objects is that they are all tools or instruments used for different purposes.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "3242",
+    "question": "Which is the main persuasive appeal used in this ad?",
+    "answer": 1,
+    "subject": "language science",
+    "image_path": "data/raw/images/3242.jpg",
+    "cot": "[/INST] 1. The image shows a can of sardines with the lid open, revealing the sardines inside. The can is placed against a white background.\n\n2. The main persuasive appeal used in this ad is the visual presentation of the sardines. By showing the sardines in an appealing manner, the ad aims to entice the viewer to purchase the product. The open can allows the viewer to see the quality and quantity of the sardines, which can be perceived as a positive attribute.\n\n3. The ad's main persuasive appeal is the visual presentation of the sardines, which is designed to attract the viewer's attention and encourage them to buy the product.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "3269",
+    "question": "Which country is highlighted?",
+    "answer": 0,
+    "subject": "social science",
+    "image_path": "data/raw/images/3269.jpg",
+    "cot": "[/INST] 1. In the image, there is a map of the Caribbean region with a focus on the island of Cuba. The country of Cuba is highlighted in green.\n\n2. The map shows the island of Cuba, which is a part of the Caribbean region. The country of Cuba is distinctly highlighted in green, indicating that it is the country being referred to in the question.\n\n3. Based on the image, the country highlighted is Cuba.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "2056",
+    "question": "Is the following statement about our solar system true or false?\nNeptune's volume is more than 100 times as large as Earth's.",
+    "answer": 0,
+    "subject": "natural science",
+    "image_path": "data/raw/images/2056.jpg",
+    "cot": "[/INST] 1. The image is a table that lists the volume of various planets in our solar system, along with their primary composition. The planets listed are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.\n\n2. To determine if the statement is true or false, we need to compare the volume of Neptune with Earth. In the table, the volume of Neptune is given as 6.25 x 10^13 cubic kilometers, while the volume of Earth is 1.08 x 10^12 cubic kilometers.\n\n3. To compare the volumes, we can divide the volume of Neptune by the volume of Earth.\n\n6.25 x 10^13 ÷ 1.08 x 10^12 = 5.88 x 10^11\n\n4. The result is 5.88 x 10^11, which is not more than 100 times as large as Earth's volume.\n\n5. Therefore, the statement \"Neptune's volume is more than 100 times as large as Earth's\" is false.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "2867",
+    "question": "What is the capital of Indiana?",
+    "answer": 3,
+    "subject": "social science",
+    "image_path": "data/raw/images/2867.jpg",
+    "cot": "[/INST] 1. The image shows a map of the United States with the state of Indiana highlighted in green. The capital of Indiana is Indianapolis.\n\n2. The map is a simple outline of the United States, with each state colored differently. Indiana is colored green, which makes it stand out from the other states.\n\n3. The capital of Indiana is Indianapolis, which is located in the central part of the state.\n\n4. Based on the image, the capital of Indiana is Indianapolis.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "1399",
+    "question": "What can Terrell and Allie trade to each get what they want?",
+    "answer": 3,
+    "subject": "social science",
+    "image_path": "data/raw/images/1399.jpg",
+    "cot": "[/INST] 1. The image shows two lists of items, each labeled \"Items Terrell wants\" and \"Items Allie wants.\" The items listed are:\n   - Terrell wants: a sandwich, oranges, broccoli, water\n   - Allie wants: a hot dog, tomatoes, almonds, water\n\n2. To trade items so that both Terrell and Allie get what they want, we need to find a way to exchange items from each list that are not already present in the other list.\n\n3. From Terrell's list, we can see that he wants a hot dog, which is on Allie's list. Therefore, Terrell can give Allie a hot dog in exchange for one of the items on Allie's list.\n\n4. From Allie's list, we can see that he wants a sandwich, which is on Terrell's list. Therefore, Allie can give Terrell a sandwich in exchange for one of the items on Terrell's list.\n\n5. Now, both Terrell and Allie have what they want: Terrell has a hot dog and a sandwich, and Allie has a sandwich and a hot dog.\n\nAnswer: To trade items so that both Terrell and Allie get what they want, Terrell can give Allie a hot dog, and Allie can give Terrell a sandwich.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "172",
+    "question": "Will these magnets attract or repel each other?",
+    "answer": 1,
+    "subject": "natural science",
+    "image_path": "data/raw/images/172.jpg",
+    "cot": "[/INST] 1. In the image, there are two magnets with the letters \"S\" and \"N\" on them, and they are placed on a background with stripes of purple and green. The magnets are positioned in such a way that they are facing each other, with the \"S\" magnet on the left and the \"N\" magnet on the right.\n\n2. The magnets are likely to be attracted to each other because they are magnetic. Magnets are attracted to each other when they are of the same type, such as two north poles or two south poles. In this case, since both magnets have the same letter, it is reasonable to assume that they are of the same type. Therefore, they should be attracted to each other.\n\n3. Based on the observation and reasoning, the answer is that the magnets will attract each other.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "3648",
+    "question": "Select the organism in the same species as the peregrine falcon.",
+    "answer": 0,
+    "subject": "natural science",
+    "image_path": "data/raw/images/3648.jpg",
+    "cot": "[/INST] 1. In the image, there is a bird with a distinctive appearance. It has a large head, a prominent beak, and a body covered in a pattern of dark and light feathers. The bird's posture is upright, and it appears to be looking directly at the camera.\n\n2. The bird's appearance and the fact that it is a falcon suggest that it is a peregrine falcon. Peregrine falcons are known for their large heads and sharp beaks, which are well-suited for hunting and capturing prey.\n\n3. Based on the image, the organism in the same species as the peregrine falcon is the peregrine falcon itself.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "1294",
+    "question": "Is the air moving through a trombone a solid, a liquid, or a gas?",
+    "answer": 0,
+    "subject": "natural science",
+    "image_path": "data/raw/images/1294.jpg",
+    "cot": "[/INST] 1. In the image, there is a depiction of a trombone with a note being played. The note is represented by a swirl of air, which is a visual representation of the sound produced by the trombone.\n\n2. The air moving through a trombone is a gas. This is because the air is a substance that can be compressed, and it is a component of the sound produced by the instrument. The air is not a solid or a liquid because it can flow through the trombone and vibrate the slide, which is a characteristic of a gas.\n\n3. The air moving through a trombone is a gas.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "3860",
+    "question": "Which better describes the Mount Rainier National Park ecosystem?",
+    "answer": 0,
+    "subject": "natural science",
+    "image_path": "data/raw/images/3860.jpg",
+    "cot": "[/INST] 1. In the image, we see a majestic snow-capped mountain, Mount Rainier, towering over a lush green valley filled with trees. The mountain is surrounded by a clear blue sky, and the valley appears to be a temperate rainforest.\n\n2. The presence of a snow-capped mountain suggests that the ecosystem is characterized by a significant temperature gradient between the mountain's peak and the valley below. This gradient supports a diverse range of plant and animal species, including coniferous forests at lower elevations and possibly subalpine meadows or alpine tundra at higher elevations.\n\n3. The lush green valley indicates that the area receives ample rainfall, which supports the growth of a dense forest. The clear blue sky suggests that the region experiences a relatively mild climate, with warm summers and cool winters.\n\n4. The ecosystem of Mount Rainier National Park is a temperate rainforest, characterized by a diverse range of plant and animal species, and a significant temperature gradient between the mountain's peak and the valley below.\n\nAnswer: The ecosystem of Mount Rainier National Park is a temperate rainforest.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "1208",
+    "question": "Complete the text to describe the diagram.\nSolute particles moved in both directions across the permeable membrane. But more solute particles moved across the membrane (). When there was an equal concentration on both sides, the particles reached equilibrium.",
+    "answer": 0,
+    "subject": "natural science",
+    "image_path": "data/raw/images/1208.jpg",
+    "cot": "[/INST] 1. In the image, there are two rectangles with yellow circles representing solute particles. The rectangles are separated by a dashed line, which could represent a permeable membrane. The yellow circles are distributed unevenly across the two rectangles, with more circles on the right side.\n\n2. Based on the image, it appears that the solute particles are moving from the left side to the right side across the membrane. This is indicated by the uneven distribution of circles, with more circles on the right side, suggesting that more particles have moved in that direction.\n\n3. The text in the image states that \"Solute particles moved in both directions across the permeable membrane. But more solute particles moved across the membrane (). When there was an equal concentration on both sides, the particles reached equilibrium.\"\n\n4. The image shows that the solute particles are not moving in both directions equally, as there is an uneven distribution of circles. This suggests that the particles are not at equilibrium yet, as the concentration of particles is not equal on both sides of the membrane.\n\n5. The answer to the question is: \"Solute particles moved in both directions across the permeable membrane. But more solute particles moved across the membrane (). When there was an equal concentration on both sides, the particles reached equilibrium.\"\n\nThe image does not show that the particles have reached equilibrium, as the concentration of particles is not equal on both sides of the membrane. The particles are still in the process of moving and have not yet reached equilibrium.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "2847",
+    "question": "What is the capital of New Hampshire?",
+    "answer": 2,
+    "subject": "social science",
+    "image_path": "data/raw/images/2847.jpg",
+    "cot": "[/INST] 1. In the image, I see a map of the United States with the state of New Hampshire highlighted in green. The map does not provide any additional information about the capital of New Hampshire.\n\n2. To determine the capital of New Hampshire, I would need to look for the city labeled as the capital on the map. However, the map does not provide labels for the states' capitals.\n\n3. Since the map does not provide the necessary information, I cannot determine the capital of New Hampshire from this image alone.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "2168",
+    "question": "What is the capital of Alabama?",
+    "answer": 2,
+    "subject": "social science",
+    "image_path": "data/raw/images/2168.jpg",
+    "cot": "[/INST] 1. In the image, I see a map of the United States with the state of Alabama highlighted in green. The capital of Alabama is Montgomery.\n\n2. The map shows the state of Alabama with a green color, indicating that it is the focus of the image. The capital of Alabama is Montgomery, which is a city located in the central part of the state.\n\n3. Based on the image, the capital of Alabama is Montgomery.\n\nAnswer: The capital of Alabama is Montgomery.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "1501",
+    "question": "Think about the magnetic force between the magnets in each pair. Which of the following statements is true?",
+    "answer": 1,
+    "subject": "natural science",
+    "image_path": "data/raw/images/1501.jpg",
+    "cot": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets of the same type (either both north or both south). The magnets are placed on a white background, and each pair is labeled \"Pair 1\" and \"Pair 2.\"\n\n2. To reason about the magnetic force between the magnets in each pair, we need to consider the following:\n   - The magnetic force between two magnets of the same type (either both north or both south) is repulsive.\n   - The magnetic force between two magnets of opposite types (one north and one south) is attractive.\n\n3. Based on the image and the information provided, we can conclude that the magnetic force between the magnets in each pair is repulsive. This is because both magnets in each pair are of the same type (either both north or both south), and the repulsive force between magnets of the same type is stronger than the attractive force between magnets of opposite types.\n\nTherefore, the true statement is: The magnetic force between the magnets in each pair is repulsive.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "3862",
+    "question": "What is the capital of Virginia?",
+    "answer": 2,
+    "subject": "social science",
+    "image_path": "data/raw/images/3862.jpg",
+    "cot": "[/INST] 1. The image shows a map of the United States with the state of Virginia highlighted in green. The map is stylized and does not include any text or labels.\n\n2. To determine the capital of Virginia, I would look for the city that is the administrative center of the state.\n\n3. By examining the map, I can see that the city highlighted in green is Richmond.\n\n4. Therefore, the capital of Virginia is Richmond.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "1079",
+    "question": "What is the direction of this pull?",
+    "answer": 0,
+    "subject": "natural science",
+    "image_path": "data/raw/images/1079.jpg",
+    "cot": "[/INST] 1. In the image, there is a man who appears to be in the middle of a dive or a flip into a swimming pool. He is upside down, with his feet in the air and his head submerged in the water. The man is wearing black swim trunks.\n\n2. To determine the direction of the pull, we need to consider the forces acting on the man during his dive. When a person dives into a pool, they experience several forces, including buoyancy, drag, and gravity. The direction of the pull is the direction in which the man is moving.\n\n3. The man is moving towards the bottom of the pool, which is the direction of gravity. Therefore, the direction of the pull is downwards.\n\nAnswer: The direction of the pull is downwards.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "1566",
+    "question": "Based on the time line, what does Romeo do after he fights with Tybalt?",
+    "answer": 0,
+    "subject": "language science",
+    "image_path": "data/raw/images/1566.jpg",
+    "cot": "[/INST] 1. In the image, there is a timeline that outlines the events of the play \"Romeo and Juliet.\" The timeline shows the following events:\n   - Romeo and Juliet meet at the ball.\n   - Romeo fights with Tybalt.\n   - Romeo and Juliet plan to run away together.\n   - Romeo fights and kills Tybalt.\n   - Romeo is banished from Verona.\n   - Romeo and Juliet die.\n\n2. Based on the timeline, after Romeo fights with Tybalt, the next event is that Romeo and Juliet plan to run away together. This suggests that after the fight with Tybalt, Romeo and Juliet decide to leave Verona and be together, possibly to avoid further conflict and to pursue their love for each other.\n\n3. Therefore, the answer to the question is that after Romeo fights with Tybalt, Romeo and Juliet plan to run away together.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "2767",
+    "question": "What is the capital of Illinois?",
+    "answer": 0,
+    "subject": "social science",
+    "image_path": "data/raw/images/2767.jpg",
+    "cot": "[/INST] 1. In the image, I see a map of the United States with a focus on the state of Illinois. The state is colored in a shade of green, and there is a darker green area that stands out within the state.\n\n2. Based on the image, I can infer that the darker green area is likely the capital city of Illinois. The reason for this is that the capital city is typically the most populous city in a state and is often the center of political and economic activity.\n\n3. The capital city of Illinois is Springfield. Therefore, the darker green area within the state of Illinois on the map is likely Springfield.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "3109",
+    "question": "Why do adult cats meow?",
+    "answer": 2,
+    "subject": "language science",
+    "image_path": "data/raw/images/3109.jpg",
+    "cot": "[/INST] 1. In the image, there is a close-up of a kitten with a surprised or curious expression. The kitten is looking directly at the camera.\n\n2. Adult cats meow for various reasons, including seeking attention, expressing discomfort or pain, or communicating with other cats. The kitten's surprised or curious expression might suggest that it is trying to communicate something to its owner or the person taking the photo.\n\n3. The kitten's expression and the fact that it is looking directly at the camera could indicate that it is trying to communicate with the person taking the photo. It might be seeking attention, expressing curiosity, or trying to convey a message.\n\n4. Therefore, the adult cat in the image is likely meowing to communicate with its owner or the person taking the photo.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "4229",
+    "question": "Which state is highlighted?",
+    "answer": 0,
+    "subject": "social science",
+    "image_path": "data/raw/images/4229.jpg",
+    "cot": "[/INST] 1. In the image, I see a map of the United States with all the states colored in green. There is one state that is highlighted in a different color, which stands out from the rest.\n\n2. The highlighted state is located in the Midwest region of the United States. It is bordered by two other states, one to its north and one to its south. The state is not on the coast, as it is not bordered by any ocean or sea.\n\n3. Based on the information provided, the highlighted state is Michigan. It is the only state in the Midwest region that is bordered by two other states and is not on the coast.\n\nTherefore, the answer to the question is Michigan.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "2064",
+    "question": "Which material is this pool toy made of?",
+    "answer": 0,
+    "subject": "natural science",
+    "image_path": "data/raw/images/2064.jpg",
+    "cot": "[/INST] 1. The image shows a colorful pool toy that is designed to look like a dragon. It has a long body, a head with a smiling face, and a tail with spikes. The dragon is predominantly green with yellow spots and a yellow ring around its body.\n\n2. To determine the material of the pool toy, we would typically look for clues in the image that suggest the material. However, the image does not provide any direct information about the material.\n\n3. Since the pool toy is designed for use in water, it is likely made of a material that is buoyant and durable in water. Common materials for pool toys include plastic, rubber, or a combination of both. Without more specific details, it is not possible to definitively identify the material of the pool toy in the image.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "4219",
+    "question": "What is the capital of Washington?",
+    "answer": 3,
+    "subject": "social science",
+    "image_path": "data/raw/images/4219.jpg",
+    "cot": "[/INST] 1. The image shows a map of the United States with the state of Washington highlighted in green. The map is stylized and does not include any text or labels.\n\n2. To determine the capital of Washington, we need to identify the city that serves as the capital. The capital of Washington is Olympia.\n\n3. Based on the image, we can see that the state of Washington is outlined in green, but there is no specific city highlighted. Therefore, we cannot determine the capital of Washington from the image alone.\n\n4. The capital of Washington is Olympia.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "3914",
+    "question": "Which i in column 4?",
+    "answer": 3,
+    "subject": "social science",
+    "image_path": "data/raw/images/3914.jpg",
+    "cot": "[/INST] 1. The image is a colorful, cartoon-style illustration of a city map with various labeled buildings and areas. It includes a pond, a police department, a grocery store, a fire department, a theater, a shopping mall, and a fast-food restaurant. The map is divided into four columns, each labeled with a letter from A to D.\n\n2. To determine which \"i\" is in column 4, we need to look for the building or area that corresponds to the letter \"i\" in the image.\n\n3. By examining the image, I can see that the building labeled \"Theater\" is in column 4.\n\n4. Therefore, the answer to the question is \"Theater.\"",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "852",
+    "question": "Is the following statement about our solar system true or false?\nEarth is the largest planet that is made mainly of rock.",
+    "answer": 0,
+    "subject": "natural science",
+    "image_path": "data/raw/images/852.jpg",
+    "cot": "[/INST] 1. The image is a table that lists the planets of our solar system along with their volume in cubic kilometers and their primary composition. The table includes the following planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.\n\n2. To reason about the statement, we need to consider the primary composition of each planet as listed in the table. The primary composition of a planet refers to the most abundant material that makes up the planet.\n\n3. Based on the table, we can see that the primary composition of Earth is rock. Therefore, the statement \"Earth is the largest planet that is made mainly of rock\" is true.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "1728",
+    "question": "Is quartzite a mineral?",
+    "answer": 0,
+    "subject": "natural science",
+    "image_path": "data/raw/images/1728.jpg",
+    "cot": "[/INST] 1. The image shows a rock that appears to be a quartzite. It has a rough, angular shape with a variety of colors and textures. The rock has a hard, crystalline surface and a porous, grainy interior.\n\n2. Quartzite is a metamorphic rock that is formed from existing rocks, such as sandstone or shale, through a process of metamorphism. During metamorphism, the existing rock is subjected to high temperatures and pressures, causing the minerals within the rock to change their structure and composition.\n\n3. Based on the image, the rock has a crystalline surface and a porous, grainy interior, which suggests that it has undergone metamorphism. This means that the rock is not a mineral, but rather a rock composed of minerals.\n\n4. Therefore, the answer to the question is: No, quartzite is not a mineral. It is a metamorphic rock composed of minerals.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "3599",
+    "question": "Is a stuffed hippo a solid, a liquid, or a gas?",
+    "answer": 2,
+    "subject": "natural science",
+    "image_path": "data/raw/images/3599.jpg",
+    "cot": "[/INST] 1. In the image, there is a cartoon depiction of a hippopotamus. The hippo is shown in a stylized manner, with exaggerated features such as large eyes and a big smile. It is colored in shades of green and yellow.\n\n2. The image is a drawing or illustration, not a photograph of a real object. Therefore, the hippo is not a solid, liquid, or gas in the real-world sense. It is a representation of a hippopotamus, which is a solid object.\n\n3. The answer to the question is: The stuffed hippo is a solid object.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "1555",
+    "question": "Based on the bubble map, which statement is true?",
+    "answer": 0,
+    "subject": "language science",
+    "image_path": "data/raw/images/1555.jpg",
+    "cot": "[/INST] 1. The image is a bubble map with the title \"bodies of water\" at the top. There are five bubbles, each labeled with a different body of water. The bubbles are connected by lines, indicating a relationship or connection between the bodies of water.\n\n2. The bodies of water listed are Lake Michigan, Freshwater, Saltwater, Mississippi River, and Gulf of Mexico.\n\n3. Based on the image, the statement \"Lake Michigan is connected to Freshwater, which is connected to Saltwater, which is connected to Mississippi River, which is connected to Gulf of Mexico\" is true. This is because the bubbles are connected in a chain, and the labels on the bubbles indicate that these bodies of water are connected in this manner.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "1316",
+    "question": "What is the capital of Iowa?",
+    "answer": 1,
+    "subject": "social science",
+    "image_path": "data/raw/images/1316.jpg",
+    "cot": "[/INST] 1. The image shows a stylized map of the United States with the state of Iowa highlighted in green. The map is not to scale and does not include any geographic features or cities.\n\n2. The highlighted state is Iowa, which is located in the Midwest region of the United States.\n\n3. The capital of Iowa is Des Moines.\n\nTherefore, the capital of Iowa is Des Moines.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "2225",
+    "question": "Think about the magnetic force between the magnets in each pair. Which of the following statements is true?",
+    "answer": 1,
+    "subject": "natural science",
+    "image_path": "data/raw/images/2225.jpg",
+    "cot": "[/INST] 1. In the image, there are two pairs of magnets, each pair consisting of two magnets. The magnets are labeled \"N\" for North and \"S\" for South. The magnets are placed on a white background, and there are two horizontal lines, one at the top and one at the bottom, which represent the magnetic field lines.\n\n2. The magnets in each pair are placed in such a way that they are facing each other, with the \"N\" and \"S\" poles of the magnets facing each other.\n\n3. Based on the image, the magnetic force between the magnets in each pair is repulsive. This is because the \"N\" and \"S\" poles of the magnets are facing each other, which is the configuration that results in repulsion between two magnets with opposite poles.\n\nTherefore, the true statement is: The magnetic force between the magnets in each pair is repulsive.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "758",
+    "question": "Which solution has a higher concentration of green particles?",
+    "answer": 1,
+    "subject": "natural science",
+    "image_path": "data/raw/images/758.jpg",
+    "cot": "[/INST] 1. The image shows two flasks, each containing a solution with green particles. The flask on the left is labeled \"Solution A\" and the one on the right is labeled \"Solution B.\"\n\n2. To determine which solution has a higher concentration of green particles, we need to compare the number of green particles in each solution.\n\n3. By examining the image, it appears that there are more green particles in Solution A than in Solution B.\n\n4. Therefore, the solution with a higher concentration of green particles is Solution A.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "407",
+    "question": "What is the name of the colony shown?",
+    "answer": 1,
+    "subject": "social science",
+    "image_path": "data/raw/images/407.jpg",
+    "cot": "[/INST] 1. The image shows a map of a region with a prominent coastal area. The map is stylized with a focus on the coastline and the land bordering the ocean. The color scheme is simple, with the landmasses in green and the water in blue.\n\n2. The name of the colony is not explicitly labeled on the map. However, the map appears to be a stylized representation of the United States, with the coastal region resembling the eastern seaboard. The landmasses are labeled with the names of the states, but the specific name of the colony is not provided.\n\n3. Based on the context of the image, it is reasonable to infer that the colony in question is one of the original thirteen colonies of the United States. These colonies were established along the eastern seaboard of the United States. The specific name of the colony is not provided in the image, so it is not possible to determine the exact name of the colony.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "2452",
+    "question": "What is the capital of California?",
+    "answer": 1,
+    "subject": "social science",
+    "image_path": "data/raw/images/2452.jpg",
+    "cot": "[/INST] 1. The image shows a stylized map of the United States with the state of California highlighted in green. The map is not to scale and does not include any geographic features or cities.\n\n2. The highlighted state is California, which is located on the west coast of the United States.\n\n3. The capital of California is Sacramento.\n\nTherefore, the capital of California is Sacramento.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "333",
+    "question": "In this food web, which organism contains matter that eventually moves to the bat star?",
+    "answer": 2,
+    "subject": "natural science",
+    "image_path": "data/raw/images/333.jpg",
+    "cot": "[/INST] 1. In the image, we see a food web with various organisms, including a whale, a sea otter, a black rockfish, a kelp bass, a phytoplankton, a zooplankton, a plankton, a midshipman, a sea cucumber, and a starfish. The whale is at the top of the food web, and the phytoplankton is at the bottom, with the other organisms in between.\n\n2. To answer the question, we need to consider the flow of energy and matter through the food web. The phytoplankton, being the primary producers, contains matter that eventually moves to the other organisms in the food web. The zooplankton, for example, feeds on the phytoplankton, and the kelp bass feeds on the zooplankton. The midshipman feeds on the kelp bass, and the sea otter feeds on the midshipman. The whale feeds on the sea otter.\n\n3. Therefore, the organism that contains matter that eventually moves to the bat star is the phytoplankton. The phytoplankton is the primary producer in the food web, and all the other organisms, including the bat star, obtain their energy and matter from the phytoplankton and the organisms that feed on it.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "3222",
+    "question": "Which country is highlighted?",
+    "answer": 3,
+    "subject": "social science",
+    "image_path": "data/raw/images/3222.jpg",
+    "cot": "[/INST] 1. In the image, there is a map of the world with a focus on the Pacific Ocean. The map is not to scale and appears to be a simplified representation rather than a detailed geographic map.\n\n2. The country highlighted in the image is Australia. The country is outlined in green, making it stand out from the rest of the map.\n\n3. The answer is: Australia.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "3825",
+    "question": "Which ocean is highlighted?",
+    "answer": 1,
+    "subject": "social science",
+    "image_path": "data/raw/images/3825.jpg",
+    "cot": "[/INST] 1. In the image, I see a stylized representation of the Earth, with a focus on the landmasses and the oceans. The landmasses are colored in green, while the oceans are depicted in blue. The image is not to scale and does not show the Earth in its entirety.\n\n2. To determine which ocean is highlighted, I would look for the largest body of water that is not surrounded by land. In this image, the largest body of water that is not surrounded by land is the Pacific Ocean.\n\n3. Therefore, the Pacific Ocean is highlighted in the image.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "1650",
+    "question": "What is the capital of Colorado?",
+    "answer": 2,
+    "subject": "social science",
+    "image_path": "data/raw/images/1650.jpg",
+    "cot": "[/INST] 1. In the image, I see a map of the United States with a green rectangle superimposed on the state of Colorado. The rectangle is not labeled with the name of the capital city.\n\n2. The green rectangle is placed in the center of the state, which is the most populous area of Colorado. The capital city of Colorado is Denver, which is located in the central part of the state.\n\n3. Based on the image, the capital of Colorado is Denver.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "403",
+    "question": "Which property do these three objects have in common?",
+    "answer": 1,
+    "subject": "natural science",
+    "image_path": "data/raw/images/403.jpg",
+    "cot": "[/INST] 1. In the image, there are three objects: a glass, a flask, and a water glass. Each object is depicted in a stylized manner, with the glass and flask being shown in a three-dimensional perspective, while the water glass is shown in a two-dimensional perspective.\n\n2. The glass and the flask are both made of glass, which is a transparent material. The water glass is also made of glass, but it is filled with water.\n\n3. The common property of these three objects is that they are all made of glass.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "4226",
+    "question": "Does this passage describe the weather or the climate?",
+    "answer": 0,
+    "subject": "natural science",
+    "image_path": "data/raw/images/4226.jpg",
+    "cot": "[/INST] 1. In the image, there is a large island with a town built on it. The island is surrounded by water, and there are boats visible in the water. The sky is clear, suggesting a sunny day.\n\n2. Based on the image, we can infer that the climate of the area is likely to be mild and temperate, as the presence of a town and boats on the water indicates that the climate is suitable for human habitation and maritime activities. The clear sky suggests that the weather is currently sunny and pleasant.\n\n3. The image does not provide enough information to determine the specific climate of the area, but it is clear that the weather is currently sunny and pleasant.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "3935",
+    "question": "How do jumping spiders catch their food?",
+    "answer": 1,
+    "subject": "language science",
+    "image_path": "data/raw/images/3935.jpg",
+    "cot": "[/INST] 1. In the image, there is a jumping spider perched on a green leaf. The spider appears to be looking directly at the camera, and its body is oriented towards the center of the image.\n\n2. Jumping spiders are known for their excellent vision and agility. They are able to catch their prey by jumping on them. The spider's position on the leaf and its focused gaze suggest that it might be observing its surroundings or potential prey.\n\n3. Based on the image, it is likely that the jumping spider uses its keen eyesight to spot prey, such as insects or small vertebrates, and then jumps on them to catch them. The spider's ability to jump accurately and quickly is a key factor in its hunting success.\n\nAnswer: Jumping spiders catch their food by using their excellent vision to spot prey and then jumping on them to secure their meal.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "2200",
+    "question": "Which continent is highlighted?",
+    "answer": 0,
+    "subject": "social science",
+    "image_path": "data/raw/images/2200.jpg",
+    "cot": "[/INST] 1. In the image, I see a world map with a focus on the continents. The map is divided into different countries, and the continents are colored in various shades.\n\n2. To determine which continent is highlighted, I would look for any distinct coloring or markings that single out a specific continent.\n\n3. Upon examining the image, I notice that the continent of Europe is highlighted in a different color than the rest of the continents. This coloring makes Europe stand out from the other continents.\n\n4. Therefore, the answer to the question is that the continent of Europe is highlighted in the image.",
+    "model": "llava-1.6-7b"
+  },
+  {
+    "id": "3353",
+    "question": "What is the capital of Oklahoma?",
+    "answer": 3,
+    "subject": "social science",
+    "image_path": "data/raw/images/3353.jpg",
+    "cot": "[/INST] 1. The image shows a stylized map of the United States with the state of Oklahoma highlighted in green. The state of Oklahoma is outlined in green, and there is a darker green rectangle within the state, which is likely to represent the area of the state that is the capital.\n\n2. The capital of Oklahoma is Oklahoma City. Therefore, the darker green rectangle within the state of Oklahoma likely represents the area of Oklahoma City.\n\n3. The capital of Oklahoma is Oklahoma City.",
+    "model": "llava-1.6-7b"
+  }
+]

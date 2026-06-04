@@ -1,0 +1,2618 @@
+[
+  {
+    "image_id": "31749",
+    "model": "baseline",
+    "faithfulness_score": 0.33,
+    "total_claims": 3,
+    "faithful_claims": 1,
+    "hallucination_claims": 2,
+    "errors": [
+      {
+        "sentence": "The face of the doll has been replaced with a blue clock face.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims the doll's face was replaced, but GT shows only the clock's background color changed."
+      },
+      {
+        "sentence": "The background of the modified image is slightly different, with a subtle texture that is not present in the original image.",
+        "error_type": "hallucination",
+        "severity": "minor",
+        "description": "Model claims a background texture change, but GT does not mention any background changes."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "63552",
+    "model": "baseline",
+    "faithfulness_score": 0.5,
+    "total_claims": 2,
+    "faithful_claims": 1,
+    "hallucination_claims": 1,
+    "errors": [
+      {
+        "sentence": "The cat's eyes have been changed to match the color of its coat.",
+        "error_type": "hallucination",
+        "severity": "moderate",
+        "description": "Model claims the cat's eyes changed color, but this is not mentioned in the ground truth."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "112997",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 3,
+    "faithful_claims": 0,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "The phone is open in the modified image, whereas it is closed in the original image.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims the phone's state (open/closed) changed, but GT shows the phone's color changed."
+      },
+      {
+        "sentence": "The screen is visible in the modified image, showing a text message, while it is not visible in the original image.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims the screen visibility changed, but GT shows the phone's color changed."
+      },
+      {
+        "sentence": "The hinge is open in the modified image, revealing the interior of the phone, whereas it is closed in the original image.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims the hinge state changed, but GT shows the phone's color changed."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "63154",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 2,
+    "faithful_claims": 0,
+    "hallucination_claims": 2,
+    "errors": [
+      {
+        "sentence": "The direction of the wave: In the original image, the wave is breaking to the right of the surfer, while in the modified image, the wave is breaking to the left of the surfer.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims wave direction changed, but GT shows surfboard position changed."
+      },
+      {
+        "sentence": "The surfer's body position: The surfer's body position is reversed in the modified image.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims surfer's body position changed, but GT shows surfboard position changed."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "96001",
+    "model": "baseline",
+    "faithfulness_score": 0.2,
+    "total_claims": 5,
+    "faithful_claims": 1,
+    "hallucination_claims": 4,
+    "errors": [
+      {
+        "sentence": "The green umbrella has been replaced with a blue umbrella.",
+        "error_type": "none",
+        "severity": "none",
+        "description": "Correctly identifies the color change of the umbrella."
+      },
+      {
+        "sentence": "The cat figurine has been moved to the right side of the table.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims the cat figurine moved, but GT does not mention any positional change."
+      },
+      {
+        "sentence": "The bowl has been replaced with a different bowl that has a different pattern.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims the bowl pattern changed, but GT does not mention any change to the bowl."
+      },
+      {
+        "sentence": "The book has been closed.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims the book was closed, but GT does not mention any change to the book."
+      },
+      {
+        "sentence": "The card has been moved to the right side of the table, with the text facing the viewer.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims the card moved and text orientation changed, but GT does not mention any change to the card."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "19742",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 3,
+    "faithful_claims": 0,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "The design on the glass vase has been changed.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims design change on vase, but GT shows color change."
+      },
+      {
+        "sentence": "The design on the vase in the modified image is not the same as the original image.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims design change on vase, but GT shows color change."
+      },
+      {
+        "sentence": "The specific details of the new design are not clear due to the image's resolution.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims design change on vase, but GT shows color change."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "37670",
+    "model": "baseline",
+    "faithfulness_score": 0.2,
+    "total_claims": 5,
+    "faithful_claims": 1,
+    "hallucination_claims": 4,
+    "errors": [
+      {
+        "sentence": "The remote control has a purple handle in the modified image, while it has a silver handle in the original image.",
+        "error_type": "color_mismatch",
+        "severity": "major",
+        "description": "Model claims the remote handle color changed to purple, but GT shows it changed to blue."
+      },
+      {
+        "sentence": "The remote control in the modified image has a different design on the buttons, which may indicate a different brand or model.",
+        "error_type": "hallucination",
+        "severity": "major",
+        "description": "Model claims a design change on the buttons, but GT does not mention any button design change."
+      },
+      {
+        "sentence": "The remote control in the modified image has a different texture on the buttons, which could be a different material or a different button layout.",
+        "error_type": "hallucination",
+        "severity": "major",
+        "description": "Model claims a texture change on the buttons, but GT does not mention any texture change."
+      },
+      {
+        "sentence": "The remote control in",
+        "error_type": "incomplete_claim",
+        "severity": "major",
+        "description": "Model's claim is incomplete and does not provide a clear difference."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "143931",
+    "model": "baseline",
+    "faithfulness_score": 0.5,
+    "total_claims": 2,
+    "faithful_claims": 1,
+    "hallucination_claims": 1,
+    "errors": [
+      {
+        "sentence": "The text on the bus has been modified as well.",
+        "error_type": "type_category_mismatch",
+        "severity": "moderate",
+        "description": "Model claims text modification, but GT only indicates color change."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "90108",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 5,
+    "faithful_claims": 0,
+    "hallucination_claims": 5,
+    "errors": [
+      {
+        "sentence": "The bathtub has been replaced with a shower stall.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims bathtub replaced with shower stall, but GT shows a small bottle removed from the sink."
+      },
+      {
+        "sentence": "The shower stall has a clear glass door.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims shower stall has a clear glass door, but GT shows a small bottle removed from the sink."
+      },
+      {
+        "sentence": "The sink has been updated to a modern design.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims sink updated to modern design, but GT shows a small bottle removed from the sink."
+      },
+      {
+        "sentence": "The toilet has been replaced with a new model.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims toilet replaced with a new model, but GT shows a small bottle removed from the sink."
+      },
+      {
+        "sentence": "The towel rack has been removed from the wall.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims towel rack removed, but GT shows a small bottle removed from the sink."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "151051",
+    "model": "baseline",
+    "faithfulness_score": 0.2,
+    "total_claims": 5,
+    "faithful_claims": 1,
+    "hallucination_claims": 4,
+    "errors": [
+      {
+        "sentence": "The snowboarder's jacket is blue in the modified image, whereas it is red in the original image.",
+        "error_type": "repetition",
+        "severity": "minor",
+        "description": "The model repeats the same claim multiple times."
+      },
+      {
+        "sentence": "The snowboarder is wearing a red jacket and a black helmet, and they are kicking up a spray of snow as they move.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model describes a snowboarder, but GT describes a skier."
+      },
+      {
+        "sentence": "The snowboarder is also holding a ski pole in their right hand.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model describes a snowboarder, but GT describes a skier."
+      },
+      {
+        "sentence": "The snowboarder is still wearing a black helmet and is still snowboarding down the slope, kicking up snow.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model describes a snowboarder, but GT describes a skier."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "150726",
+    "model": "baseline",
+    "faithfulness_score": 0.2,
+    "total_claims": 5,
+    "faithful_claims": 1,
+    "hallucination_claims": 4,
+    "errors": [
+      {
+        "sentence": "The giraffes' positions have been reversed.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims the giraffes' positions have been reversed, but GT shows only the giraffe on the right has been moved further to the right."
+      },
+      {
+        "sentence": "The giraffe on the left is now facing the opposite direction.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims the giraffe on the left is facing the opposite direction, but GT does not mention any change in the giraffes' facing direction."
+      },
+      {
+        "sentence": "The giraffe on the right is now facing the opposite direction as well.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims the giraffe on the right is facing the opposite direction, but GT does not mention any change in the giraffes' facing direction."
+      },
+      {
+        "sentence": "The grass appears to be slightly different in color and texture.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims a change in grass color and texture, but GT does not mention any change in the grass."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "60347",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 2,
+    "faithful_claims": 0,
+    "hallucination_claims": 2,
+    "errors": [
+      {
+        "sentence": "The man's reflection is present in the modified image, which is not present in the original image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a reflection is present in the modified image, which is not mentioned in the ground truth."
+      },
+      {
+        "sentence": "The bench in the modified image appears to be wet, which could imply that it has recently rained or that the ground is damp.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims the bench appears wet in the modified image, which is not mentioned in the ground truth."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "36539",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 2,
+    "faithful_claims": 0,
+    "hallucination_claims": 2,
+    "errors": [
+      {
+        "sentence": "The person on the left is wearing a pink jacket in the modified image.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims a jacket color change, but GT shows a boot color change."
+      },
+      {
+        "sentence": "The person on the right is wearing a black jacket in the modified image.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims a jacket color change, but GT shows a boot color change."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "138856",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 4,
+    "faithful_claims": 0,
+    "hallucination_claims": 4,
+    "errors": [
+      {
+        "sentence": "The loaf of bread is missing from the cooling rack in the modified image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims the loaf of bread is missing, but GT does not mention this change."
+      },
+      {
+        "sentence": "The stove top in the modified image is clean and clear, whereas in the original image, there are items on it.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims the stove top is clean and clear, but GT does not mention this change."
+      },
+      {
+        "sentence": "The teapot in the modified image has a different reflection on its surface.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a reflection change on the teapot, but GT does not mention this change."
+      },
+      {
+        "sentence": "The red pot on the stove top is not visible in the modified image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims the red pot is not visible, but GT does not mention this change."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "90956",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 2,
+    "faithful_claims": 0,
+    "hallucination_claims": 2,
+    "errors": [
+      {
+        "sentence": "The skier's body position has been reversed. In the original image, the skier is leaning into a turn, while in the modified image, the skier is facing the camera.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims a change in the skier's body position, but GT shows a color change in the skier's jacket."
+      },
+      {
+        "sentence": "The red flag's position has been changed. In the original image, the flag is on the left side of the slope.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims a change in the red flag's position, but GT shows a color change in the skier's jacket."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "191471",
+    "model": "baseline",
+    "faithfulness_score": 1.0,
+    "total_claims": 2,
+    "faithful_claims": 2,
+    "hallucination_claims": 0,
+    "errors": [],
+    "n_differences": 1
+  },
+  {
+    "image_id": "110638",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 4,
+    "faithful_claims": 0,
+    "hallucination_claims": 4,
+    "errors": [
+      {
+        "sentence": "The baby elephant's skin color has been altered to match the adult elephant's skin color.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims a color change, but GT shows the baby elephant was removed."
+      },
+      {
+        "sentence": "The baby elephant's skin color in the modified image is darker than in the original image.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims a color change, but GT shows the baby elephant was removed."
+      },
+      {
+        "sentence": "The baby elephant's skin color in the original image is lighter than in the modified image.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims a color change, but GT shows the baby elephant was removed."
+      },
+      {
+        "sentence": "The baby elephant has been digitally altered to have a darker skin tone, more similar to the adult elephant.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims a color change, but GT shows the baby elephant was removed."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "161032",
+    "model": "baseline",
+    "faithfulness_score": 0.5,
+    "total_claims": 2,
+    "faithful_claims": 1,
+    "hallucination_claims": 1,
+    "errors": [
+      {
+        "sentence": "The person is wearing a different pair of shoes.",
+        "error_type": "hallucination",
+        "severity": "moderate",
+        "description": "Model claims a change in shoes, but this is not present in the ground truth."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "151662",
+    "model": "baseline",
+    "faithfulness_score": 0.6,
+    "total_claims": 3,
+    "faithful_claims": 2,
+    "hallucination_claims": 1,
+    "errors": [
+      {
+        "sentence": "The giraffe's coat in the modified image is a solid color, likely to be brown, rather than the patterned coat seen in the original image.",
+        "error_type": "type_category_mismatch",
+        "severity": "moderate",
+        "description": "Model claims the entire coat is a solid color, but GT specifies only a small section of the neck shows a red hue."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "10977",
+    "model": "baseline",
+    "faithfulness_score": 1.0,
+    "total_claims": 3,
+    "faithful_claims": 3,
+    "hallucination_claims": 0,
+    "errors": [],
+    "n_differences": 1
+  },
+  {
+    "image_id": "60835",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 3,
+    "faithful_claims": 0,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "The dog's posture: In the original image, the dog is standing, while in the modified image, the dog is sitting.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in the dog's posture, but the ground truth indicates a removed bowl."
+      },
+      {
+        "sentence": "The dog's gaze: In the original image, the dog is looking to the left, while in the modified image, the dog is looking towards the camera.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in the dog's gaze, but the ground truth indicates a removed bowl."
+      },
+      {
+        "sentence": "The dog's position relative to the bedding material: In the original image, the dog is standing over the be",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in the dog's position relative to the bedding, but the ground truth indicates a removed bowl."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "74860",
+    "model": "baseline",
+    "faithfulness_score": 0.5,
+    "total_claims": 2,
+    "faithful_claims": 1,
+    "hallucination_claims": 1,
+    "errors": [
+      {
+        "sentence": "The tracks in the snow are more pronounced in the modified image.",
+        "error_type": "hallucination",
+        "severity": "minor",
+        "description": "Model claims change in snow tracks, but GT only mentions snowboard color change."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "119038",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 3,
+    "faithful_claims": 0,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "The cow on the left has been moved to the right.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims positional change, but GT shows color change of cow."
+      },
+      {
+        "sentence": "The cow on the right has been moved to the left.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims positional change, but GT shows color change of cow."
+      },
+      {
+        "sentence": "The cow in the center has also been rotated 180 degrees, facing the opposite direction from the other cows.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims rotational change, but GT shows color change of cow."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "134112",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 2,
+    "faithful_claims": 0,
+    "hallucination_claims": 2,
+    "errors": [
+      {
+        "sentence": "The dog's position has been changed. In the original image, the dog is lying next to the laptop, while in the modified image, the dog's head is resting on the laptop, giving the impression that the dog is using the laptop.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims change in dog's position, but GT shows laptop color change."
+      },
+      {
+        "sentence": "The dog's head is now positioned as if",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims change in dog's head position, but GT shows laptop color change."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "111609",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 2,
+    "faithful_claims": 0,
+    "hallucination_claims": 2,
+    "errors": [
+      {
+        "sentence": "The pattern on the person's shirt has been changed.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims shirt pattern changed, but GT shows bedding color changed."
+      },
+      {
+        "sentence": "The new pattern on the shirt is less colorful and more muted compared to the original plaid.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims shirt pattern changed, but GT shows bedding color changed."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "81766",
+    "model": "baseline",
+    "faithfulness_score": 0.2,
+    "total_claims": 5,
+    "faithful_claims": 1,
+    "hallucination_claims": 4,
+    "errors": [
+      {
+        "sentence": "The black dog's coat texture has been altered. It now looks less shiny and more matte.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in the black dog's coat texture, but no such change is present in the ground truth."
+      },
+      {
+        "sentence": "The brown and white dog remains unchanged.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims the brown and white dog remains unchanged, but the ground truth indicates this dog was removed."
+      },
+      {
+        "sentence": "The background, including the fence and trees, is the same in both images.",
+        "error_type": "irrelevant",
+        "severity": "minor",
+        "description": "Model mentions the background is the same, which is irrelevant to the task of identifying differences."
+      },
+      {
+        "sentence": "The dogs' positions on the steps are identical.",
+        "error_type": "irrelevant",
+        "severity": "minor",
+        "description": "Model mentions the dogs' positions are identical, which is irrelevant to the task of identifying differences."
+      },
+      {
+        "sentence": "The dogs' expressions and the overall composition of the image are the same.",
+        "error_type": "irrelevant",
+        "severity": "minor",
+        "description": "Model mentions the dogs' expressions and overall composition are the same, which is irrelevant to the task of identifying differences."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "82180",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 4,
+    "faithful_claims": 0,
+    "hallucination_claims": 4,
+    "errors": [
+      {
+        "sentence": "The teddy bear has been replaced with a gray stuffed animal that looks like a koala bear.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims teddy bear replaced, but GT shows teddy bear removed."
+      },
+      {
+        "sentence": "The koala bear has been replaced with a gray stuffed animal that looks like a panda bear.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims koala bear replaced, but GT shows no koala bear present."
+      },
+      {
+        "sentence": "The colors of the stuffed animals have been changed from brown to gray.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims color change, but GT shows removal of teddy bear."
+      },
+      {
+        "sentence": "The stuffed animals have been switched in terms of their positions on the bench.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims position switch, but GT shows removal of teddy bear."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "24144",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 2,
+    "faithful_claims": 0,
+    "hallucination_claims": 2,
+    "errors": [
+      {
+        "sentence": "The amount of cheese on the pizza has been increased, making it appear thicker and more generously topped.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims the amount of cheese has increased, but GT shows only a color change in the cheese."
+      },
+      {
+        "sentence": "The cheese has been spread more uniformly across the pizza, covering the entire area where the cheese was originally sparse.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims the cheese distribution has changed, but GT shows only a color change in the cheese."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "171788",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 4,
+    "faithful_claims": 0,
+    "hallucination_claims": 4,
+    "errors": [
+      {
+        "sentence": "The player's hair appears to be slightly different in the modified image, possibly due to a change in lighting or a different angle.",
+        "error_type": "hallucination",
+        "severity": "minor",
+        "description": "Model claims a difference in hair appearance, but no such change is noted in the ground truth."
+      },
+      {
+        "sentence": "The player's left arm, which is not in contact with the racket, is positioned slightly differently in the modified image.",
+        "error_type": "hallucination",
+        "severity": "minor",
+        "description": "Model claims a difference in arm position, but no such change is noted in the ground truth."
+      },
+      {
+        "sentence": "The player's right arm, which is holding the racket, is also positioned differently in the modified image.",
+        "error_type": "hallucination",
+        "severity": "minor",
+        "description": "Model claims a difference in arm position, but no such change is noted in the ground truth."
+      },
+      {
+        "sentence": "The tennis ball is in a slightly different position in the modified image, indicating a different moment in the swing.",
+        "error_type": "hallucination",
+        "severity": "minor",
+        "description": "Model claims a difference in tennis ball position, but no such change is noted in the ground truth."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "164637",
+    "model": "baseline",
+    "faithfulness_score": 0.25,
+    "total_claims": 4,
+    "faithful_claims": 1,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "The wallpaper on the wall is different, with a new pattern and color scheme.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims wallpaper change, but GT does not mention any change in the wall."
+      },
+      {
+        "sentence": "The towel rack has a different design.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims towel rack design change, but GT does not mention any change in the towel rack."
+      },
+      {
+        "sentence": "The trash can has been replaced with a new model.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims trash can change, but GT does not mention any change in the trash can."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "61747",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 2,
+    "faithful_claims": 0,
+    "hallucination_claims": 2,
+    "errors": [
+      {
+        "sentence": "The pants in the modified image are a solid color, matching the jacket, whereas in the original image, the pants have a plaid pattern.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in pants pattern, but GT shows a ski pole was removed."
+      },
+      {
+        "sentence": "The modified image does not show the plaid pattern on the pants, which is present in the original image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model repeats the claim about pants pattern change, which is not in the GT."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "106881",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 3,
+    "faithful_claims": 0,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "In the modified image (right), the bird is still perched on the branch, but the background has been altered.",
+        "error_type": "incorrect_claim",
+        "severity": "critical",
+        "description": "Model incorrectly claims the bird is still present in the modified image, whereas the ground truth states the bird has been removed."
+      },
+      {
+        "sentence": "The background in the modified image is desaturated, meaning it lacks color and appears in shades of grey.",
+        "error_type": "hallucination",
+        "severity": "major",
+        "description": "Model claims a desaturation effect in the background, which is not mentioned in the ground truth."
+      },
+      {
+        "sentence": "The desaturation effect in the modified image gives it a more subdued and artistic feel compared to the original image, which is more realistic.",
+        "error_type": "hallucination",
+        "severity": "major",
+        "description": "Model describes an artistic effect due to desaturation, which is not supported by the ground truth."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "32285",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 2,
+    "faithful_claims": 0,
+    "hallucination_claims": 2,
+    "errors": [
+      {
+        "sentence": "The shower curtain in the modified image is a different color.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims the shower curtain color changed, but GT does not mention any change to the shower curtain."
+      },
+      {
+        "sentence": "The towel hanging above the toilet in the modified image is a different color and pattern.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims the towel color and pattern changed, but GT indicates the towel was removed."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "33368",
+    "model": "baseline",
+    "faithfulness_score": 0.8,
+    "total_claims": 5,
+    "faithful_claims": 4,
+    "hallucination_claims": 1,
+    "errors": [
+      {
+        "sentence": "The player's shoes are now white with a pinkish-orange stripe.",
+        "error_type": "type_category_mismatch",
+        "severity": "minor",
+        "description": "Model claims shoes have a pinkish-orange stripe, but GT indicates shoes changed from white to pink."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "51976",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 4,
+    "faithful_claims": 0,
+    "hallucination_claims": 4,
+    "errors": [
+      {
+        "sentence": "The wave in the modified image is smaller and less intense than the wave in the original image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in wave size and intensity, but GT shows a change in surfboard position."
+      },
+      {
+        "sentence": "The wave in the modified image does not break as dramatically to the right as the wave in the original image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in wave breaking pattern, but GT shows a change in surfboard position."
+      },
+      {
+        "sentence": "The overall size of the wave in the modified image is reduced, making it less imposing.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in wave size, but GT shows a change in surfboard position."
+      },
+      {
+        "sentence": "The wave in the modified image does not have the same level of detail and texture as the wave in the original image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in wave detail and texture, but GT shows a change in surfboard position."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "102644",
+    "model": "baseline",
+    "faithfulness_score": 0.5,
+    "total_claims": 2,
+    "faithful_claims": 1,
+    "hallucination_claims": 1,
+    "errors": [
+      {
+        "sentence": "The towel hanging above the toilet in the original image is missing in the modified image.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims towel above toilet removed, but GT shows towel on bathtub's glass door removed."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "125405",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 3,
+    "faithful_claims": 0,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "The dog on the left has a different facial expression in the modified image.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims a change in facial expression, but GT shows a color change in the frisbee."
+      },
+      {
+        "sentence": "The dog on the right has a different posture in the modified image.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims a change in posture, but GT shows a color change in the frisbee."
+      },
+      {
+        "sentence": "The overall mood of t",
+        "error_type": "incomplete_claim",
+        "severity": "critical",
+        "description": "Model's claim is incomplete and does not match any GT difference."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "172396",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 3,
+    "faithful_claims": 0,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "The pizza in the modified image has additional toppings, specifically pieces of ham or pepperoni, which are not present on the pizza in the original image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims additional toppings on pizza, but GT shows color change in oven interior."
+      },
+      {
+        "sentence": "The color and texture of the toppings in the modified image may be slightly different due to the cooking process, but this is not a significant difference.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model suggests color and texture change in toppings, but GT shows color change in oven interior."
+      },
+      {
+        "sentence": "The overall appearance of the oven and the pizza inside it remains the same in both images.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims no change in oven appearance, but GT shows color change in oven interior."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "35062",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 3,
+    "faithful_claims": 0,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "The person's face is visible in the modified image, whereas it is covered in the original image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model incorrectly claims visibility change of the person's face, but GT indicates the person was removed."
+      },
+      {
+        "sentence": "The shadows on the bed and the person are more pronounced in the modified image, indicating a different light source or angle.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model incorrectly claims changes in shadows and lighting, but GT indicates the person was removed."
+      },
+      {
+        "sentence": "The overall lighting in the room appears to be different, with the light source in the modified image coming from a different direction than in the original image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model incorrectly claims changes in lighting direction, but GT indicates the person was removed."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "135670",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 3,
+    "faithful_claims": 0,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "The bicycle is no longer hanging on the rack in the modified image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims the bicycle is removed, but GT shows the bicycle's frame color changed."
+      },
+      {
+        "sentence": "The door is closed in the modified image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims the door is closed, but GT does not mention any change related to the door."
+      },
+      {
+        "sentence": "The lighting is dimmer in the modified image compared to the original.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in lighting, but GT does not mention any change related to lighting."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "152120",
+    "model": "baseline",
+    "faithfulness_score": 0.8,
+    "total_claims": 5,
+    "faithful_claims": 4,
+    "hallucination_claims": 1,
+    "errors": [
+      {
+        "sentence": "The motorcycle's color scheme in the modified image is more uniform, with less variation in the blue color.",
+        "error_type": "hallucination",
+        "severity": "minor",
+        "description": "Model claims additional detail about color uniformity not present in the ground truth."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "39480",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 5,
+    "faithful_claims": 0,
+    "hallucination_claims": 5,
+    "errors": [
+      {
+        "sentence": "The player's hair is styled differently, with a braid on the left side of her head.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in hairstyle, but no such change is present in the ground truth."
+      },
+      {
+        "sentence": "The player's right hand is holding the racket differently, with the racket head facing upwards.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in how the racket is held, but the racket is actually removed in the ground truth."
+      },
+      {
+        "sentence": "The player's left hand is not visible in the modified image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in visibility of the left hand, but no such change is present in the ground truth."
+      },
+      {
+        "sentence": "The player's facial expression is slightly different, with a more relaxed or neutral expression in the modified image compared to the original image where she appears to be more focused or determined.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in facial expression, but no such change is present in the ground truth."
+      },
+      {
+        "sentence": "The player's hair is styled differently.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model repeats the claim about hairstyle change, which is not present in the ground truth."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "58029",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 3,
+    "faithful_claims": 0,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "The shower stall door is open in the modified image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims the shower stall door is open, but this is not mentioned in the ground truth."
+      },
+      {
+        "sentence": "The shower stall has a different reflection in the mirror, indicating that the glass door is now transparent.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in the reflection and transparency of the shower stall, which is not mentioned in the ground truth."
+      },
+      {
+        "sentence": "The shower stall's reflection in the mirror is more visible, showing the showerhead and the interior.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims increased visibility of the shower stall's reflection, which is not mentioned in the ground truth."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "69138",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 2,
+    "faithful_claims": 0,
+    "hallucination_claims": 2,
+    "errors": [
+      {
+        "sentence": "The addition of a sad face in the red signal area of the traffic light in the modified image.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims a sad face was added to the traffic light, but GT shows the truck's color changed."
+      },
+      {
+        "sentence": "The overall mood of the image has been altered by the addition of the sad face, which is not present in the original image.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims mood change due to sad face, but GT shows the truck's color changed."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "177893",
+    "model": "baseline",
+    "faithfulness_score": 0.67,
+    "total_claims": 3,
+    "faithful_claims": 2,
+    "hallucination_claims": 1,
+    "errors": [
+      {
+        "sentence": "The white text on the bus has been altered to match the new color scheme.",
+        "error_type": "hallucination",
+        "severity": "moderate",
+        "description": "Model claims text color change, but GT only mentions bus color change."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "131444",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 2,
+    "faithful_claims": 0,
+    "hallucination_claims": 2,
+    "errors": [
+      {
+        "sentence": "The person's facial features in the modified image are smoother and show fewer wrinkles and lines, indicating the use of a filter or editing software to reduce signs of aging.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims changes in facial features, but GT shows tie color pattern changed."
+      },
+      {
+        "sentence": "The person's eyes in the modified image have a subtle change in the shape or contour of the eyelids, which could be due to the same filter or editing software used to smooth the face.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims changes in eye shape, but GT shows tie color pattern changed."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "30504",
+    "model": "baseline",
+    "faithfulness_score": 0.5,
+    "total_claims": 2,
+    "faithful_claims": 1,
+    "hallucination_claims": 1,
+    "errors": [
+      {
+        "sentence": "The backpack strap color has been changed from red to purple.",
+        "error_type": "type_category_mismatch",
+        "severity": "minor",
+        "description": "Model claims the strap color changed, but GT indicates the entire backpack color changed."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "87875",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 2,
+    "faithful_claims": 0,
+    "hallucination_claims": 2,
+    "errors": [
+      {
+        "sentence": "The chain is missing from the top cap in the modified image.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims the chain is missing, but GT shows the fire hydrant color changed."
+      },
+      {
+        "sentence": "The top cap of the hydrant in the modified image is tilted.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims the top cap is tilted, but GT shows the fire hydrant color changed."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "106266",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 3,
+    "faithful_claims": 0,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "The bell peppers have been changed from red and yellow to green.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims bell peppers color changed, but GT shows patty color changed."
+      },
+      {
+        "sentence": "The tomatoes have been changed from red to a darker shade of red.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims tomatoes color changed, but GT shows patty color changed."
+      },
+      {
+        "sentence": "The overall color balance of the image has been altered.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims overall color balance changed, but GT shows specific patty color changed."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "206271",
+    "model": "baseline",
+    "faithfulness_score": 0.25,
+    "total_claims": 4,
+    "faithful_claims": 1,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "The urinals have a purple color on the right side.",
+        "error_type": "type_category_mismatch",
+        "severity": "minor",
+        "description": "Model claims both urinals have purple on the right side, but GT shows only the right urinal changed color."
+      },
+      {
+        "sentence": "The pipe above the urinals is purple.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims the pipe above the urinals is purple, but GT does not mention any change to the pipe."
+      },
+      {
+        "sentence": "The bucket below the pipe is purple.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims the bucket is purple, but GT does not mention any change to the bucket."
+      },
+      {
+        "sentence": "The overall color scheme of the modified image is purple, yellow, and green, while the original image has a more neutral color palette.",
+        "error_type": "hallucination",
+        "severity": "minor",
+        "description": "Model claims a change in overall color scheme, but GT only specifies a change in the urinal color."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "101420",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 3,
+    "faithful_claims": 0,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "The cat's position: In the original image, the cat is sitting on the back of the couch, while in the modified image, the cat is sitting on the arm of the couch.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in the cat's position, but the ground truth indicates a removed pillow."
+      },
+      {
+        "sentence": "The cat's orientation: In the original image, the cat is facing to the left, while in the modified image, the cat is facing to the right.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in the cat's orientation, but the ground truth indicates a removed pillow."
+      },
+      {
+        "sentence": "The cat's tail: In the original image, the cat's tail is curled up, while in the modified image, the cat's tail is hanging down.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in the cat's tail position, but the ground truth indicates a removed pillow."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "91921",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 4,
+    "faithful_claims": 0,
+    "hallucination_claims": 4,
+    "errors": [
+      {
+        "sentence": "The zebra on the left in the modified image is now lying down, matching the position of the zebra on the right in the original image.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims positional change of zebra lying down, but GT shows the lying zebra's position slightly changed with tail direction altered."
+      },
+      {
+        "sentence": "The zebra on the right in the modified image has been altered to be standing, which is the opposite of its position in the original image.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims positional change of standing zebra, but GT shows no such change."
+      },
+      {
+        "sentence": "The zebra on the right in the modified image has been flipped horizontally, which is a common technique in image editing to create a mirrored effect.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims horizontal flip of zebra, but GT shows no such change."
+      },
+      {
+        "sentence": "The zebra on the left in the modified image has been flipped horiz",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims horizontal flip of zebra, but GT shows no such change."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "80057",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 3,
+    "faithful_claims": 0,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "The order of the crayons has been altered in the modified image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims change in crayon order, but GT shows removal of a red stick held by the teddy bear."
+      },
+      {
+        "sentence": "The arrangement of the crayons in the modified image does not follow a specific color sequence or pattern.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims change in crayon arrangement, but GT shows removal of a red stick held by the teddy bear."
+      },
+      {
+        "sentence": "The crayons in the modified image are not in the same order as they are",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims change in crayon order, but GT shows removal of a red stick held by the teddy bear."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "90003",
+    "model": "baseline",
+    "faithfulness_score": 0.5,
+    "total_claims": 2,
+    "faithful_claims": 1,
+    "hallucination_claims": 1,
+    "errors": [
+      {
+        "sentence": "The color of the frisbee has been changed from red to blue.",
+        "error_type": "type_category_mismatch",
+        "severity": "minor",
+        "description": "Model claims frisbee color changed from red to blue, but GT shows it changed from red to purple."
+      },
+      {
+        "sentence": "The image on the right is a mirror image of the original image on the left, as indicated by the reversed text and the reversed position of the dog and the frisbee.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims the image is mirrored, but this is not mentioned in the GT."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "140270",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 3,
+    "faithful_claims": 0,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "The horse's tail is missing in the modified image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims the horse's tail is missing, but GT shows the rider's helmet color changed."
+      },
+      {
+        "sentence": "The horse's mane is also missing in the modified image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims the horse's mane is missing, but GT shows the rider's helmet color changed."
+      },
+      {
+        "sentence": "The horse's front legs are straight in the modified image, whereas in the original image, they are bent.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims the horse's leg position changed, but GT shows the rider's helmet color changed."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "179765",
+    "model": "baseline",
+    "faithfulness_score": 0.5,
+    "total_claims": 2,
+    "faithful_claims": 1,
+    "hallucination_claims": 1,
+    "errors": [
+      {
+        "sentence": "The seat may have a different color or pattern.",
+        "error_type": "hallucination",
+        "severity": "minor",
+        "description": "Model claims a change in the seat color or pattern, but this is not present in the ground truth."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "154213",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 3,
+    "faithful_claims": 0,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "The pie crust in the modified image has been cut into a heart shape, whereas in the original image, it is intact and uncut.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims the pie crust was cut into a heart shape, but GT does not mention any change to the pie crust."
+      },
+      {
+        "sentence": "The scissors in the modified image are open and resting on the table, indicating that they were used to cut the pie crust.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims scissors are visible and used to cut the pie crust, but GT states the scissors were removed."
+      },
+      {
+        "sentence": "The position of the scissors in the modified image is different from the original image, as they are now resting on the table rather than being placed on the side of the pie pan.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in the position of the scissors, but GT states the scissors were removed entirely."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "90631",
+    "model": "baseline",
+    "faithfulness_score": 0.5,
+    "total_claims": 4,
+    "faithful_claims": 2,
+    "hallucination_claims": 2,
+    "errors": [
+      {
+        "sentence": "The body of the airplane is now blue, the tail is black, and the nose is white.",
+        "error_type": "type_category_mismatch",
+        "severity": "major",
+        "description": "Model incorrectly identifies the tail as black and the nose as white, whereas the GT specifies the plane is all-blue except for the white nose tip."
+      },
+      {
+        "sentence": "The smoke trail behind the airplane is different in color, appearing more muted in the modified image compared to the bright white in the original image.",
+        "error_type": "hallucination",
+        "severity": "major",
+        "description": "Model claims a change in the smoke trail color, which is not mentioned in the GT."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "51738",
+    "model": "baseline",
+    "faithfulness_score": 0.33,
+    "total_claims": 3,
+    "faithful_claims": 1,
+    "hallucination_claims": 2,
+    "errors": [
+      {
+        "sentence": "The lamp on the nightstand has been replaced with a different lamp.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in the lamp, but no such change is present in the ground truth."
+      },
+      {
+        "sentence": "The suitcase on the floor has been removed.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims the suitcase was removed, but the ground truth does not mention this change."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "168619",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 3,
+    "faithful_claims": 0,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "The path in the modified image has been changed from a straight line to a curved path with a straight section at the end.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims path shape changed, but GT shows bench removed."
+      },
+      {
+        "sentence": "The path in the original image is straight, leading directly to the field.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims path shape changed, but GT shows bench removed."
+      },
+      {
+        "sentence": "The lighting in both images appears to be the same, suggesting that the modification was made digitally rather than physically.",
+        "error_type": "hallucination",
+        "severity": "minor",
+        "description": "Model discusses lighting consistency, which is irrelevant to the GT difference."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "31217",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 4,
+    "faithful_claims": 0,
+    "hallucination_claims": 4,
+    "errors": [
+      {
+        "sentence": "The person's right arm is now holding a tennis racket.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims change in arm position, but GT shows color change in clothing."
+      },
+      {
+        "sentence": "The person's left arm is now holding a tennis ball.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims change in arm position, but GT shows color change in clothing."
+      },
+      {
+        "sentence": "The person's right leg is now in the air.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims change in leg position, but GT shows color change in clothing."
+      },
+      {
+        "sentence": "The person's left leg is now on the ground.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims change in leg position, but GT shows color change in clothing."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "165500",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 4,
+    "faithful_claims": 0,
+    "hallucination_claims": 4,
+    "errors": [
+      {
+        "sentence": "The bear in the foreground on the right side of the image has been removed.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a bear was removed, but GT shows a positional change of the middle bear."
+      },
+      {
+        "sentence": "The bear in the background on the right side of the image has been altered to appear smaller and less detailed, possibly due to a filter or editing technique.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a bear was altered in size and detail, but GT shows a positional change of the middle bear."
+      },
+      {
+        "sentence": "The bear in the background on the left side of the image has been altered to appear larger and more detailed, possibly due to a filter or editing technique.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a bear was altered in size and detail, but GT shows a positional change of the middle bear."
+      },
+      {
+        "sentence": "The overall color balance of the image has been adjusted, giving it a more saturated and vibr",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a color balance change, but GT shows a positional change of the middle bear."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "27972",
+    "model": "baseline",
+    "faithfulness_score": 0.5,
+    "total_claims": 2,
+    "faithful_claims": 1,
+    "hallucination_claims": 1,
+    "errors": [
+      {
+        "sentence": "The image on the right is a mirror image of the original image on the left, as indicated by the reversed text and the mirrored positioning of the surfer and the wave.",
+        "error_type": "hallucination",
+        "severity": "moderate",
+        "description": "Model claims the image is mirrored, but this is not mentioned in the ground truth."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "193429",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 3,
+    "faithful_claims": 0,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "The person's facial expression has been changed in the modified image. The eyes are closed, and the mouth is open in a smile, giving a more relaxed and contented appearance.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims facial expression change, but GT shows snowboard color change."
+      },
+      {
+        "sentence": "The person's eyes are closed in the modified image, while they are open in the original image.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims eyes are closed, but GT shows snowboard color change."
+      },
+      {
+        "sentence": "The person's mouth is open in a smile in the modified image, while it is closed",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims mouth is open, but GT shows snowboard color change."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "26926",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 4,
+    "faithful_claims": 0,
+    "hallucination_claims": 4,
+    "errors": [
+      {
+        "sentence": "The yellow cap on top of the hydrant in the modified image.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims a yellow cap on top of the hydrant, but GT shows the hydrant's color changed from red to bright yellow."
+      },
+      {
+        "sentence": "The face drawn on the yellow cap in the modified image.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims a face drawn on the yellow cap, but GT does not mention any face drawn on the hydrant."
+      },
+      {
+        "sentence": "The black cap on the side of the hydrant in the original image is missing in the modified image.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims the black cap is missing, but GT does not mention any changes to the caps."
+      },
+      {
+        "sentence": "The black cap on the side of the hydrant in the original image has been replaced with a yellow cap in the modified image.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims the black cap is replaced with a yellow cap, but GT does not mention any changes to the caps."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "189451",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 2,
+    "faithful_claims": 0,
+    "hallucination_claims": 2,
+    "errors": [
+      {
+        "sentence": "The frosting on the cake in the modified image is smeared or spread unevenly, which is not present in the original image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims frosting is smeared, but GT shows knife position changed."
+      },
+      {
+        "sentence": "The overall appearance of the cake in the modified image is less neat and more messy due to the smeared frosting.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims cake appearance is messy, but GT shows knife position changed."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "93965",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 2,
+    "faithful_claims": 0,
+    "hallucination_claims": 2,
+    "errors": [
+      {
+        "sentence": "The zebra's stripes are less sharp and more blurred in the modified image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims change in zebra's stripes, but GT shows removal of a zebra."
+      },
+      {
+        "sentence": "The shadow on the ground to the right of the zebra is missing in the modified image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims missing shadow, but GT shows removal of a zebra."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "4795",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 2,
+    "faithful_claims": 0,
+    "hallucination_claims": 2,
+    "errors": [
+      {
+        "sentence": "The cat's fur color in the modified image is lighter than in the original image.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims change in cat's fur color, but GT shows change in laptop screen color."
+      },
+      {
+        "sentence": "The cat's fur color in the original image is darker than in the modified image.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims change in cat's fur color, but GT shows change in laptop screen color."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "161044",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 3,
+    "faithful_claims": 0,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "The sky in the modified image is darker and more dramatic compared to the original image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in sky color and mood, but GT shows an airplane was removed."
+      },
+      {
+        "sentence": "The clouds in the modified image are denser and more dramatic, with darker shades of gray and black.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in cloud density and color, but GT shows an airplane was removed."
+      },
+      {
+        "sentence": "The overall mood of the modified image is more intense and dramatic compared to the original image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in image mood, but GT shows an airplane was removed."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "785",
+    "model": "baseline",
+    "faithfulness_score": 0.5,
+    "total_claims": 2,
+    "faithful_claims": 1,
+    "hallucination_claims": 1,
+    "errors": [
+      {
+        "sentence": "The image on the right is a mirror image of the original image, as indicated by the reversed text and the reversed position of the person and the ski equipment.",
+        "error_type": "hallucination",
+        "severity": "moderate",
+        "description": "Model claims the image is mirrored, but this is not mentioned in the ground truth."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "39956",
+    "model": "baseline",
+    "faithfulness_score": 0.5,
+    "total_claims": 4,
+    "faithful_claims": 2,
+    "hallucination_claims": 2,
+    "errors": [
+      {
+        "sentence": "The room in the modified image is cleaner and more organized compared to the cluttered state in the original image.",
+        "error_type": "hallucination",
+        "severity": "moderate",
+        "description": "Model claims the room is cleaner and more organized, but this is not part of the ground truth differences."
+      },
+      {
+        "sentence": "The cardboard box and the bag have been removed from the room in the modified image.",
+        "error_type": "hallucination",
+        "severity": "moderate",
+        "description": "Model claims items were removed, but this is not part of the ground truth differences."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "14888",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 3,
+    "faithful_claims": 0,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "The red caps on the white containers have been removed in the modified image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims changes to containers, but GT shows removal of cow's leg."
+      },
+      {
+        "sentence": "The containers have been replaced with yellow and black objects.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims replacement of containers, but GT shows removal of cow's leg."
+      },
+      {
+        "sentence": "The yellow and black objects have a different shape and design compared to the red and white containers.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims change in object design, but GT shows removal of cow's leg."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "126110",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 3,
+    "faithful_claims": 0,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "The person's face in the right image has been replaced with a white, fluffy object that resembles a dog.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims a change in the person inside the truck, but GT shows a color change in the truck."
+      },
+      {
+        "sentence": "The dog's face is superimposed onto the person's face, creating a humorous and surreal effect.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims a change in the person inside the truck, but GT shows a color change in the truck."
+      },
+      {
+        "sentence": "The person's face in the right image is not visible, as it has been replaced with the dog's face.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims a change in the person inside the truck, but GT shows a color change in the truck."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "181859",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 3,
+    "faithful_claims": 0,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "The cat's body shape in the modified image is significantly different from the original image.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims the cat's body shape was altered, but GT shows the cat was removed and replaced by a rock-like object."
+      },
+      {
+        "sentence": "The cat's body has been altered to be round and flattened, which is not a natural shape for a cat.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims the cat's body was altered, but GT shows the cat was removed and replaced by a rock-like object."
+      },
+      {
+        "sentence": "The cat's fur pattern in the modified image is less detailed and less realistic compared to the original image.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims the cat's fur pattern was altered, but GT shows the cat was removed and replaced by a rock-like object."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "13201",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 2,
+    "faithful_claims": 0,
+    "hallucination_claims": 2,
+    "errors": [
+      {
+        "sentence": "The skateboarder's arms are in a different position. In the original image, the arms are outstretched, while in the modified image, they are bent at the elbows.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims a change in the skateboarder's arm position, but GT shows skateboard color changed."
+      },
+      {
+        "sentence": "The skateboard is not flipped upside down.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims a change in the skateboard's orientation, but GT shows skateboard color changed."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "205776",
+    "model": "baseline",
+    "faithfulness_score": 0.8,
+    "total_claims": 5,
+    "faithful_claims": 4,
+    "hallucination_claims": 1,
+    "errors": [
+      {
+        "sentence": "The bear's head in the right image is red, while in the left image it is brown.",
+        "error_type": "repetition",
+        "severity": "minor",
+        "description": "The claim is repeated multiple times, but it is consistent with the ground truth."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "129135",
+    "model": "baseline",
+    "faithfulness_score": 0.33,
+    "total_claims": 3,
+    "faithful_claims": 1,
+    "hallucination_claims": 2,
+    "errors": [
+      {
+        "sentence": "The color of the bench on the platform has been changed from a darker green to a lighter green.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims the bench color changed from darker green to lighter green, but GT shows it changed from brown to green."
+      },
+      {
+        "sentence": "The lighting in the modified image seems slightly different, with a more pronounced shadow on the platform, suggesting a different time of day or a different angle of the sunlight.",
+        "error_type": "hallucination",
+        "severity": "minor",
+        "description": "Model claims a change in lighting and shadows, which is not mentioned in the GT."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "95069",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 3,
+    "faithful_claims": 0,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "The sky in the modified image is clear and blue, while in the original image, it is overcast.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in sky color, but GT shows clock face removed."
+      },
+      {
+        "sentence": "The lighting in the modified image is brighter and more even, compared to the softer,",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in lighting, but GT shows clock face removed."
+      },
+      {
+        "sentence": "The colors in the modified image are more vibrant and saturated, particularly in the sky and the building's facade.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in color saturation, but GT shows clock face removed."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "155443",
+    "model": "baseline",
+    "faithfulness_score": 0.4,
+    "total_claims": 5,
+    "faithful_claims": 2,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "The front of the train in the modified image is green, while in the original image, it is yellow.",
+        "error_type": "faithful",
+        "severity": "none",
+        "description": "Correctly identifies the color change of the train."
+      },
+      {
+        "sentence": "The lighting in the modified image seems to be slightly different, with a more dramatic contrast between the light and shadow areas.",
+        "error_type": "hallucination",
+        "severity": "minor",
+        "description": "No ground truth information about lighting changes."
+      },
+      {
+        "sentence": "There is a slight difference in the color of the sky, which appears to be a bit darker in the modified image.",
+        "error_type": "hallucination",
+        "severity": "minor",
+        "description": "No ground truth information about sky color changes."
+      },
+      {
+        "sentence": "The people on the platform in the modified image are slightly different in appearance, possibly",
+        "error_type": "hallucination",
+        "severity": "minor",
+        "description": "No ground truth information about changes in people on the platform."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "177383",
+    "model": "baseline",
+    "faithfulness_score": 0.6,
+    "total_claims": 5,
+    "faithful_claims": 3,
+    "hallucination_claims": 2,
+    "errors": [
+      {
+        "sentence": "In the original image (left), there is a train with a yellow front and a blue front.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model incorrectly describes the original image as having both a yellow and blue front, which is not supported by the ground truth."
+      },
+      {
+        "sentence": "The yellow front in the original image has been removed in the modified image, resulting in a uniformly blue train.",
+        "error_type": "hallucination",
+        "severity": "minor",
+        "description": "Model implies the entire train was yellow in the original image, which is not supported by the ground truth."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "186282",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 4,
+    "faithful_claims": 0,
+    "hallucination_claims": 4,
+    "errors": [
+      {
+        "sentence": "The wallpaper on the monitor is different.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims wallpaper change, but GT shows mouse color change."
+      },
+      {
+        "sentence": "The position of the keyboard and mouse has changed.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims position change, but GT shows mouse color change."
+      },
+      {
+        "sentence": "The smartphone's position has changed.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims smartphone position change, but GT shows mouse color change."
+      },
+      {
+        "sentence": "The aquarium is missing from the desk.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims aquarium removal, but GT shows mouse color change."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "116589",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 1,
+    "faithful_claims": 0,
+    "hallucination_claims": 1,
+    "errors": [
+      {
+        "sentence": "The tail of the zebra is missing in the right image.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims the zebra's tail is missing, but GT indicates a positional change of the zebra."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "4395",
+    "model": "baseline",
+    "faithfulness_score": 0.5,
+    "total_claims": 2,
+    "faithful_claims": 1,
+    "hallucination_claims": 1,
+    "errors": [
+      {
+        "sentence": "The tie design in the modified image is the reverse of the original tie design.",
+        "error_type": "type_category_mismatch",
+        "severity": "moderate",
+        "description": "Model claims the tie design is reversed, but GT indicates a color change from dark with light diagonal stripes to dark blue with purple diagonal stripes."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "70158",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 3,
+    "faithful_claims": 0,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "The zebra on the left has a darker stripe pattern compared to the other two zebras.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in stripe pattern darkness, but GT shows a position change with a blurry area on the zebra's hindquarters."
+      },
+      {
+        "sentence": "The zebra on the right has a lighter stripe pattern compared to the other two zebras.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in stripe pattern lightness, but GT shows a position change with a blurry area on the zebra's hindquarters."
+      },
+      {
+        "sentence": "The zebra in the middle has a stripe pattern that is a blend of the darker and lighter patterns seen on the other two zebras.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a blend of stripe patterns, but GT shows a position change with a blurry area on the zebra's hindquarters."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "121591",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 3,
+    "faithful_claims": 0,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "The graffiti design on the wall has been changed in the modified image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims graffiti design changed, but GT shows handrail removed."
+      },
+      {
+        "sentence": "The text on the wall is partially obscured in the modified image, whereas it is more visible in the original image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims text visibility changed, but GT shows handrail removed."
+      },
+      {
+        "sentence": "The background behind",
+        "error_type": "incomplete_claim",
+        "severity": "critical",
+        "description": "Model's claim is incomplete and does not specify a difference."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "30675",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 1,
+    "faithful_claims": 0,
+    "hallucination_claims": 1,
+    "errors": [
+      {
+        "sentence": "The train's engine in the modified image has a different number '6008' and the letters 'BNSF' are also present.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims a change in the train's number, but GT shows a color change in the train."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "137294",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 5,
+    "faithful_claims": 0,
+    "hallucination_claims": 5,
+    "errors": [
+      {
+        "sentence": "The person's hand is now inside the machine, which is not the case in the original image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in hand position, but GT indicates a person was removed."
+      },
+      {
+        "sentence": "The position of the person's hand has changed, indicating a different interaction with the machine.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in hand position, but GT indicates a person was removed."
+      },
+      {
+        "sentence": "The image on the right appears to be a still from a video, as indicated by the play button overlay.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a play button overlay, but GT does not mention this."
+      },
+      {
+        "sentence": "The image on the right has a lower resolution and is slightly blurred compared to the original image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in resolution and blurriness, but GT does not mention this."
+      },
+      {
+        "sentence": "The image on the right has a watermark or logo in the bottom right corner.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a watermark or logo, but GT does not mention this."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "124442",
+    "model": "baseline",
+    "faithfulness_score": 0.67,
+    "total_claims": 3,
+    "faithful_claims": 2,
+    "hallucination_claims": 1,
+    "errors": [
+      {
+        "sentence": "The image on the right is a mirror image of the original image, as indicated by the reversed text",
+        "error_type": "hallucination",
+        "severity": "moderate",
+        "description": "Model claims the image is mirrored, but this is not mentioned in the ground truth."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "77595",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 3,
+    "faithful_claims": 0,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "The cat's position has changed: it is now lying on its back in the modified image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims the cat's position changed, but GT does not mention any change in the cat's position."
+      },
+      {
+        "sentence": "The cat's expression has changed: it appears more relaxed in the modified image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims the cat's expression changed, but GT does not mention any change in the cat's expression."
+      },
+      {
+        "sentence": "The laptop screen text is reversed in the modified image, indicating that the image has been flipped horizontally.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims the laptop screen text is reversed, but GT does not mention any change in the text or image orientation."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "196009",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 2,
+    "faithful_claims": 0,
+    "hallucination_claims": 2,
+    "errors": [
+      {
+        "sentence": "The carrot on the right in the modified image has been cut in half widthwise, while the carrot on the left in the original image has been cut in half lengthwise.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims changes in the way carrots are cut, but GT shows removal of a carrot."
+      },
+      {
+        "sentence": "The carrots in the modified image have a smoother surface and more pronounced lines on the skin, giving them a more textured look.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims changes in carrot texture, but GT shows removal of a carrot."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "157138",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 2,
+    "faithful_claims": 0,
+    "hallucination_claims": 2,
+    "errors": [
+      {
+        "sentence": "The plate in the modified image has a crack or a break in it, which is not present in the original image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a crack or break in the plate, but GT does not mention this change."
+      },
+      {
+        "sentence": "The position of the fork may be slightly different in the modified image, but this is not a significant change.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims a positional change of the fork, but GT indicates the fork was removed entirely."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "129113",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 2,
+    "faithful_claims": 0,
+    "hallucination_claims": 2,
+    "errors": [
+      {
+        "sentence": "The number of spoons: There is one spoon in the original image and two spoons in the modified image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in the number of spoons, but the ground truth indicates a color change in the spoon."
+      },
+      {
+        "sentence": "The arrangement of the spoons: In the original image, the spoon is alone, while in the modified image, the two spoons are placed next to each other.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in the arrangement of spoons, but the ground truth indicates a color change in the spoon."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "55299",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 3,
+    "faithful_claims": 0,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "The sky in the modified image is more dramatic with darker clouds and a more intense blue color.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims change in sky, but GT shows removal of an umbrella."
+      },
+      {
+        "sentence": "The overall mood of the image in the modified version is more intense and stormy compared to the original image, which has a clearer sky.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims change in mood due to sky, but GT shows removal of an umbrella."
+      },
+      {
+        "sentence": "The colors in the modified image may be more saturated, giving the scene a more vibrant and dramatic appearance.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims change in color saturation, but GT shows removal of an umbrella."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "108864",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 2,
+    "faithful_claims": 0,
+    "hallucination_claims": 2,
+    "errors": [
+      {
+        "sentence": "The elephant on the right has a shorter trunk in the modified image compared to the original image.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims the trunk length changed, but GT shows the trunk's action changed (spraying water/vegetation)."
+      },
+      {
+        "sentence": "The elephant on the right has a smaller trunk in the modified image compared to the original image.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims the trunk size changed, but GT shows the trunk's action changed (spraying water/vegetation)."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "199681",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 1,
+    "faithful_claims": 0,
+    "hallucination_claims": 1,
+    "errors": [
+      {
+        "sentence": "The time displayed on the digital display has been changed from \"2:46\" to \"2:46\" in the modified image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in the digital display time, but the time remains the same in both images."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "109916",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 3,
+    "faithful_claims": 0,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "The cake on the left in the modified image is lighter in color compared to the original image.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims color change in the left cake, but GT shows color change in the top pan's baked item."
+      },
+      {
+        "sentence": "The cake on the right in the modified image is darker in color compared to the original image.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims color change in the right cake, but GT shows color change in the top pan's baked item."
+      },
+      {
+        "sentence": "The color of the cakes has been inverted between the two images.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims color inversion of cakes, but GT shows color change in the top pan's baked item."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "133418",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 3,
+    "faithful_claims": 0,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "The player's facial expression has changed.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims facial expression changed, but GT shows tennis racket color changed."
+      },
+      {
+        "sentence": "The player's posture has been altered.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims posture changed, but GT shows tennis racket color changed."
+      },
+      {
+        "sentence": "The player's racket is held differently.",
+        "error_type": "type_category_mismatch",
+        "severity": "critical",
+        "description": "Model claims racket position changed, but GT shows tennis racket color changed."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "79031",
+    "model": "baseline",
+    "faithfulness_score": 0.2,
+    "total_claims": 5,
+    "faithful_claims": 1,
+    "hallucination_claims": 4,
+    "errors": [
+      {
+        "sentence": "The surfboard in the modified image has a different design or pattern on it, which is not visible in the original image.",
+        "error_type": "hallucination",
+        "severity": "moderate",
+        "description": "Model claims a design or pattern change, but GT only mentions color change."
+      },
+      {
+        "sentence": "The surfboard in the modified image has a different logo or branding on it, which is not visible in the original image.",
+        "error_type": "hallucination",
+        "severity": "moderate",
+        "description": "Model claims a logo or branding change, but GT only mentions color change."
+      },
+      {
+        "sentence": "The surfboard in the modified image has a different shape or contour, which is not visible in the original image.",
+        "error_type": "hallucination",
+        "severity": "moderate",
+        "description": "Model claims a shape or contour change, but GT only mentions color change."
+      },
+      {
+        "sentence": "The su",
+        "error_type": "incomplete",
+        "severity": "low",
+        "description": "Model's claim is incomplete and does not provide a clear difference."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "22396",
+    "model": "baseline",
+    "faithfulness_score": 0.0,
+    "total_claims": 3,
+    "faithful_claims": 0,
+    "hallucination_claims": 3,
+    "errors": [
+      {
+        "sentence": "The direction of flight for the airplanes is different in the modified image.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in the direction of flight, but GT specifies a color change on the airplane's tail."
+      },
+      {
+        "sentence": "The moon in the modified image has a more prominent crater visible on its surface.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model claims a change in the moon's appearance, but GT specifies a color change on the airplane's tail."
+      },
+      {
+        "sentence": "The overall appearance of the airplanes and the moon may have subtle variations in color or brightness, but these are not significant differences.",
+        "error_type": "hallucination",
+        "severity": "critical",
+        "description": "Model suggests subtle variations in color or brightness, but GT specifies a specific color change on the airplane's tail."
+      }
+    ],
+    "n_differences": 1
+  },
+  {
+    "image_id": "42889",
+    "model": "baseline",
+    "faithfulness_score": 0.67,
+    "total_claims": 3,
+    "faithful_claims": 2,
+    "hallucination_claims": 1,
+    "errors": [
+      {
+        "sentence": "The bear's color has been altered, but all other elements in the image, such as the glasses, headset, keyboard, and mouse, remain the same.",
+        "error_type": "hallucination",
+        "severity": "minor",
+        "description": "Model mentions a mouse, which is not present in the ground truth description."
+      }
+    ],
+    "n_differences": 1
+  }
+]

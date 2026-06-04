@@ -1,0 +1,10 @@
+{
+  "n_samples": 100,
+  "alpha": 0.05,
+  "spearman_r": 0.6614,
+  "spearman_p": 0.0,
+  "pearson_r": 0.6649,
+  "pearson_p": 0.0,
+  "v1_spearman": 0.3007,
+  "improvement": 0.3607
+}

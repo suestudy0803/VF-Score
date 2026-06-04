@@ -1,0 +1,18 @@
+{
+  "n_samples": 447,
+  "aAcc (per question)": {
+    "baseline": 0.5906,
+    "finetuned": 0.5928,
+    "improvement": 0.0022
+  },
+  "fAcc (per figure)": {
+    "baseline": 0.1132,
+    "finetuned": 0.1509,
+    "improvement": 0.0377
+  },
+  "qAcc (per question pair)": {
+    "baseline": 0.1132,
+    "finetuned": 0.1509,
+    "improvement": 0.0377
+  }
+}
