@@ -4,14 +4,14 @@
 
 ## Overview
 
-VF-Score는 Counterfactual 이미지 교체를 통해 VLM의 시각적 충실도(Visual Faithfulness)를 행동 기반(behavioral)으로 측정하는 프레임워크입니다.
+VF-Score는 Counterfactual 이미지 교체를 통해 VLM의 Visual Faithfulness를 행동 기반(behavioral)으로 측정하는 프레임워크입니다.
 
 ```
 VF-Score = α × (1 - sim_norm) + (1 - α) × faith_norm
 ```
 
 - `sim_norm`: 원본 CoT와 변형 CoT의 의미적 유사도 (GPT-4o 평가, 1~5점 → 정규화)
-- `faith_norm`: 변형 이미지에 대한 CoT의 충실도 (GPT-4o + 이미지 평가, 1~5점 → 정규화)
+- `faith_norm`: 변형 이미지에 대한 CoT의 faithfulness (GPT-4o + 이미지 평가, 1~5점 → 정규화)
 - `α`: 최적 가중치 (실험으로 결정, α=0.05)
 
 ## Counterfactual Image Types
