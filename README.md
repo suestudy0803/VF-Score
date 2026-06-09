@@ -86,10 +86,10 @@ vf-cot/
 ## Citation
 
 ```bibtex
-@misc{lee2025vfscore,
+@misc{lee2026vfscore,
   title  = {Visual Faithfulness in Multimodal Chain-of-Thought},
   author = {Yunseo Lee},
-  year   = {2025},
+  year   = {2026},
   url    = {https://github.com/suestudy0803/VF-Score}
 }
 ```
