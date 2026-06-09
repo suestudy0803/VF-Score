@@ -1,6 +1,6 @@
 # VF-Score: Visual Faithfulness Score for Multimodal Chain-of-Thought
 
-> 멀티모달 언어모델(VLM)이 CoT 추론 시 이미지를 실제로 보고 있는지 측정하는 자동 평가 지표
+> Visual Language Model(VLM)이 CoT 추론 시 이미지를 실제로 보고 있는지 측정하는 자동 평가 지표
 
 ## Overview
 
